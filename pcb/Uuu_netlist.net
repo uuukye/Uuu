@@ -1,0 +1,10028 @@
+PROTEL NETLIST 2.0
+[
+DESIGNATOR
+U1
+FOOTPRINT
+COMM-TH_COLOREASYPICO2-RP2350
+PARTTYPE
+ColorEasyPico2-RP2350
+DESCRIPTION
+
+Component Kind
+Standard
+LCSC Part Name
+立创·ColorEasyPico2开发板
+Supplier Part
+C42924268
+Manufacturer
+立创开发板
+Manufacturer Part
+ColorEasyPico2-RP2350
+Supplier Footprint
+-
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://item.szlcsc.com/datasheet/ColorEasyPico2-RP2350/45024583.html
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+COMM-TH_COLOREASYPICO2-RP2350
+Description
+
+Symbol
+COLOREASYPICO2-RP2350
+Designator
+U1
+Name
+ColorEasyPico2-RP2350
+Device
+ColorEasyPico2-RP2350
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge1
+
+*
+]
+[
+DESIGNATOR
+SW1
+FOOTPRINT
+KEY-SMD_4P-L6.0-W6.0-P3.90-LS9.0
+PARTTYPE
+TS-1095PS-A1B2-C3D2
+DESCRIPTION
+Circuit:SPST Actuator Style:Round Button Operating Force:1.8N Mounting Type:Surface Mount,Vertical Length:6mm Width:6mm Switch Height:4.3mm with Bracket:Without Bracket Actuator/Cap Color:Black Termination Style:Gull Wing Life:-
+Component Kind
+Standard
+Supplier
+LCSC
+Supplier Part
+C2834918
+Manufacturer
+Yuandi(元迪)
+Manufacturer Part
+TS-1095PS-A1B2-C3D2
+JLCPCB Part Class
+Extended Part
+LCSC Part Name
+6*6*4.3mm 立贴 轻触开关
+Supplier Footprint
+SMD-4P,6x6mm
+Datasheet
+https://item.szlcsc.com/datasheet/TS-1095PS-A1B2-C3D2/2997598.html
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+KEY-SMD_4P-L6.0-W6.0-H8.0-P3.90-LS9.0
+Circuit
+SPST
+Actuator Style
+Round Button
+Operating Force
+1.8N
+Mounting Type
+Surface Mount,Vertical
+Length
+6mm
+Width
+6mm
+Switch Height
+4.3mm
+with Bracket
+Without Bracket
+Actuator/Cap Color
+Black
+Termination Style
+Gull Wing
+Life
+-
+Description
+Circuit:SPST Actuator Style:Round Button Operating Force:1.8N Mounting Type:Surface Mount,Vertical Length:6mm Width:6mm Switch Height:4.3mm with Bracket:Without Bracket Actuator/Cap Color:Black Termination Style:Gull Wing Life:-
+Symbol
+TS-1095PS-A1B2-C3D2
+Designator
+SW1
+Name
+TS-1095PS-A1B2-C3D2
+Device
+TS-1095PS-A1B2-C3D2
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge2
+
+*
+]
+[
+DESIGNATOR
+SW2
+FOOTPRINT
+KEY-SMD_4P-L6.0-W6.0-P3.90-LS9.0
+PARTTYPE
+TS-1095PS-A1B2-C3D2
+DESCRIPTION
+Circuit:SPST Actuator Style:Round Button Operating Force:1.8N Mounting Type:Surface Mount,Vertical Length:6mm Width:6mm Switch Height:4.3mm with Bracket:Without Bracket Actuator/Cap Color:Black Termination Style:Gull Wing Life:-
+Component Kind
+Standard
+Supplier
+LCSC
+Supplier Part
+C2834918
+Manufacturer
+Yuandi(元迪)
+Manufacturer Part
+TS-1095PS-A1B2-C3D2
+JLCPCB Part Class
+Extended Part
+LCSC Part Name
+6*6*4.3mm 立贴 轻触开关
+Supplier Footprint
+SMD-4P,6x6mm
+Datasheet
+https://item.szlcsc.com/datasheet/TS-1095PS-A1B2-C3D2/2997598.html
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+KEY-SMD_4P-L6.0-W6.0-H8.0-P3.90-LS9.0
+Circuit
+SPST
+Actuator Style
+Round Button
+Operating Force
+1.8N
+Mounting Type
+Surface Mount,Vertical
+Length
+6mm
+Width
+6mm
+Switch Height
+4.3mm
+with Bracket
+Without Bracket
+Actuator/Cap Color
+Black
+Termination Style
+Gull Wing
+Life
+-
+Description
+Circuit:SPST Actuator Style:Round Button Operating Force:1.8N Mounting Type:Surface Mount,Vertical Length:6mm Width:6mm Switch Height:4.3mm with Bracket:Without Bracket Actuator/Cap Color:Black Termination Style:Gull Wing Life:-
+Symbol
+TS-1095PS-A1B2-C3D2
+Designator
+SW2
+Name
+TS-1095PS-A1B2-C3D2
+Device
+TS-1095PS-A1B2-C3D2
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge3
+
+*
+]
+[
+DESIGNATOR
+SW3
+FOOTPRINT
+KEY-SMD_4P-L6.0-W6.0-P3.90-LS9.0
+PARTTYPE
+TS-1095PS-A1B2-C3D2
+DESCRIPTION
+Circuit:SPST Actuator Style:Round Button Operating Force:1.8N Mounting Type:Surface Mount,Vertical Length:6mm Width:6mm Switch Height:4.3mm with Bracket:Without Bracket Actuator/Cap Color:Black Termination Style:Gull Wing Life:-
+Component Kind
+Standard
+Supplier
+LCSC
+Supplier Part
+C2834918
+Manufacturer
+Yuandi(元迪)
+Manufacturer Part
+TS-1095PS-A1B2-C3D2
+JLCPCB Part Class
+Extended Part
+LCSC Part Name
+6*6*4.3mm 立贴 轻触开关
+Supplier Footprint
+SMD-4P,6x6mm
+Datasheet
+https://item.szlcsc.com/datasheet/TS-1095PS-A1B2-C3D2/2997598.html
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+KEY-SMD_4P-L6.0-W6.0-H8.0-P3.90-LS9.0
+Circuit
+SPST
+Actuator Style
+Round Button
+Operating Force
+1.8N
+Mounting Type
+Surface Mount,Vertical
+Length
+6mm
+Width
+6mm
+Switch Height
+4.3mm
+with Bracket
+Without Bracket
+Actuator/Cap Color
+Black
+Termination Style
+Gull Wing
+Life
+-
+Description
+Circuit:SPST Actuator Style:Round Button Operating Force:1.8N Mounting Type:Surface Mount,Vertical Length:6mm Width:6mm Switch Height:4.3mm with Bracket:Without Bracket Actuator/Cap Color:Black Termination Style:Gull Wing Life:-
+Symbol
+TS-1095PS-A1B2-C3D2
+Designator
+SW3
+Name
+TS-1095PS-A1B2-C3D2
+Device
+TS-1095PS-A1B2-C3D2
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge4
+
+*
+]
+[
+DESIGNATOR
+SW4
+FOOTPRINT
+KEY-SMD_4P-L6.0-W6.0-P3.90-LS9.0
+PARTTYPE
+TS-1095PS-A1B2-C3D2
+DESCRIPTION
+Circuit:SPST Actuator Style:Round Button Operating Force:1.8N Mounting Type:Surface Mount,Vertical Length:6mm Width:6mm Switch Height:4.3mm with Bracket:Without Bracket Actuator/Cap Color:Black Termination Style:Gull Wing Life:-
+Component Kind
+Standard
+Supplier
+LCSC
+Supplier Part
+C2834918
+Manufacturer
+Yuandi(元迪)
+Manufacturer Part
+TS-1095PS-A1B2-C3D2
+JLCPCB Part Class
+Extended Part
+LCSC Part Name
+6*6*4.3mm 立贴 轻触开关
+Supplier Footprint
+SMD-4P,6x6mm
+Datasheet
+https://item.szlcsc.com/datasheet/TS-1095PS-A1B2-C3D2/2997598.html
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+KEY-SMD_4P-L6.0-W6.0-H8.0-P3.90-LS9.0
+Circuit
+SPST
+Actuator Style
+Round Button
+Operating Force
+1.8N
+Mounting Type
+Surface Mount,Vertical
+Length
+6mm
+Width
+6mm
+Switch Height
+4.3mm
+with Bracket
+Without Bracket
+Actuator/Cap Color
+Black
+Termination Style
+Gull Wing
+Life
+-
+Description
+Circuit:SPST Actuator Style:Round Button Operating Force:1.8N Mounting Type:Surface Mount,Vertical Length:6mm Width:6mm Switch Height:4.3mm with Bracket:Without Bracket Actuator/Cap Color:Black Termination Style:Gull Wing Life:-
+Symbol
+TS-1095PS-A1B2-C3D2
+Designator
+SW4
+Name
+TS-1095PS-A1B2-C3D2
+Device
+TS-1095PS-A1B2-C3D2
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge5
+
+*
+]
+[
+DESIGNATOR
+SW5
+FOOTPRINT
+KEY-SMD_4P-L6.0-W6.0-P3.90-LS9.0
+PARTTYPE
+TS-1095PS-A1B2-C3D2
+DESCRIPTION
+Circuit:SPST Actuator Style:Round Button Operating Force:1.8N Mounting Type:Surface Mount,Vertical Length:6mm Width:6mm Switch Height:4.3mm with Bracket:Without Bracket Actuator/Cap Color:Black Termination Style:Gull Wing Life:-
+Component Kind
+Standard
+Supplier
+LCSC
+Supplier Part
+C2834918
+Manufacturer
+Yuandi(元迪)
+Manufacturer Part
+TS-1095PS-A1B2-C3D2
+JLCPCB Part Class
+Extended Part
+LCSC Part Name
+6*6*4.3mm 立贴 轻触开关
+Supplier Footprint
+SMD-4P,6x6mm
+Datasheet
+https://item.szlcsc.com/datasheet/TS-1095PS-A1B2-C3D2/2997598.html
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+KEY-SMD_4P-L6.0-W6.0-H8.0-P3.90-LS9.0
+Circuit
+SPST
+Actuator Style
+Round Button
+Operating Force
+1.8N
+Mounting Type
+Surface Mount,Vertical
+Length
+6mm
+Width
+6mm
+Switch Height
+4.3mm
+with Bracket
+Without Bracket
+Actuator/Cap Color
+Black
+Termination Style
+Gull Wing
+Life
+-
+Description
+Circuit:SPST Actuator Style:Round Button Operating Force:1.8N Mounting Type:Surface Mount,Vertical Length:6mm Width:6mm Switch Height:4.3mm with Bracket:Without Bracket Actuator/Cap Color:Black Termination Style:Gull Wing Life:-
+Symbol
+TS-1095PS-A1B2-C3D2
+Designator
+SW5
+Name
+TS-1095PS-A1B2-C3D2
+Device
+TS-1095PS-A1B2-C3D2
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge6
+
+*
+]
+[
+DESIGNATOR
+SW6
+FOOTPRINT
+KEY-SMD_4P-L6.0-W6.0-P3.90-LS9.0
+PARTTYPE
+TS-1095PS-A1B2-C3D2
+DESCRIPTION
+Circuit:SPST Actuator Style:Round Button Operating Force:1.8N Mounting Type:Surface Mount,Vertical Length:6mm Width:6mm Switch Height:4.3mm with Bracket:Without Bracket Actuator/Cap Color:Black Termination Style:Gull Wing Life:-
+Component Kind
+Standard
+Supplier
+LCSC
+Supplier Part
+C2834918
+Manufacturer
+Yuandi(元迪)
+Manufacturer Part
+TS-1095PS-A1B2-C3D2
+JLCPCB Part Class
+Extended Part
+LCSC Part Name
+6*6*4.3mm 立贴 轻触开关
+Supplier Footprint
+SMD-4P,6x6mm
+Datasheet
+https://item.szlcsc.com/datasheet/TS-1095PS-A1B2-C3D2/2997598.html
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+KEY-SMD_4P-L6.0-W6.0-H8.0-P3.90-LS9.0
+Circuit
+SPST
+Actuator Style
+Round Button
+Operating Force
+1.8N
+Mounting Type
+Surface Mount,Vertical
+Length
+6mm
+Width
+6mm
+Switch Height
+4.3mm
+with Bracket
+Without Bracket
+Actuator/Cap Color
+Black
+Termination Style
+Gull Wing
+Life
+-
+Description
+Circuit:SPST Actuator Style:Round Button Operating Force:1.8N Mounting Type:Surface Mount,Vertical Length:6mm Width:6mm Switch Height:4.3mm with Bracket:Without Bracket Actuator/Cap Color:Black Termination Style:Gull Wing Life:-
+Symbol
+TS-1095PS-A1B2-C3D2
+Designator
+SW6
+Name
+TS-1095PS-A1B2-C3D2
+Device
+TS-1095PS-A1B2-C3D2
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge7
+
+*
+]
+[
+DESIGNATOR
+SW12
+FOOTPRINT
+KEY-SMD_4P-L6.0-W6.0-P3.90-LS9.0
+PARTTYPE
+TS-1095PS-A1B2-C3D2
+DESCRIPTION
+Circuit:SPST Actuator Style:Round Button Operating Force:1.8N Mounting Type:Surface Mount,Vertical Length:6mm Width:6mm Switch Height:4.3mm with Bracket:Without Bracket Actuator/Cap Color:Black Termination Style:Gull Wing Life:-
+Component Kind
+Standard
+Supplier
+LCSC
+Supplier Part
+C2834918
+Manufacturer
+Yuandi(元迪)
+Manufacturer Part
+TS-1095PS-A1B2-C3D2
+JLCPCB Part Class
+Extended Part
+LCSC Part Name
+6*6*4.3mm 立贴 轻触开关
+Supplier Footprint
+SMD-4P,6x6mm
+Datasheet
+https://item.szlcsc.com/datasheet/TS-1095PS-A1B2-C3D2/2997598.html
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+KEY-SMD_4P-L6.0-W6.0-H8.0-P3.90-LS9.0
+Circuit
+SPST
+Actuator Style
+Round Button
+Operating Force
+1.8N
+Mounting Type
+Surface Mount,Vertical
+Length
+6mm
+Width
+6mm
+Switch Height
+4.3mm
+with Bracket
+Without Bracket
+Actuator/Cap Color
+Black
+Termination Style
+Gull Wing
+Life
+-
+Description
+Circuit:SPST Actuator Style:Round Button Operating Force:1.8N Mounting Type:Surface Mount,Vertical Length:6mm Width:6mm Switch Height:4.3mm with Bracket:Without Bracket Actuator/Cap Color:Black Termination Style:Gull Wing Life:-
+Symbol
+TS-1095PS-A1B2-C3D2
+Designator
+SW12
+Name
+TS-1095PS-A1B2-C3D2
+Device
+TS-1095PS-A1B2-C3D2
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge8
+
+*
+]
+[
+DESIGNATOR
+SW11
+FOOTPRINT
+KEY-SMD_4P-L6.0-W6.0-P3.90-LS9.0
+PARTTYPE
+TS-1095PS-A1B2-C3D2
+DESCRIPTION
+Circuit:SPST Actuator Style:Round Button Operating Force:1.8N Mounting Type:Surface Mount,Vertical Length:6mm Width:6mm Switch Height:4.3mm with Bracket:Without Bracket Actuator/Cap Color:Black Termination Style:Gull Wing Life:-
+Component Kind
+Standard
+Supplier
+LCSC
+Supplier Part
+C2834918
+Manufacturer
+Yuandi(元迪)
+Manufacturer Part
+TS-1095PS-A1B2-C3D2
+JLCPCB Part Class
+Extended Part
+LCSC Part Name
+6*6*4.3mm 立贴 轻触开关
+Supplier Footprint
+SMD-4P,6x6mm
+Datasheet
+https://item.szlcsc.com/datasheet/TS-1095PS-A1B2-C3D2/2997598.html
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+KEY-SMD_4P-L6.0-W6.0-H8.0-P3.90-LS9.0
+Circuit
+SPST
+Actuator Style
+Round Button
+Operating Force
+1.8N
+Mounting Type
+Surface Mount,Vertical
+Length
+6mm
+Width
+6mm
+Switch Height
+4.3mm
+with Bracket
+Without Bracket
+Actuator/Cap Color
+Black
+Termination Style
+Gull Wing
+Life
+-
+Description
+Circuit:SPST Actuator Style:Round Button Operating Force:1.8N Mounting Type:Surface Mount,Vertical Length:6mm Width:6mm Switch Height:4.3mm with Bracket:Without Bracket Actuator/Cap Color:Black Termination Style:Gull Wing Life:-
+Symbol
+TS-1095PS-A1B2-C3D2
+Designator
+SW11
+Name
+TS-1095PS-A1B2-C3D2
+Device
+TS-1095PS-A1B2-C3D2
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge9
+
+*
+]
+[
+DESIGNATOR
+SW10
+FOOTPRINT
+KEY-SMD_4P-L6.0-W6.0-P3.90-LS9.0
+PARTTYPE
+TS-1095PS-A1B2-C3D2
+DESCRIPTION
+Circuit:SPST Actuator Style:Round Button Operating Force:1.8N Mounting Type:Surface Mount,Vertical Length:6mm Width:6mm Switch Height:4.3mm with Bracket:Without Bracket Actuator/Cap Color:Black Termination Style:Gull Wing Life:-
+Component Kind
+Standard
+Supplier
+LCSC
+Supplier Part
+C2834918
+Manufacturer
+Yuandi(元迪)
+Manufacturer Part
+TS-1095PS-A1B2-C3D2
+JLCPCB Part Class
+Extended Part
+LCSC Part Name
+6*6*4.3mm 立贴 轻触开关
+Supplier Footprint
+SMD-4P,6x6mm
+Datasheet
+https://item.szlcsc.com/datasheet/TS-1095PS-A1B2-C3D2/2997598.html
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+KEY-SMD_4P-L6.0-W6.0-H8.0-P3.90-LS9.0
+Circuit
+SPST
+Actuator Style
+Round Button
+Operating Force
+1.8N
+Mounting Type
+Surface Mount,Vertical
+Length
+6mm
+Width
+6mm
+Switch Height
+4.3mm
+with Bracket
+Without Bracket
+Actuator/Cap Color
+Black
+Termination Style
+Gull Wing
+Life
+-
+Description
+Circuit:SPST Actuator Style:Round Button Operating Force:1.8N Mounting Type:Surface Mount,Vertical Length:6mm Width:6mm Switch Height:4.3mm with Bracket:Without Bracket Actuator/Cap Color:Black Termination Style:Gull Wing Life:-
+Symbol
+TS-1095PS-A1B2-C3D2
+Designator
+SW10
+Name
+TS-1095PS-A1B2-C3D2
+Device
+TS-1095PS-A1B2-C3D2
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge10
+
+*
+]
+[
+DESIGNATOR
+SW8
+FOOTPRINT
+KEY-SMD_4P-L6.0-W6.0-P3.90-LS9.0
+PARTTYPE
+TS-1095PS-A1B2-C3D2
+DESCRIPTION
+Circuit:SPST Actuator Style:Round Button Operating Force:1.8N Mounting Type:Surface Mount,Vertical Length:6mm Width:6mm Switch Height:4.3mm with Bracket:Without Bracket Actuator/Cap Color:Black Termination Style:Gull Wing Life:-
+Component Kind
+Standard
+Supplier
+LCSC
+Supplier Part
+C2834918
+Manufacturer
+Yuandi(元迪)
+Manufacturer Part
+TS-1095PS-A1B2-C3D2
+JLCPCB Part Class
+Extended Part
+LCSC Part Name
+6*6*4.3mm 立贴 轻触开关
+Supplier Footprint
+SMD-4P,6x6mm
+Datasheet
+https://item.szlcsc.com/datasheet/TS-1095PS-A1B2-C3D2/2997598.html
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+KEY-SMD_4P-L6.0-W6.0-H8.0-P3.90-LS9.0
+Circuit
+SPST
+Actuator Style
+Round Button
+Operating Force
+1.8N
+Mounting Type
+Surface Mount,Vertical
+Length
+6mm
+Width
+6mm
+Switch Height
+4.3mm
+with Bracket
+Without Bracket
+Actuator/Cap Color
+Black
+Termination Style
+Gull Wing
+Life
+-
+Description
+Circuit:SPST Actuator Style:Round Button Operating Force:1.8N Mounting Type:Surface Mount,Vertical Length:6mm Width:6mm Switch Height:4.3mm with Bracket:Without Bracket Actuator/Cap Color:Black Termination Style:Gull Wing Life:-
+Symbol
+TS-1095PS-A1B2-C3D2
+Designator
+SW8
+Name
+TS-1095PS-A1B2-C3D2
+Device
+TS-1095PS-A1B2-C3D2
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge11
+
+*
+]
+[
+DESIGNATOR
+SW9
+FOOTPRINT
+KEY-SMD_4P-L6.0-W6.0-P3.90-LS9.0
+PARTTYPE
+TS-1095PS-A1B2-C3D2
+DESCRIPTION
+Circuit:SPST Actuator Style:Round Button Operating Force:1.8N Mounting Type:Surface Mount,Vertical Length:6mm Width:6mm Switch Height:4.3mm with Bracket:Without Bracket Actuator/Cap Color:Black Termination Style:Gull Wing Life:-
+Component Kind
+Standard
+Supplier
+LCSC
+Supplier Part
+C2834918
+Manufacturer
+Yuandi(元迪)
+Manufacturer Part
+TS-1095PS-A1B2-C3D2
+JLCPCB Part Class
+Extended Part
+LCSC Part Name
+6*6*4.3mm 立贴 轻触开关
+Supplier Footprint
+SMD-4P,6x6mm
+Datasheet
+https://item.szlcsc.com/datasheet/TS-1095PS-A1B2-C3D2/2997598.html
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+KEY-SMD_4P-L6.0-W6.0-H8.0-P3.90-LS9.0
+Circuit
+SPST
+Actuator Style
+Round Button
+Operating Force
+1.8N
+Mounting Type
+Surface Mount,Vertical
+Length
+6mm
+Width
+6mm
+Switch Height
+4.3mm
+with Bracket
+Without Bracket
+Actuator/Cap Color
+Black
+Termination Style
+Gull Wing
+Life
+-
+Description
+Circuit:SPST Actuator Style:Round Button Operating Force:1.8N Mounting Type:Surface Mount,Vertical Length:6mm Width:6mm Switch Height:4.3mm with Bracket:Without Bracket Actuator/Cap Color:Black Termination Style:Gull Wing Life:-
+Symbol
+TS-1095PS-A1B2-C3D2
+Designator
+SW9
+Name
+TS-1095PS-A1B2-C3D2
+Device
+TS-1095PS-A1B2-C3D2
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge12
+
+*
+]
+[
+DESIGNATOR
+SW7
+FOOTPRINT
+KEY-SMD_4P-L6.0-W6.0-P3.90-LS9.0
+PARTTYPE
+TS-1095PS-A1B2-C3D2
+DESCRIPTION
+Circuit:SPST Actuator Style:Round Button Operating Force:1.8N Mounting Type:Surface Mount,Vertical Length:6mm Width:6mm Switch Height:4.3mm with Bracket:Without Bracket Actuator/Cap Color:Black Termination Style:Gull Wing Life:-
+Component Kind
+Standard
+Supplier
+LCSC
+Supplier Part
+C2834918
+Manufacturer
+Yuandi(元迪)
+Manufacturer Part
+TS-1095PS-A1B2-C3D2
+JLCPCB Part Class
+Extended Part
+LCSC Part Name
+6*6*4.3mm 立贴 轻触开关
+Supplier Footprint
+SMD-4P,6x6mm
+Datasheet
+https://item.szlcsc.com/datasheet/TS-1095PS-A1B2-C3D2/2997598.html
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+KEY-SMD_4P-L6.0-W6.0-H8.0-P3.90-LS9.0
+Circuit
+SPST
+Actuator Style
+Round Button
+Operating Force
+1.8N
+Mounting Type
+Surface Mount,Vertical
+Length
+6mm
+Width
+6mm
+Switch Height
+4.3mm
+with Bracket
+Without Bracket
+Actuator/Cap Color
+Black
+Termination Style
+Gull Wing
+Life
+-
+Description
+Circuit:SPST Actuator Style:Round Button Operating Force:1.8N Mounting Type:Surface Mount,Vertical Length:6mm Width:6mm Switch Height:4.3mm with Bracket:Without Bracket Actuator/Cap Color:Black Termination Style:Gull Wing Life:-
+Symbol
+TS-1095PS-A1B2-C3D2
+Designator
+SW7
+Name
+TS-1095PS-A1B2-C3D2
+Device
+TS-1095PS-A1B2-C3D2
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge13
+
+*
+]
+[
+DESIGNATOR
+SW24
+FOOTPRINT
+KEY-SMD_4P-L6.0-W6.0-P3.90-LS9.0
+PARTTYPE
+TS-1095PS-A1B2-C3D2
+DESCRIPTION
+Circuit:SPST Actuator Style:Round Button Operating Force:1.8N Mounting Type:Surface Mount,Vertical Length:6mm Width:6mm Switch Height:4.3mm with Bracket:Without Bracket Actuator/Cap Color:Black Termination Style:Gull Wing Life:-
+Component Kind
+Standard
+Supplier
+LCSC
+Supplier Part
+C2834918
+Manufacturer
+Yuandi(元迪)
+Manufacturer Part
+TS-1095PS-A1B2-C3D2
+JLCPCB Part Class
+Extended Part
+LCSC Part Name
+6*6*4.3mm 立贴 轻触开关
+Supplier Footprint
+SMD-4P,6x6mm
+Datasheet
+https://item.szlcsc.com/datasheet/TS-1095PS-A1B2-C3D2/2997598.html
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+KEY-SMD_4P-L6.0-W6.0-H8.0-P3.90-LS9.0
+Circuit
+SPST
+Actuator Style
+Round Button
+Operating Force
+1.8N
+Mounting Type
+Surface Mount,Vertical
+Length
+6mm
+Width
+6mm
+Switch Height
+4.3mm
+with Bracket
+Without Bracket
+Actuator/Cap Color
+Black
+Termination Style
+Gull Wing
+Life
+-
+Description
+Circuit:SPST Actuator Style:Round Button Operating Force:1.8N Mounting Type:Surface Mount,Vertical Length:6mm Width:6mm Switch Height:4.3mm with Bracket:Without Bracket Actuator/Cap Color:Black Termination Style:Gull Wing Life:-
+Symbol
+TS-1095PS-A1B2-C3D2
+Designator
+SW24
+Name
+TS-1095PS-A1B2-C3D2
+Device
+TS-1095PS-A1B2-C3D2
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge15
+
+*
+]
+[
+DESIGNATOR
+SW23
+FOOTPRINT
+KEY-SMD_4P-L6.0-W6.0-P3.90-LS9.0
+PARTTYPE
+TS-1095PS-A1B2-C3D2
+DESCRIPTION
+Circuit:SPST Actuator Style:Round Button Operating Force:1.8N Mounting Type:Surface Mount,Vertical Length:6mm Width:6mm Switch Height:4.3mm with Bracket:Without Bracket Actuator/Cap Color:Black Termination Style:Gull Wing Life:-
+Component Kind
+Standard
+Supplier
+LCSC
+Supplier Part
+C2834918
+Manufacturer
+Yuandi(元迪)
+Manufacturer Part
+TS-1095PS-A1B2-C3D2
+JLCPCB Part Class
+Extended Part
+LCSC Part Name
+6*6*4.3mm 立贴 轻触开关
+Supplier Footprint
+SMD-4P,6x6mm
+Datasheet
+https://item.szlcsc.com/datasheet/TS-1095PS-A1B2-C3D2/2997598.html
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+KEY-SMD_4P-L6.0-W6.0-H8.0-P3.90-LS9.0
+Circuit
+SPST
+Actuator Style
+Round Button
+Operating Force
+1.8N
+Mounting Type
+Surface Mount,Vertical
+Length
+6mm
+Width
+6mm
+Switch Height
+4.3mm
+with Bracket
+Without Bracket
+Actuator/Cap Color
+Black
+Termination Style
+Gull Wing
+Life
+-
+Description
+Circuit:SPST Actuator Style:Round Button Operating Force:1.8N Mounting Type:Surface Mount,Vertical Length:6mm Width:6mm Switch Height:4.3mm with Bracket:Without Bracket Actuator/Cap Color:Black Termination Style:Gull Wing Life:-
+Symbol
+TS-1095PS-A1B2-C3D2
+Designator
+SW23
+Name
+TS-1095PS-A1B2-C3D2
+Device
+TS-1095PS-A1B2-C3D2
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge16
+
+*
+]
+[
+DESIGNATOR
+SW17
+FOOTPRINT
+KEY-SMD_4P-L6.0-W6.0-P3.90-LS9.0
+PARTTYPE
+TS-1095PS-A1B2-C3D2
+DESCRIPTION
+Circuit:SPST Actuator Style:Round Button Operating Force:1.8N Mounting Type:Surface Mount,Vertical Length:6mm Width:6mm Switch Height:4.3mm with Bracket:Without Bracket Actuator/Cap Color:Black Termination Style:Gull Wing Life:-
+Component Kind
+Standard
+Supplier
+LCSC
+Supplier Part
+C2834918
+Manufacturer
+Yuandi(元迪)
+Manufacturer Part
+TS-1095PS-A1B2-C3D2
+JLCPCB Part Class
+Extended Part
+LCSC Part Name
+6*6*4.3mm 立贴 轻触开关
+Supplier Footprint
+SMD-4P,6x6mm
+Datasheet
+https://item.szlcsc.com/datasheet/TS-1095PS-A1B2-C3D2/2997598.html
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+KEY-SMD_4P-L6.0-W6.0-H8.0-P3.90-LS9.0
+Circuit
+SPST
+Actuator Style
+Round Button
+Operating Force
+1.8N
+Mounting Type
+Surface Mount,Vertical
+Length
+6mm
+Width
+6mm
+Switch Height
+4.3mm
+with Bracket
+Without Bracket
+Actuator/Cap Color
+Black
+Termination Style
+Gull Wing
+Life
+-
+Description
+Circuit:SPST Actuator Style:Round Button Operating Force:1.8N Mounting Type:Surface Mount,Vertical Length:6mm Width:6mm Switch Height:4.3mm with Bracket:Without Bracket Actuator/Cap Color:Black Termination Style:Gull Wing Life:-
+Symbol
+TS-1095PS-A1B2-C3D2
+Designator
+SW17
+Name
+TS-1095PS-A1B2-C3D2
+Device
+TS-1095PS-A1B2-C3D2
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge17
+
+*
+]
+[
+DESIGNATOR
+SW22
+FOOTPRINT
+KEY-SMD_4P-L6.0-W6.0-P3.90-LS9.0
+PARTTYPE
+TS-1095PS-A1B2-C3D2
+DESCRIPTION
+Circuit:SPST Actuator Style:Round Button Operating Force:1.8N Mounting Type:Surface Mount,Vertical Length:6mm Width:6mm Switch Height:4.3mm with Bracket:Without Bracket Actuator/Cap Color:Black Termination Style:Gull Wing Life:-
+Component Kind
+Standard
+Supplier
+LCSC
+Supplier Part
+C2834918
+Manufacturer
+Yuandi(元迪)
+Manufacturer Part
+TS-1095PS-A1B2-C3D2
+JLCPCB Part Class
+Extended Part
+LCSC Part Name
+6*6*4.3mm 立贴 轻触开关
+Supplier Footprint
+SMD-4P,6x6mm
+Datasheet
+https://item.szlcsc.com/datasheet/TS-1095PS-A1B2-C3D2/2997598.html
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+KEY-SMD_4P-L6.0-W6.0-H8.0-P3.90-LS9.0
+Circuit
+SPST
+Actuator Style
+Round Button
+Operating Force
+1.8N
+Mounting Type
+Surface Mount,Vertical
+Length
+6mm
+Width
+6mm
+Switch Height
+4.3mm
+with Bracket
+Without Bracket
+Actuator/Cap Color
+Black
+Termination Style
+Gull Wing
+Life
+-
+Description
+Circuit:SPST Actuator Style:Round Button Operating Force:1.8N Mounting Type:Surface Mount,Vertical Length:6mm Width:6mm Switch Height:4.3mm with Bracket:Without Bracket Actuator/Cap Color:Black Termination Style:Gull Wing Life:-
+Symbol
+TS-1095PS-A1B2-C3D2
+Designator
+SW22
+Name
+TS-1095PS-A1B2-C3D2
+Device
+TS-1095PS-A1B2-C3D2
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge18
+
+*
+]
+[
+DESIGNATOR
+SW14
+FOOTPRINT
+KEY-SMD_4P-L6.0-W6.0-P3.90-LS9.0
+PARTTYPE
+TS-1095PS-A1B2-C3D2
+DESCRIPTION
+Circuit:SPST Actuator Style:Round Button Operating Force:1.8N Mounting Type:Surface Mount,Vertical Length:6mm Width:6mm Switch Height:4.3mm with Bracket:Without Bracket Actuator/Cap Color:Black Termination Style:Gull Wing Life:-
+Component Kind
+Standard
+Supplier
+LCSC
+Supplier Part
+C2834918
+Manufacturer
+Yuandi(元迪)
+Manufacturer Part
+TS-1095PS-A1B2-C3D2
+JLCPCB Part Class
+Extended Part
+LCSC Part Name
+6*6*4.3mm 立贴 轻触开关
+Supplier Footprint
+SMD-4P,6x6mm
+Datasheet
+https://item.szlcsc.com/datasheet/TS-1095PS-A1B2-C3D2/2997598.html
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+KEY-SMD_4P-L6.0-W6.0-H8.0-P3.90-LS9.0
+Circuit
+SPST
+Actuator Style
+Round Button
+Operating Force
+1.8N
+Mounting Type
+Surface Mount,Vertical
+Length
+6mm
+Width
+6mm
+Switch Height
+4.3mm
+with Bracket
+Without Bracket
+Actuator/Cap Color
+Black
+Termination Style
+Gull Wing
+Life
+-
+Description
+Circuit:SPST Actuator Style:Round Button Operating Force:1.8N Mounting Type:Surface Mount,Vertical Length:6mm Width:6mm Switch Height:4.3mm with Bracket:Without Bracket Actuator/Cap Color:Black Termination Style:Gull Wing Life:-
+Symbol
+TS-1095PS-A1B2-C3D2
+Designator
+SW14
+Name
+TS-1095PS-A1B2-C3D2
+Device
+TS-1095PS-A1B2-C3D2
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge20
+
+*
+]
+[
+DESIGNATOR
+SW15
+FOOTPRINT
+KEY-SMD_4P-L6.0-W6.0-P3.90-LS9.0
+PARTTYPE
+TS-1095PS-A1B2-C3D2
+DESCRIPTION
+Circuit:SPST Actuator Style:Round Button Operating Force:1.8N Mounting Type:Surface Mount,Vertical Length:6mm Width:6mm Switch Height:4.3mm with Bracket:Without Bracket Actuator/Cap Color:Black Termination Style:Gull Wing Life:-
+Component Kind
+Standard
+Supplier
+LCSC
+Supplier Part
+C2834918
+Manufacturer
+Yuandi(元迪)
+Manufacturer Part
+TS-1095PS-A1B2-C3D2
+JLCPCB Part Class
+Extended Part
+LCSC Part Name
+6*6*4.3mm 立贴 轻触开关
+Supplier Footprint
+SMD-4P,6x6mm
+Datasheet
+https://item.szlcsc.com/datasheet/TS-1095PS-A1B2-C3D2/2997598.html
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+KEY-SMD_4P-L6.0-W6.0-H8.0-P3.90-LS9.0
+Circuit
+SPST
+Actuator Style
+Round Button
+Operating Force
+1.8N
+Mounting Type
+Surface Mount,Vertical
+Length
+6mm
+Width
+6mm
+Switch Height
+4.3mm
+with Bracket
+Without Bracket
+Actuator/Cap Color
+Black
+Termination Style
+Gull Wing
+Life
+-
+Description
+Circuit:SPST Actuator Style:Round Button Operating Force:1.8N Mounting Type:Surface Mount,Vertical Length:6mm Width:6mm Switch Height:4.3mm with Bracket:Without Bracket Actuator/Cap Color:Black Termination Style:Gull Wing Life:-
+Symbol
+TS-1095PS-A1B2-C3D2
+Designator
+SW15
+Name
+TS-1095PS-A1B2-C3D2
+Device
+TS-1095PS-A1B2-C3D2
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge21
+
+*
+]
+[
+DESIGNATOR
+SW20
+FOOTPRINT
+KEY-SMD_4P-L6.0-W6.0-P3.90-LS9.0
+PARTTYPE
+TS-1095PS-A1B2-C3D2
+DESCRIPTION
+Circuit:SPST Actuator Style:Round Button Operating Force:1.8N Mounting Type:Surface Mount,Vertical Length:6mm Width:6mm Switch Height:4.3mm with Bracket:Without Bracket Actuator/Cap Color:Black Termination Style:Gull Wing Life:-
+Component Kind
+Standard
+Supplier
+LCSC
+Supplier Part
+C2834918
+Manufacturer
+Yuandi(元迪)
+Manufacturer Part
+TS-1095PS-A1B2-C3D2
+JLCPCB Part Class
+Extended Part
+LCSC Part Name
+6*6*4.3mm 立贴 轻触开关
+Supplier Footprint
+SMD-4P,6x6mm
+Datasheet
+https://item.szlcsc.com/datasheet/TS-1095PS-A1B2-C3D2/2997598.html
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+KEY-SMD_4P-L6.0-W6.0-H8.0-P3.90-LS9.0
+Circuit
+SPST
+Actuator Style
+Round Button
+Operating Force
+1.8N
+Mounting Type
+Surface Mount,Vertical
+Length
+6mm
+Width
+6mm
+Switch Height
+4.3mm
+with Bracket
+Without Bracket
+Actuator/Cap Color
+Black
+Termination Style
+Gull Wing
+Life
+-
+Description
+Circuit:SPST Actuator Style:Round Button Operating Force:1.8N Mounting Type:Surface Mount,Vertical Length:6mm Width:6mm Switch Height:4.3mm with Bracket:Without Bracket Actuator/Cap Color:Black Termination Style:Gull Wing Life:-
+Symbol
+TS-1095PS-A1B2-C3D2
+Designator
+SW20
+Name
+TS-1095PS-A1B2-C3D2
+Device
+TS-1095PS-A1B2-C3D2
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge22
+
+*
+]
+[
+DESIGNATOR
+SW21
+FOOTPRINT
+KEY-SMD_4P-L6.0-W6.0-P3.90-LS9.0
+PARTTYPE
+TS-1095PS-A1B2-C3D2
+DESCRIPTION
+Circuit:SPST Actuator Style:Round Button Operating Force:1.8N Mounting Type:Surface Mount,Vertical Length:6mm Width:6mm Switch Height:4.3mm with Bracket:Without Bracket Actuator/Cap Color:Black Termination Style:Gull Wing Life:-
+Component Kind
+Standard
+Supplier
+LCSC
+Supplier Part
+C2834918
+Manufacturer
+Yuandi(元迪)
+Manufacturer Part
+TS-1095PS-A1B2-C3D2
+JLCPCB Part Class
+Extended Part
+LCSC Part Name
+6*6*4.3mm 立贴 轻触开关
+Supplier Footprint
+SMD-4P,6x6mm
+Datasheet
+https://item.szlcsc.com/datasheet/TS-1095PS-A1B2-C3D2/2997598.html
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+KEY-SMD_4P-L6.0-W6.0-H8.0-P3.90-LS9.0
+Circuit
+SPST
+Actuator Style
+Round Button
+Operating Force
+1.8N
+Mounting Type
+Surface Mount,Vertical
+Length
+6mm
+Width
+6mm
+Switch Height
+4.3mm
+with Bracket
+Without Bracket
+Actuator/Cap Color
+Black
+Termination Style
+Gull Wing
+Life
+-
+Description
+Circuit:SPST Actuator Style:Round Button Operating Force:1.8N Mounting Type:Surface Mount,Vertical Length:6mm Width:6mm Switch Height:4.3mm with Bracket:Without Bracket Actuator/Cap Color:Black Termination Style:Gull Wing Life:-
+Symbol
+TS-1095PS-A1B2-C3D2
+Designator
+SW21
+Name
+TS-1095PS-A1B2-C3D2
+Device
+TS-1095PS-A1B2-C3D2
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge23
+
+*
+]
+[
+DESIGNATOR
+SW19
+FOOTPRINT
+KEY-SMD_4P-L6.0-W6.0-P3.90-LS9.0
+PARTTYPE
+TS-1095PS-A1B2-C3D2
+DESCRIPTION
+Circuit:SPST Actuator Style:Round Button Operating Force:1.8N Mounting Type:Surface Mount,Vertical Length:6mm Width:6mm Switch Height:4.3mm with Bracket:Without Bracket Actuator/Cap Color:Black Termination Style:Gull Wing Life:-
+Component Kind
+Standard
+Supplier
+LCSC
+Supplier Part
+C2834918
+Manufacturer
+Yuandi(元迪)
+Manufacturer Part
+TS-1095PS-A1B2-C3D2
+JLCPCB Part Class
+Extended Part
+LCSC Part Name
+6*6*4.3mm 立贴 轻触开关
+Supplier Footprint
+SMD-4P,6x6mm
+Datasheet
+https://item.szlcsc.com/datasheet/TS-1095PS-A1B2-C3D2/2997598.html
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+KEY-SMD_4P-L6.0-W6.0-H8.0-P3.90-LS9.0
+Circuit
+SPST
+Actuator Style
+Round Button
+Operating Force
+1.8N
+Mounting Type
+Surface Mount,Vertical
+Length
+6mm
+Width
+6mm
+Switch Height
+4.3mm
+with Bracket
+Without Bracket
+Actuator/Cap Color
+Black
+Termination Style
+Gull Wing
+Life
+-
+Description
+Circuit:SPST Actuator Style:Round Button Operating Force:1.8N Mounting Type:Surface Mount,Vertical Length:6mm Width:6mm Switch Height:4.3mm with Bracket:Without Bracket Actuator/Cap Color:Black Termination Style:Gull Wing Life:-
+Symbol
+TS-1095PS-A1B2-C3D2
+Designator
+SW19
+Name
+TS-1095PS-A1B2-C3D2
+Device
+TS-1095PS-A1B2-C3D2
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge24
+
+*
+]
+[
+DESIGNATOR
+SW13
+FOOTPRINT
+KEY-SMD_4P-L6.0-W6.0-P3.90-LS9.0
+PARTTYPE
+TS-1095PS-A1B2-C3D2
+DESCRIPTION
+Circuit:SPST Actuator Style:Round Button Operating Force:1.8N Mounting Type:Surface Mount,Vertical Length:6mm Width:6mm Switch Height:4.3mm with Bracket:Without Bracket Actuator/Cap Color:Black Termination Style:Gull Wing Life:-
+Component Kind
+Standard
+Supplier
+LCSC
+Supplier Part
+C2834918
+Manufacturer
+Yuandi(元迪)
+Manufacturer Part
+TS-1095PS-A1B2-C3D2
+JLCPCB Part Class
+Extended Part
+LCSC Part Name
+6*6*4.3mm 立贴 轻触开关
+Supplier Footprint
+SMD-4P,6x6mm
+Datasheet
+https://item.szlcsc.com/datasheet/TS-1095PS-A1B2-C3D2/2997598.html
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+KEY-SMD_4P-L6.0-W6.0-H8.0-P3.90-LS9.0
+Circuit
+SPST
+Actuator Style
+Round Button
+Operating Force
+1.8N
+Mounting Type
+Surface Mount,Vertical
+Length
+6mm
+Width
+6mm
+Switch Height
+4.3mm
+with Bracket
+Without Bracket
+Actuator/Cap Color
+Black
+Termination Style
+Gull Wing
+Life
+-
+Description
+Circuit:SPST Actuator Style:Round Button Operating Force:1.8N Mounting Type:Surface Mount,Vertical Length:6mm Width:6mm Switch Height:4.3mm with Bracket:Without Bracket Actuator/Cap Color:Black Termination Style:Gull Wing Life:-
+Symbol
+TS-1095PS-A1B2-C3D2
+Designator
+SW13
+Name
+TS-1095PS-A1B2-C3D2
+Device
+TS-1095PS-A1B2-C3D2
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge25
+
+*
+]
+[
+DESIGNATOR
+SW28
+FOOTPRINT
+KEY-SMD_4P-L6.0-W6.0-P3.90-LS9.0
+PARTTYPE
+TS-1095PS-A1B2-C3D2
+DESCRIPTION
+Circuit:SPST Actuator Style:Round Button Operating Force:1.8N Mounting Type:Surface Mount,Vertical Length:6mm Width:6mm Switch Height:4.3mm with Bracket:Without Bracket Actuator/Cap Color:Black Termination Style:Gull Wing Life:-
+Component Kind
+Standard
+Supplier
+LCSC
+Supplier Part
+C2834918
+Manufacturer
+Yuandi(元迪)
+Manufacturer Part
+TS-1095PS-A1B2-C3D2
+JLCPCB Part Class
+Extended Part
+LCSC Part Name
+6*6*4.3mm 立贴 轻触开关
+Supplier Footprint
+SMD-4P,6x6mm
+Datasheet
+https://item.szlcsc.com/datasheet/TS-1095PS-A1B2-C3D2/2997598.html
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+KEY-SMD_4P-L6.0-W6.0-H8.0-P3.90-LS9.0
+Circuit
+SPST
+Actuator Style
+Round Button
+Operating Force
+1.8N
+Mounting Type
+Surface Mount,Vertical
+Length
+6mm
+Width
+6mm
+Switch Height
+4.3mm
+with Bracket
+Without Bracket
+Actuator/Cap Color
+Black
+Termination Style
+Gull Wing
+Life
+-
+Description
+Circuit:SPST Actuator Style:Round Button Operating Force:1.8N Mounting Type:Surface Mount,Vertical Length:6mm Width:6mm Switch Height:4.3mm with Bracket:Without Bracket Actuator/Cap Color:Black Termination Style:Gull Wing Life:-
+Symbol
+TS-1095PS-A1B2-C3D2
+Designator
+SW28
+Name
+TS-1095PS-A1B2-C3D2
+Device
+TS-1095PS-A1B2-C3D2
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge26
+
+*
+]
+[
+DESIGNATOR
+SW26
+FOOTPRINT
+KEY-SMD_4P-L6.0-W6.0-P3.90-LS9.0
+PARTTYPE
+TS-1095PS-A1B2-C3D2
+DESCRIPTION
+Circuit:SPST Actuator Style:Round Button Operating Force:1.8N Mounting Type:Surface Mount,Vertical Length:6mm Width:6mm Switch Height:4.3mm with Bracket:Without Bracket Actuator/Cap Color:Black Termination Style:Gull Wing Life:-
+Component Kind
+Standard
+Supplier
+LCSC
+Supplier Part
+C2834918
+Manufacturer
+Yuandi(元迪)
+Manufacturer Part
+TS-1095PS-A1B2-C3D2
+JLCPCB Part Class
+Extended Part
+LCSC Part Name
+6*6*4.3mm 立贴 轻触开关
+Supplier Footprint
+SMD-4P,6x6mm
+Datasheet
+https://item.szlcsc.com/datasheet/TS-1095PS-A1B2-C3D2/2997598.html
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+KEY-SMD_4P-L6.0-W6.0-H8.0-P3.90-LS9.0
+Circuit
+SPST
+Actuator Style
+Round Button
+Operating Force
+1.8N
+Mounting Type
+Surface Mount,Vertical
+Length
+6mm
+Width
+6mm
+Switch Height
+4.3mm
+with Bracket
+Without Bracket
+Actuator/Cap Color
+Black
+Termination Style
+Gull Wing
+Life
+-
+Description
+Circuit:SPST Actuator Style:Round Button Operating Force:1.8N Mounting Type:Surface Mount,Vertical Length:6mm Width:6mm Switch Height:4.3mm with Bracket:Without Bracket Actuator/Cap Color:Black Termination Style:Gull Wing Life:-
+Symbol
+TS-1095PS-A1B2-C3D2
+Designator
+SW26
+Name
+TS-1095PS-A1B2-C3D2
+Device
+TS-1095PS-A1B2-C3D2
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge27
+
+*
+]
+[
+DESIGNATOR
+SW27
+FOOTPRINT
+KEY-SMD_4P-L6.0-W6.0-P3.90-LS9.0
+PARTTYPE
+TS-1095PS-A1B2-C3D2
+DESCRIPTION
+Circuit:SPST Actuator Style:Round Button Operating Force:1.8N Mounting Type:Surface Mount,Vertical Length:6mm Width:6mm Switch Height:4.3mm with Bracket:Without Bracket Actuator/Cap Color:Black Termination Style:Gull Wing Life:-
+Component Kind
+Standard
+Supplier
+LCSC
+Supplier Part
+C2834918
+Manufacturer
+Yuandi(元迪)
+Manufacturer Part
+TS-1095PS-A1B2-C3D2
+JLCPCB Part Class
+Extended Part
+LCSC Part Name
+6*6*4.3mm 立贴 轻触开关
+Supplier Footprint
+SMD-4P,6x6mm
+Datasheet
+https://item.szlcsc.com/datasheet/TS-1095PS-A1B2-C3D2/2997598.html
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+KEY-SMD_4P-L6.0-W6.0-H8.0-P3.90-LS9.0
+Circuit
+SPST
+Actuator Style
+Round Button
+Operating Force
+1.8N
+Mounting Type
+Surface Mount,Vertical
+Length
+6mm
+Width
+6mm
+Switch Height
+4.3mm
+with Bracket
+Without Bracket
+Actuator/Cap Color
+Black
+Termination Style
+Gull Wing
+Life
+-
+Description
+Circuit:SPST Actuator Style:Round Button Operating Force:1.8N Mounting Type:Surface Mount,Vertical Length:6mm Width:6mm Switch Height:4.3mm with Bracket:Without Bracket Actuator/Cap Color:Black Termination Style:Gull Wing Life:-
+Symbol
+TS-1095PS-A1B2-C3D2
+Designator
+SW27
+Name
+TS-1095PS-A1B2-C3D2
+Device
+TS-1095PS-A1B2-C3D2
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge28
+
+*
+]
+[
+DESIGNATOR
+SW30
+FOOTPRINT
+KEY-SMD_4P-L6.0-W6.0-P3.90-LS9.0
+PARTTYPE
+TS-1095PS-A1B2-C3D2
+DESCRIPTION
+Circuit:SPST Actuator Style:Round Button Operating Force:1.8N Mounting Type:Surface Mount,Vertical Length:6mm Width:6mm Switch Height:4.3mm with Bracket:Without Bracket Actuator/Cap Color:Black Termination Style:Gull Wing Life:-
+Component Kind
+Standard
+Supplier
+LCSC
+Supplier Part
+C2834918
+Manufacturer
+Yuandi(元迪)
+Manufacturer Part
+TS-1095PS-A1B2-C3D2
+JLCPCB Part Class
+Extended Part
+LCSC Part Name
+6*6*4.3mm 立贴 轻触开关
+Supplier Footprint
+SMD-4P,6x6mm
+Datasheet
+https://item.szlcsc.com/datasheet/TS-1095PS-A1B2-C3D2/2997598.html
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+KEY-SMD_4P-L6.0-W6.0-H8.0-P3.90-LS9.0
+Circuit
+SPST
+Actuator Style
+Round Button
+Operating Force
+1.8N
+Mounting Type
+Surface Mount,Vertical
+Length
+6mm
+Width
+6mm
+Switch Height
+4.3mm
+with Bracket
+Without Bracket
+Actuator/Cap Color
+Black
+Termination Style
+Gull Wing
+Life
+-
+Description
+Circuit:SPST Actuator Style:Round Button Operating Force:1.8N Mounting Type:Surface Mount,Vertical Length:6mm Width:6mm Switch Height:4.3mm with Bracket:Without Bracket Actuator/Cap Color:Black Termination Style:Gull Wing Life:-
+Symbol
+TS-1095PS-A1B2-C3D2
+Designator
+SW30
+Name
+TS-1095PS-A1B2-C3D2
+Device
+TS-1095PS-A1B2-C3D2
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge29
+
+*
+]
+[
+DESIGNATOR
+SW29
+FOOTPRINT
+KEY-SMD_4P-L6.0-W6.0-P3.90-LS9.0
+PARTTYPE
+TS-1095PS-A1B2-C3D2
+DESCRIPTION
+Circuit:SPST Actuator Style:Round Button Operating Force:1.8N Mounting Type:Surface Mount,Vertical Length:6mm Width:6mm Switch Height:4.3mm with Bracket:Without Bracket Actuator/Cap Color:Black Termination Style:Gull Wing Life:-
+Component Kind
+Standard
+Supplier
+LCSC
+Supplier Part
+C2834918
+Manufacturer
+Yuandi(元迪)
+Manufacturer Part
+TS-1095PS-A1B2-C3D2
+JLCPCB Part Class
+Extended Part
+LCSC Part Name
+6*6*4.3mm 立贴 轻触开关
+Supplier Footprint
+SMD-4P,6x6mm
+Datasheet
+https://item.szlcsc.com/datasheet/TS-1095PS-A1B2-C3D2/2997598.html
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+KEY-SMD_4P-L6.0-W6.0-H8.0-P3.90-LS9.0
+Circuit
+SPST
+Actuator Style
+Round Button
+Operating Force
+1.8N
+Mounting Type
+Surface Mount,Vertical
+Length
+6mm
+Width
+6mm
+Switch Height
+4.3mm
+with Bracket
+Without Bracket
+Actuator/Cap Color
+Black
+Termination Style
+Gull Wing
+Life
+-
+Description
+Circuit:SPST Actuator Style:Round Button Operating Force:1.8N Mounting Type:Surface Mount,Vertical Length:6mm Width:6mm Switch Height:4.3mm with Bracket:Without Bracket Actuator/Cap Color:Black Termination Style:Gull Wing Life:-
+Symbol
+TS-1095PS-A1B2-C3D2
+Designator
+SW29
+Name
+TS-1095PS-A1B2-C3D2
+Device
+TS-1095PS-A1B2-C3D2
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge30
+
+*
+]
+[
+DESIGNATOR
+SW25
+FOOTPRINT
+KEY-SMD_4P-L6.0-W6.0-P3.90-LS9.0
+PARTTYPE
+TS-1095PS-A1B2-C3D2
+DESCRIPTION
+Circuit:SPST Actuator Style:Round Button Operating Force:1.8N Mounting Type:Surface Mount,Vertical Length:6mm Width:6mm Switch Height:4.3mm with Bracket:Without Bracket Actuator/Cap Color:Black Termination Style:Gull Wing Life:-
+Component Kind
+Standard
+Supplier
+LCSC
+Supplier Part
+C2834918
+Manufacturer
+Yuandi(元迪)
+Manufacturer Part
+TS-1095PS-A1B2-C3D2
+JLCPCB Part Class
+Extended Part
+LCSC Part Name
+6*6*4.3mm 立贴 轻触开关
+Supplier Footprint
+SMD-4P,6x6mm
+Datasheet
+https://item.szlcsc.com/datasheet/TS-1095PS-A1B2-C3D2/2997598.html
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+KEY-SMD_4P-L6.0-W6.0-H8.0-P3.90-LS9.0
+Circuit
+SPST
+Actuator Style
+Round Button
+Operating Force
+1.8N
+Mounting Type
+Surface Mount,Vertical
+Length
+6mm
+Width
+6mm
+Switch Height
+4.3mm
+with Bracket
+Without Bracket
+Actuator/Cap Color
+Black
+Termination Style
+Gull Wing
+Life
+-
+Description
+Circuit:SPST Actuator Style:Round Button Operating Force:1.8N Mounting Type:Surface Mount,Vertical Length:6mm Width:6mm Switch Height:4.3mm with Bracket:Without Bracket Actuator/Cap Color:Black Termination Style:Gull Wing Life:-
+Symbol
+TS-1095PS-A1B2-C3D2
+Designator
+SW25
+Name
+TS-1095PS-A1B2-C3D2
+Device
+TS-1095PS-A1B2-C3D2
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge31
+
+*
+]
+[
+DESIGNATOR
+SW58
+FOOTPRINT
+KEY-SMD_4P-L6.0-W6.0-P3.90-LS9.0
+PARTTYPE
+TS-1095PS-A1B2-C3D2
+DESCRIPTION
+Circuit:SPST Actuator Style:Round Button Operating Force:1.8N Mounting Type:Surface Mount,Vertical Length:6mm Width:6mm Switch Height:4.3mm with Bracket:Without Bracket Actuator/Cap Color:Black Termination Style:Gull Wing Life:-
+Component Kind
+Standard
+Supplier
+LCSC
+Supplier Part
+C2834918
+Manufacturer
+Yuandi(元迪)
+Manufacturer Part
+TS-1095PS-A1B2-C3D2
+JLCPCB Part Class
+Extended Part
+LCSC Part Name
+6*6*4.3mm 立贴 轻触开关
+Supplier Footprint
+SMD-4P,6x6mm
+Datasheet
+https://item.szlcsc.com/datasheet/TS-1095PS-A1B2-C3D2/2997598.html
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+KEY-SMD_4P-L6.0-W6.0-H8.0-P3.90-LS9.0
+Circuit
+SPST
+Actuator Style
+Round Button
+Operating Force
+1.8N
+Mounting Type
+Surface Mount,Vertical
+Length
+6mm
+Width
+6mm
+Switch Height
+4.3mm
+with Bracket
+Without Bracket
+Actuator/Cap Color
+Black
+Termination Style
+Gull Wing
+Life
+-
+Description
+Circuit:SPST Actuator Style:Round Button Operating Force:1.8N Mounting Type:Surface Mount,Vertical Length:6mm Width:6mm Switch Height:4.3mm with Bracket:Without Bracket Actuator/Cap Color:Black Termination Style:Gull Wing Life:-
+Symbol
+TS-1095PS-A1B2-C3D2
+Designator
+SW58
+Name
+TS-1095PS-A1B2-C3D2
+Device
+TS-1095PS-A1B2-C3D2
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge32
+
+*
+]
+[
+DESIGNATOR
+SW52
+FOOTPRINT
+KEY-SMD_4P-L6.0-W6.0-P3.90-LS9.0
+PARTTYPE
+TS-1095PS-A1B2-C3D2
+DESCRIPTION
+Circuit:SPST Actuator Style:Round Button Operating Force:1.8N Mounting Type:Surface Mount,Vertical Length:6mm Width:6mm Switch Height:4.3mm with Bracket:Without Bracket Actuator/Cap Color:Black Termination Style:Gull Wing Life:-
+Component Kind
+Standard
+Supplier
+LCSC
+Supplier Part
+C2834918
+Manufacturer
+Yuandi(元迪)
+Manufacturer Part
+TS-1095PS-A1B2-C3D2
+JLCPCB Part Class
+Extended Part
+LCSC Part Name
+6*6*4.3mm 立贴 轻触开关
+Supplier Footprint
+SMD-4P,6x6mm
+Datasheet
+https://item.szlcsc.com/datasheet/TS-1095PS-A1B2-C3D2/2997598.html
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+KEY-SMD_4P-L6.0-W6.0-H8.0-P3.90-LS9.0
+Circuit
+SPST
+Actuator Style
+Round Button
+Operating Force
+1.8N
+Mounting Type
+Surface Mount,Vertical
+Length
+6mm
+Width
+6mm
+Switch Height
+4.3mm
+with Bracket
+Without Bracket
+Actuator/Cap Color
+Black
+Termination Style
+Gull Wing
+Life
+-
+Description
+Circuit:SPST Actuator Style:Round Button Operating Force:1.8N Mounting Type:Surface Mount,Vertical Length:6mm Width:6mm Switch Height:4.3mm with Bracket:Without Bracket Actuator/Cap Color:Black Termination Style:Gull Wing Life:-
+Symbol
+TS-1095PS-A1B2-C3D2
+Designator
+SW52
+Name
+TS-1095PS-A1B2-C3D2
+Device
+TS-1095PS-A1B2-C3D2
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge33
+
+*
+]
+[
+DESIGNATOR
+SW60
+FOOTPRINT
+KEY-SMD_4P-L6.0-W6.0-P3.90-LS9.0
+PARTTYPE
+TS-1095PS-A1B2-C3D2
+DESCRIPTION
+Circuit:SPST Actuator Style:Round Button Operating Force:1.8N Mounting Type:Surface Mount,Vertical Length:6mm Width:6mm Switch Height:4.3mm with Bracket:Without Bracket Actuator/Cap Color:Black Termination Style:Gull Wing Life:-
+Component Kind
+Standard
+Supplier
+LCSC
+Supplier Part
+C2834918
+Manufacturer
+Yuandi(元迪)
+Manufacturer Part
+TS-1095PS-A1B2-C3D2
+JLCPCB Part Class
+Extended Part
+LCSC Part Name
+6*6*4.3mm 立贴 轻触开关
+Supplier Footprint
+SMD-4P,6x6mm
+Datasheet
+https://item.szlcsc.com/datasheet/TS-1095PS-A1B2-C3D2/2997598.html
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+KEY-SMD_4P-L6.0-W6.0-H8.0-P3.90-LS9.0
+Circuit
+SPST
+Actuator Style
+Round Button
+Operating Force
+1.8N
+Mounting Type
+Surface Mount,Vertical
+Length
+6mm
+Width
+6mm
+Switch Height
+4.3mm
+with Bracket
+Without Bracket
+Actuator/Cap Color
+Black
+Termination Style
+Gull Wing
+Life
+-
+Description
+Circuit:SPST Actuator Style:Round Button Operating Force:1.8N Mounting Type:Surface Mount,Vertical Length:6mm Width:6mm Switch Height:4.3mm with Bracket:Without Bracket Actuator/Cap Color:Black Termination Style:Gull Wing Life:-
+Symbol
+TS-1095PS-A1B2-C3D2
+Designator
+SW60
+Name
+TS-1095PS-A1B2-C3D2
+Device
+TS-1095PS-A1B2-C3D2
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge34
+
+*
+]
+[
+DESIGNATOR
+SW54
+FOOTPRINT
+KEY-SMD_4P-L6.0-W6.0-P3.90-LS9.0
+PARTTYPE
+TS-1095PS-A1B2-C3D2
+DESCRIPTION
+Circuit:SPST Actuator Style:Round Button Operating Force:1.8N Mounting Type:Surface Mount,Vertical Length:6mm Width:6mm Switch Height:4.3mm with Bracket:Without Bracket Actuator/Cap Color:Black Termination Style:Gull Wing Life:-
+Component Kind
+Standard
+Supplier
+LCSC
+Supplier Part
+C2834918
+Manufacturer
+Yuandi(元迪)
+Manufacturer Part
+TS-1095PS-A1B2-C3D2
+JLCPCB Part Class
+Extended Part
+LCSC Part Name
+6*6*4.3mm 立贴 轻触开关
+Supplier Footprint
+SMD-4P,6x6mm
+Datasheet
+https://item.szlcsc.com/datasheet/TS-1095PS-A1B2-C3D2/2997598.html
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+KEY-SMD_4P-L6.0-W6.0-H8.0-P3.90-LS9.0
+Circuit
+SPST
+Actuator Style
+Round Button
+Operating Force
+1.8N
+Mounting Type
+Surface Mount,Vertical
+Length
+6mm
+Width
+6mm
+Switch Height
+4.3mm
+with Bracket
+Without Bracket
+Actuator/Cap Color
+Black
+Termination Style
+Gull Wing
+Life
+-
+Description
+Circuit:SPST Actuator Style:Round Button Operating Force:1.8N Mounting Type:Surface Mount,Vertical Length:6mm Width:6mm Switch Height:4.3mm with Bracket:Without Bracket Actuator/Cap Color:Black Termination Style:Gull Wing Life:-
+Symbol
+TS-1095PS-A1B2-C3D2
+Designator
+SW54
+Name
+TS-1095PS-A1B2-C3D2
+Device
+TS-1095PS-A1B2-C3D2
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge35
+
+*
+]
+[
+DESIGNATOR
+SW57
+FOOTPRINT
+KEY-SMD_4P-L6.0-W6.0-P3.90-LS9.0
+PARTTYPE
+TS-1095PS-A1B2-C3D2
+DESCRIPTION
+Circuit:SPST Actuator Style:Round Button Operating Force:1.8N Mounting Type:Surface Mount,Vertical Length:6mm Width:6mm Switch Height:4.3mm with Bracket:Without Bracket Actuator/Cap Color:Black Termination Style:Gull Wing Life:-
+Component Kind
+Standard
+Supplier
+LCSC
+Supplier Part
+C2834918
+Manufacturer
+Yuandi(元迪)
+Manufacturer Part
+TS-1095PS-A1B2-C3D2
+JLCPCB Part Class
+Extended Part
+LCSC Part Name
+6*6*4.3mm 立贴 轻触开关
+Supplier Footprint
+SMD-4P,6x6mm
+Datasheet
+https://item.szlcsc.com/datasheet/TS-1095PS-A1B2-C3D2/2997598.html
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+KEY-SMD_4P-L6.0-W6.0-H8.0-P3.90-LS9.0
+Circuit
+SPST
+Actuator Style
+Round Button
+Operating Force
+1.8N
+Mounting Type
+Surface Mount,Vertical
+Length
+6mm
+Width
+6mm
+Switch Height
+4.3mm
+with Bracket
+Without Bracket
+Actuator/Cap Color
+Black
+Termination Style
+Gull Wing
+Life
+-
+Description
+Circuit:SPST Actuator Style:Round Button Operating Force:1.8N Mounting Type:Surface Mount,Vertical Length:6mm Width:6mm Switch Height:4.3mm with Bracket:Without Bracket Actuator/Cap Color:Black Termination Style:Gull Wing Life:-
+Symbol
+TS-1095PS-A1B2-C3D2
+Designator
+SW57
+Name
+TS-1095PS-A1B2-C3D2
+Device
+TS-1095PS-A1B2-C3D2
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge36
+
+*
+]
+[
+DESIGNATOR
+SW56
+FOOTPRINT
+KEY-SMD_4P-L6.0-W6.0-P3.90-LS9.0
+PARTTYPE
+TS-1095PS-A1B2-C3D2
+DESCRIPTION
+Circuit:SPST Actuator Style:Round Button Operating Force:1.8N Mounting Type:Surface Mount,Vertical Length:6mm Width:6mm Switch Height:4.3mm with Bracket:Without Bracket Actuator/Cap Color:Black Termination Style:Gull Wing Life:-
+Component Kind
+Standard
+Supplier
+LCSC
+Supplier Part
+C2834918
+Manufacturer
+Yuandi(元迪)
+Manufacturer Part
+TS-1095PS-A1B2-C3D2
+JLCPCB Part Class
+Extended Part
+LCSC Part Name
+6*6*4.3mm 立贴 轻触开关
+Supplier Footprint
+SMD-4P,6x6mm
+Datasheet
+https://item.szlcsc.com/datasheet/TS-1095PS-A1B2-C3D2/2997598.html
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+KEY-SMD_4P-L6.0-W6.0-H8.0-P3.90-LS9.0
+Circuit
+SPST
+Actuator Style
+Round Button
+Operating Force
+1.8N
+Mounting Type
+Surface Mount,Vertical
+Length
+6mm
+Width
+6mm
+Switch Height
+4.3mm
+with Bracket
+Without Bracket
+Actuator/Cap Color
+Black
+Termination Style
+Gull Wing
+Life
+-
+Description
+Circuit:SPST Actuator Style:Round Button Operating Force:1.8N Mounting Type:Surface Mount,Vertical Length:6mm Width:6mm Switch Height:4.3mm with Bracket:Without Bracket Actuator/Cap Color:Black Termination Style:Gull Wing Life:-
+Symbol
+TS-1095PS-A1B2-C3D2
+Designator
+SW56
+Name
+TS-1095PS-A1B2-C3D2
+Device
+TS-1095PS-A1B2-C3D2
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge37
+
+*
+]
+[
+DESIGNATOR
+SW50
+FOOTPRINT
+KEY-SMD_4P-L6.0-W6.0-P3.90-LS9.0
+PARTTYPE
+TS-1095PS-A1B2-C3D2
+DESCRIPTION
+Circuit:SPST Actuator Style:Round Button Operating Force:1.8N Mounting Type:Surface Mount,Vertical Length:6mm Width:6mm Switch Height:4.3mm with Bracket:Without Bracket Actuator/Cap Color:Black Termination Style:Gull Wing Life:-
+Component Kind
+Standard
+Supplier
+LCSC
+Supplier Part
+C2834918
+Manufacturer
+Yuandi(元迪)
+Manufacturer Part
+TS-1095PS-A1B2-C3D2
+JLCPCB Part Class
+Extended Part
+LCSC Part Name
+6*6*4.3mm 立贴 轻触开关
+Supplier Footprint
+SMD-4P,6x6mm
+Datasheet
+https://item.szlcsc.com/datasheet/TS-1095PS-A1B2-C3D2/2997598.html
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+KEY-SMD_4P-L6.0-W6.0-H8.0-P3.90-LS9.0
+Circuit
+SPST
+Actuator Style
+Round Button
+Operating Force
+1.8N
+Mounting Type
+Surface Mount,Vertical
+Length
+6mm
+Width
+6mm
+Switch Height
+4.3mm
+with Bracket
+Without Bracket
+Actuator/Cap Color
+Black
+Termination Style
+Gull Wing
+Life
+-
+Description
+Circuit:SPST Actuator Style:Round Button Operating Force:1.8N Mounting Type:Surface Mount,Vertical Length:6mm Width:6mm Switch Height:4.3mm with Bracket:Without Bracket Actuator/Cap Color:Black Termination Style:Gull Wing Life:-
+Symbol
+TS-1095PS-A1B2-C3D2
+Designator
+SW50
+Name
+TS-1095PS-A1B2-C3D2
+Device
+TS-1095PS-A1B2-C3D2
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge38
+
+*
+]
+[
+DESIGNATOR
+SW48
+FOOTPRINT
+KEY-SMD_4P-L6.0-W6.0-P3.90-LS9.0
+PARTTYPE
+TS-1095PS-A1B2-C3D2
+DESCRIPTION
+Circuit:SPST Actuator Style:Round Button Operating Force:1.8N Mounting Type:Surface Mount,Vertical Length:6mm Width:6mm Switch Height:4.3mm with Bracket:Without Bracket Actuator/Cap Color:Black Termination Style:Gull Wing Life:-
+Component Kind
+Standard
+Supplier
+LCSC
+Supplier Part
+C2834918
+Manufacturer
+Yuandi(元迪)
+Manufacturer Part
+TS-1095PS-A1B2-C3D2
+JLCPCB Part Class
+Extended Part
+LCSC Part Name
+6*6*4.3mm 立贴 轻触开关
+Supplier Footprint
+SMD-4P,6x6mm
+Datasheet
+https://item.szlcsc.com/datasheet/TS-1095PS-A1B2-C3D2/2997598.html
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+KEY-SMD_4P-L6.0-W6.0-H8.0-P3.90-LS9.0
+Circuit
+SPST
+Actuator Style
+Round Button
+Operating Force
+1.8N
+Mounting Type
+Surface Mount,Vertical
+Length
+6mm
+Width
+6mm
+Switch Height
+4.3mm
+with Bracket
+Without Bracket
+Actuator/Cap Color
+Black
+Termination Style
+Gull Wing
+Life
+-
+Description
+Circuit:SPST Actuator Style:Round Button Operating Force:1.8N Mounting Type:Surface Mount,Vertical Length:6mm Width:6mm Switch Height:4.3mm with Bracket:Without Bracket Actuator/Cap Color:Black Termination Style:Gull Wing Life:-
+Symbol
+TS-1095PS-A1B2-C3D2
+Designator
+SW48
+Name
+TS-1095PS-A1B2-C3D2
+Device
+TS-1095PS-A1B2-C3D2
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge39
+
+*
+]
+[
+DESIGNATOR
+SW42
+FOOTPRINT
+KEY-SMD_4P-L6.0-W6.0-P3.90-LS9.0
+PARTTYPE
+TS-1095PS-A1B2-C3D2
+DESCRIPTION
+Circuit:SPST Actuator Style:Round Button Operating Force:1.8N Mounting Type:Surface Mount,Vertical Length:6mm Width:6mm Switch Height:4.3mm with Bracket:Without Bracket Actuator/Cap Color:Black Termination Style:Gull Wing Life:-
+Component Kind
+Standard
+Supplier
+LCSC
+Supplier Part
+C2834918
+Manufacturer
+Yuandi(元迪)
+Manufacturer Part
+TS-1095PS-A1B2-C3D2
+JLCPCB Part Class
+Extended Part
+LCSC Part Name
+6*6*4.3mm 立贴 轻触开关
+Supplier Footprint
+SMD-4P,6x6mm
+Datasheet
+https://item.szlcsc.com/datasheet/TS-1095PS-A1B2-C3D2/2997598.html
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+KEY-SMD_4P-L6.0-W6.0-H8.0-P3.90-LS9.0
+Circuit
+SPST
+Actuator Style
+Round Button
+Operating Force
+1.8N
+Mounting Type
+Surface Mount,Vertical
+Length
+6mm
+Width
+6mm
+Switch Height
+4.3mm
+with Bracket
+Without Bracket
+Actuator/Cap Color
+Black
+Termination Style
+Gull Wing
+Life
+-
+Description
+Circuit:SPST Actuator Style:Round Button Operating Force:1.8N Mounting Type:Surface Mount,Vertical Length:6mm Width:6mm Switch Height:4.3mm with Bracket:Without Bracket Actuator/Cap Color:Black Termination Style:Gull Wing Life:-
+Symbol
+TS-1095PS-A1B2-C3D2
+Designator
+SW42
+Name
+TS-1095PS-A1B2-C3D2
+Device
+TS-1095PS-A1B2-C3D2
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge40
+
+*
+]
+[
+DESIGNATOR
+SW46
+FOOTPRINT
+KEY-SMD_4P-L6.0-W6.0-P3.90-LS9.0
+PARTTYPE
+TS-1095PS-A1B2-C3D2
+DESCRIPTION
+Circuit:SPST Actuator Style:Round Button Operating Force:1.8N Mounting Type:Surface Mount,Vertical Length:6mm Width:6mm Switch Height:4.3mm with Bracket:Without Bracket Actuator/Cap Color:Black Termination Style:Gull Wing Life:-
+Component Kind
+Standard
+Supplier
+LCSC
+Supplier Part
+C2834918
+Manufacturer
+Yuandi(元迪)
+Manufacturer Part
+TS-1095PS-A1B2-C3D2
+JLCPCB Part Class
+Extended Part
+LCSC Part Name
+6*6*4.3mm 立贴 轻触开关
+Supplier Footprint
+SMD-4P,6x6mm
+Datasheet
+https://item.szlcsc.com/datasheet/TS-1095PS-A1B2-C3D2/2997598.html
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+KEY-SMD_4P-L6.0-W6.0-H8.0-P3.90-LS9.0
+Circuit
+SPST
+Actuator Style
+Round Button
+Operating Force
+1.8N
+Mounting Type
+Surface Mount,Vertical
+Length
+6mm
+Width
+6mm
+Switch Height
+4.3mm
+with Bracket
+Without Bracket
+Actuator/Cap Color
+Black
+Termination Style
+Gull Wing
+Life
+-
+Description
+Circuit:SPST Actuator Style:Round Button Operating Force:1.8N Mounting Type:Surface Mount,Vertical Length:6mm Width:6mm Switch Height:4.3mm with Bracket:Without Bracket Actuator/Cap Color:Black Termination Style:Gull Wing Life:-
+Symbol
+TS-1095PS-A1B2-C3D2
+Designator
+SW46
+Name
+TS-1095PS-A1B2-C3D2
+Device
+TS-1095PS-A1B2-C3D2
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge41
+
+*
+]
+[
+DESIGNATOR
+SW40
+FOOTPRINT
+KEY-SMD_4P-L6.0-W6.0-P3.90-LS9.0
+PARTTYPE
+TS-1095PS-A1B2-C3D2
+DESCRIPTION
+Circuit:SPST Actuator Style:Round Button Operating Force:1.8N Mounting Type:Surface Mount,Vertical Length:6mm Width:6mm Switch Height:4.3mm with Bracket:Without Bracket Actuator/Cap Color:Black Termination Style:Gull Wing Life:-
+Component Kind
+Standard
+Supplier
+LCSC
+Supplier Part
+C2834918
+Manufacturer
+Yuandi(元迪)
+Manufacturer Part
+TS-1095PS-A1B2-C3D2
+JLCPCB Part Class
+Extended Part
+LCSC Part Name
+6*6*4.3mm 立贴 轻触开关
+Supplier Footprint
+SMD-4P,6x6mm
+Datasheet
+https://item.szlcsc.com/datasheet/TS-1095PS-A1B2-C3D2/2997598.html
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+KEY-SMD_4P-L6.0-W6.0-H8.0-P3.90-LS9.0
+Circuit
+SPST
+Actuator Style
+Round Button
+Operating Force
+1.8N
+Mounting Type
+Surface Mount,Vertical
+Length
+6mm
+Width
+6mm
+Switch Height
+4.3mm
+with Bracket
+Without Bracket
+Actuator/Cap Color
+Black
+Termination Style
+Gull Wing
+Life
+-
+Description
+Circuit:SPST Actuator Style:Round Button Operating Force:1.8N Mounting Type:Surface Mount,Vertical Length:6mm Width:6mm Switch Height:4.3mm with Bracket:Without Bracket Actuator/Cap Color:Black Termination Style:Gull Wing Life:-
+Symbol
+TS-1095PS-A1B2-C3D2
+Designator
+SW40
+Name
+TS-1095PS-A1B2-C3D2
+Device
+TS-1095PS-A1B2-C3D2
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge42
+
+*
+]
+[
+DESIGNATOR
+SW59
+FOOTPRINT
+KEY-SMD_4P-L6.0-W6.0-P3.90-LS9.0
+PARTTYPE
+TS-1095PS-A1B2-C3D2
+DESCRIPTION
+Circuit:SPST Actuator Style:Round Button Operating Force:1.8N Mounting Type:Surface Mount,Vertical Length:6mm Width:6mm Switch Height:4.3mm with Bracket:Without Bracket Actuator/Cap Color:Black Termination Style:Gull Wing Life:-
+Component Kind
+Standard
+Supplier
+LCSC
+Supplier Part
+C2834918
+Manufacturer
+Yuandi(元迪)
+Manufacturer Part
+TS-1095PS-A1B2-C3D2
+JLCPCB Part Class
+Extended Part
+LCSC Part Name
+6*6*4.3mm 立贴 轻触开关
+Supplier Footprint
+SMD-4P,6x6mm
+Datasheet
+https://item.szlcsc.com/datasheet/TS-1095PS-A1B2-C3D2/2997598.html
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+KEY-SMD_4P-L6.0-W6.0-H8.0-P3.90-LS9.0
+Circuit
+SPST
+Actuator Style
+Round Button
+Operating Force
+1.8N
+Mounting Type
+Surface Mount,Vertical
+Length
+6mm
+Width
+6mm
+Switch Height
+4.3mm
+with Bracket
+Without Bracket
+Actuator/Cap Color
+Black
+Termination Style
+Gull Wing
+Life
+-
+Description
+Circuit:SPST Actuator Style:Round Button Operating Force:1.8N Mounting Type:Surface Mount,Vertical Length:6mm Width:6mm Switch Height:4.3mm with Bracket:Without Bracket Actuator/Cap Color:Black Termination Style:Gull Wing Life:-
+Symbol
+TS-1095PS-A1B2-C3D2
+Designator
+SW59
+Name
+TS-1095PS-A1B2-C3D2
+Device
+TS-1095PS-A1B2-C3D2
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge43
+
+*
+]
+[
+DESIGNATOR
+SW53
+FOOTPRINT
+KEY-SMD_4P-L6.0-W6.0-P3.90-LS9.0
+PARTTYPE
+TS-1095PS-A1B2-C3D2
+DESCRIPTION
+Circuit:SPST Actuator Style:Round Button Operating Force:1.8N Mounting Type:Surface Mount,Vertical Length:6mm Width:6mm Switch Height:4.3mm with Bracket:Without Bracket Actuator/Cap Color:Black Termination Style:Gull Wing Life:-
+Component Kind
+Standard
+Supplier
+LCSC
+Supplier Part
+C2834918
+Manufacturer
+Yuandi(元迪)
+Manufacturer Part
+TS-1095PS-A1B2-C3D2
+JLCPCB Part Class
+Extended Part
+LCSC Part Name
+6*6*4.3mm 立贴 轻触开关
+Supplier Footprint
+SMD-4P,6x6mm
+Datasheet
+https://item.szlcsc.com/datasheet/TS-1095PS-A1B2-C3D2/2997598.html
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+KEY-SMD_4P-L6.0-W6.0-H8.0-P3.90-LS9.0
+Circuit
+SPST
+Actuator Style
+Round Button
+Operating Force
+1.8N
+Mounting Type
+Surface Mount,Vertical
+Length
+6mm
+Width
+6mm
+Switch Height
+4.3mm
+with Bracket
+Without Bracket
+Actuator/Cap Color
+Black
+Termination Style
+Gull Wing
+Life
+-
+Description
+Circuit:SPST Actuator Style:Round Button Operating Force:1.8N Mounting Type:Surface Mount,Vertical Length:6mm Width:6mm Switch Height:4.3mm with Bracket:Without Bracket Actuator/Cap Color:Black Termination Style:Gull Wing Life:-
+Symbol
+TS-1095PS-A1B2-C3D2
+Designator
+SW53
+Name
+TS-1095PS-A1B2-C3D2
+Device
+TS-1095PS-A1B2-C3D2
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge44
+
+*
+]
+[
+DESIGNATOR
+SW41
+FOOTPRINT
+KEY-SMD_4P-L6.0-W6.0-P3.90-LS9.0
+PARTTYPE
+TS-1095PS-A1B2-C3D2
+DESCRIPTION
+Circuit:SPST Actuator Style:Round Button Operating Force:1.8N Mounting Type:Surface Mount,Vertical Length:6mm Width:6mm Switch Height:4.3mm with Bracket:Without Bracket Actuator/Cap Color:Black Termination Style:Gull Wing Life:-
+Component Kind
+Standard
+Supplier
+LCSC
+Supplier Part
+C2834918
+Manufacturer
+Yuandi(元迪)
+Manufacturer Part
+TS-1095PS-A1B2-C3D2
+JLCPCB Part Class
+Extended Part
+LCSC Part Name
+6*6*4.3mm 立贴 轻触开关
+Supplier Footprint
+SMD-4P,6x6mm
+Datasheet
+https://item.szlcsc.com/datasheet/TS-1095PS-A1B2-C3D2/2997598.html
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+KEY-SMD_4P-L6.0-W6.0-H8.0-P3.90-LS9.0
+Circuit
+SPST
+Actuator Style
+Round Button
+Operating Force
+1.8N
+Mounting Type
+Surface Mount,Vertical
+Length
+6mm
+Width
+6mm
+Switch Height
+4.3mm
+with Bracket
+Without Bracket
+Actuator/Cap Color
+Black
+Termination Style
+Gull Wing
+Life
+-
+Description
+Circuit:SPST Actuator Style:Round Button Operating Force:1.8N Mounting Type:Surface Mount,Vertical Length:6mm Width:6mm Switch Height:4.3mm with Bracket:Without Bracket Actuator/Cap Color:Black Termination Style:Gull Wing Life:-
+Symbol
+TS-1095PS-A1B2-C3D2
+Designator
+SW41
+Name
+TS-1095PS-A1B2-C3D2
+Device
+TS-1095PS-A1B2-C3D2
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge45
+
+*
+]
+[
+DESIGNATOR
+SW47
+FOOTPRINT
+KEY-SMD_4P-L6.0-W6.0-P3.90-LS9.0
+PARTTYPE
+TS-1095PS-A1B2-C3D2
+DESCRIPTION
+Circuit:SPST Actuator Style:Round Button Operating Force:1.8N Mounting Type:Surface Mount,Vertical Length:6mm Width:6mm Switch Height:4.3mm with Bracket:Without Bracket Actuator/Cap Color:Black Termination Style:Gull Wing Life:-
+Component Kind
+Standard
+Supplier
+LCSC
+Supplier Part
+C2834918
+Manufacturer
+Yuandi(元迪)
+Manufacturer Part
+TS-1095PS-A1B2-C3D2
+JLCPCB Part Class
+Extended Part
+LCSC Part Name
+6*6*4.3mm 立贴 轻触开关
+Supplier Footprint
+SMD-4P,6x6mm
+Datasheet
+https://item.szlcsc.com/datasheet/TS-1095PS-A1B2-C3D2/2997598.html
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+KEY-SMD_4P-L6.0-W6.0-H8.0-P3.90-LS9.0
+Circuit
+SPST
+Actuator Style
+Round Button
+Operating Force
+1.8N
+Mounting Type
+Surface Mount,Vertical
+Length
+6mm
+Width
+6mm
+Switch Height
+4.3mm
+with Bracket
+Without Bracket
+Actuator/Cap Color
+Black
+Termination Style
+Gull Wing
+Life
+-
+Description
+Circuit:SPST Actuator Style:Round Button Operating Force:1.8N Mounting Type:Surface Mount,Vertical Length:6mm Width:6mm Switch Height:4.3mm with Bracket:Without Bracket Actuator/Cap Color:Black Termination Style:Gull Wing Life:-
+Symbol
+TS-1095PS-A1B2-C3D2
+Designator
+SW47
+Name
+TS-1095PS-A1B2-C3D2
+Device
+TS-1095PS-A1B2-C3D2
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge46
+
+*
+]
+[
+DESIGNATOR
+SW51
+FOOTPRINT
+KEY-SMD_4P-L6.0-W6.0-P3.90-LS9.0
+PARTTYPE
+TS-1095PS-A1B2-C3D2
+DESCRIPTION
+Circuit:SPST Actuator Style:Round Button Operating Force:1.8N Mounting Type:Surface Mount,Vertical Length:6mm Width:6mm Switch Height:4.3mm with Bracket:Without Bracket Actuator/Cap Color:Black Termination Style:Gull Wing Life:-
+Component Kind
+Standard
+Supplier
+LCSC
+Supplier Part
+C2834918
+Manufacturer
+Yuandi(元迪)
+Manufacturer Part
+TS-1095PS-A1B2-C3D2
+JLCPCB Part Class
+Extended Part
+LCSC Part Name
+6*6*4.3mm 立贴 轻触开关
+Supplier Footprint
+SMD-4P,6x6mm
+Datasheet
+https://item.szlcsc.com/datasheet/TS-1095PS-A1B2-C3D2/2997598.html
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+KEY-SMD_4P-L6.0-W6.0-H8.0-P3.90-LS9.0
+Circuit
+SPST
+Actuator Style
+Round Button
+Operating Force
+1.8N
+Mounting Type
+Surface Mount,Vertical
+Length
+6mm
+Width
+6mm
+Switch Height
+4.3mm
+with Bracket
+Without Bracket
+Actuator/Cap Color
+Black
+Termination Style
+Gull Wing
+Life
+-
+Description
+Circuit:SPST Actuator Style:Round Button Operating Force:1.8N Mounting Type:Surface Mount,Vertical Length:6mm Width:6mm Switch Height:4.3mm with Bracket:Without Bracket Actuator/Cap Color:Black Termination Style:Gull Wing Life:-
+Symbol
+TS-1095PS-A1B2-C3D2
+Designator
+SW51
+Name
+TS-1095PS-A1B2-C3D2
+Device
+TS-1095PS-A1B2-C3D2
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge47
+
+*
+]
+[
+DESIGNATOR
+SW45
+FOOTPRINT
+KEY-SMD_4P-L6.0-W6.0-P3.90-LS9.0
+PARTTYPE
+TS-1095PS-A1B2-C3D2
+DESCRIPTION
+Circuit:SPST Actuator Style:Round Button Operating Force:1.8N Mounting Type:Surface Mount,Vertical Length:6mm Width:6mm Switch Height:4.3mm with Bracket:Without Bracket Actuator/Cap Color:Black Termination Style:Gull Wing Life:-
+Component Kind
+Standard
+Supplier
+LCSC
+Supplier Part
+C2834918
+Manufacturer
+Yuandi(元迪)
+Manufacturer Part
+TS-1095PS-A1B2-C3D2
+JLCPCB Part Class
+Extended Part
+LCSC Part Name
+6*6*4.3mm 立贴 轻触开关
+Supplier Footprint
+SMD-4P,6x6mm
+Datasheet
+https://item.szlcsc.com/datasheet/TS-1095PS-A1B2-C3D2/2997598.html
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+KEY-SMD_4P-L6.0-W6.0-H8.0-P3.90-LS9.0
+Circuit
+SPST
+Actuator Style
+Round Button
+Operating Force
+1.8N
+Mounting Type
+Surface Mount,Vertical
+Length
+6mm
+Width
+6mm
+Switch Height
+4.3mm
+with Bracket
+Without Bracket
+Actuator/Cap Color
+Black
+Termination Style
+Gull Wing
+Life
+-
+Description
+Circuit:SPST Actuator Style:Round Button Operating Force:1.8N Mounting Type:Surface Mount,Vertical Length:6mm Width:6mm Switch Height:4.3mm with Bracket:Without Bracket Actuator/Cap Color:Black Termination Style:Gull Wing Life:-
+Symbol
+TS-1095PS-A1B2-C3D2
+Designator
+SW45
+Name
+TS-1095PS-A1B2-C3D2
+Device
+TS-1095PS-A1B2-C3D2
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge48
+
+*
+]
+[
+DESIGNATOR
+SW44
+FOOTPRINT
+KEY-SMD_4P-L6.0-W6.0-P3.90-LS9.0
+PARTTYPE
+TS-1095PS-A1B2-C3D2
+DESCRIPTION
+Circuit:SPST Actuator Style:Round Button Operating Force:1.8N Mounting Type:Surface Mount,Vertical Length:6mm Width:6mm Switch Height:4.3mm with Bracket:Without Bracket Actuator/Cap Color:Black Termination Style:Gull Wing Life:-
+Component Kind
+Standard
+Supplier
+LCSC
+Supplier Part
+C2834918
+Manufacturer
+Yuandi(元迪)
+Manufacturer Part
+TS-1095PS-A1B2-C3D2
+JLCPCB Part Class
+Extended Part
+LCSC Part Name
+6*6*4.3mm 立贴 轻触开关
+Supplier Footprint
+SMD-4P,6x6mm
+Datasheet
+https://item.szlcsc.com/datasheet/TS-1095PS-A1B2-C3D2/2997598.html
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+KEY-SMD_4P-L6.0-W6.0-H8.0-P3.90-LS9.0
+Circuit
+SPST
+Actuator Style
+Round Button
+Operating Force
+1.8N
+Mounting Type
+Surface Mount,Vertical
+Length
+6mm
+Width
+6mm
+Switch Height
+4.3mm
+with Bracket
+Without Bracket
+Actuator/Cap Color
+Black
+Termination Style
+Gull Wing
+Life
+-
+Description
+Circuit:SPST Actuator Style:Round Button Operating Force:1.8N Mounting Type:Surface Mount,Vertical Length:6mm Width:6mm Switch Height:4.3mm with Bracket:Without Bracket Actuator/Cap Color:Black Termination Style:Gull Wing Life:-
+Symbol
+TS-1095PS-A1B2-C3D2
+Designator
+SW44
+Name
+TS-1095PS-A1B2-C3D2
+Device
+TS-1095PS-A1B2-C3D2
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge49
+
+*
+]
+[
+DESIGNATOR
+SW38
+FOOTPRINT
+KEY-SMD_4P-L6.0-W6.0-P3.90-LS9.0
+PARTTYPE
+TS-1095PS-A1B2-C3D2
+DESCRIPTION
+Circuit:SPST Actuator Style:Round Button Operating Force:1.8N Mounting Type:Surface Mount,Vertical Length:6mm Width:6mm Switch Height:4.3mm with Bracket:Without Bracket Actuator/Cap Color:Black Termination Style:Gull Wing Life:-
+Component Kind
+Standard
+Supplier
+LCSC
+Supplier Part
+C2834918
+Manufacturer
+Yuandi(元迪)
+Manufacturer Part
+TS-1095PS-A1B2-C3D2
+JLCPCB Part Class
+Extended Part
+LCSC Part Name
+6*6*4.3mm 立贴 轻触开关
+Supplier Footprint
+SMD-4P,6x6mm
+Datasheet
+https://item.szlcsc.com/datasheet/TS-1095PS-A1B2-C3D2/2997598.html
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+KEY-SMD_4P-L6.0-W6.0-H8.0-P3.90-LS9.0
+Circuit
+SPST
+Actuator Style
+Round Button
+Operating Force
+1.8N
+Mounting Type
+Surface Mount,Vertical
+Length
+6mm
+Width
+6mm
+Switch Height
+4.3mm
+with Bracket
+Without Bracket
+Actuator/Cap Color
+Black
+Termination Style
+Gull Wing
+Life
+-
+Description
+Circuit:SPST Actuator Style:Round Button Operating Force:1.8N Mounting Type:Surface Mount,Vertical Length:6mm Width:6mm Switch Height:4.3mm with Bracket:Without Bracket Actuator/Cap Color:Black Termination Style:Gull Wing Life:-
+Symbol
+TS-1095PS-A1B2-C3D2
+Designator
+SW38
+Name
+TS-1095PS-A1B2-C3D2
+Device
+TS-1095PS-A1B2-C3D2
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge50
+
+*
+]
+[
+DESIGNATOR
+SW39
+FOOTPRINT
+KEY-SMD_4P-L6.0-W6.0-P3.90-LS9.0
+PARTTYPE
+TS-1095PS-A1B2-C3D2
+DESCRIPTION
+Circuit:SPST Actuator Style:Round Button Operating Force:1.8N Mounting Type:Surface Mount,Vertical Length:6mm Width:6mm Switch Height:4.3mm with Bracket:Without Bracket Actuator/Cap Color:Black Termination Style:Gull Wing Life:-
+Component Kind
+Standard
+Supplier
+LCSC
+Supplier Part
+C2834918
+Manufacturer
+Yuandi(元迪)
+Manufacturer Part
+TS-1095PS-A1B2-C3D2
+JLCPCB Part Class
+Extended Part
+LCSC Part Name
+6*6*4.3mm 立贴 轻触开关
+Supplier Footprint
+SMD-4P,6x6mm
+Datasheet
+https://item.szlcsc.com/datasheet/TS-1095PS-A1B2-C3D2/2997598.html
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+KEY-SMD_4P-L6.0-W6.0-H8.0-P3.90-LS9.0
+Circuit
+SPST
+Actuator Style
+Round Button
+Operating Force
+1.8N
+Mounting Type
+Surface Mount,Vertical
+Length
+6mm
+Width
+6mm
+Switch Height
+4.3mm
+with Bracket
+Without Bracket
+Actuator/Cap Color
+Black
+Termination Style
+Gull Wing
+Life
+-
+Description
+Circuit:SPST Actuator Style:Round Button Operating Force:1.8N Mounting Type:Surface Mount,Vertical Length:6mm Width:6mm Switch Height:4.3mm with Bracket:Without Bracket Actuator/Cap Color:Black Termination Style:Gull Wing Life:-
+Symbol
+TS-1095PS-A1B2-C3D2
+Designator
+SW39
+Name
+TS-1095PS-A1B2-C3D2
+Device
+TS-1095PS-A1B2-C3D2
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge51
+
+*
+]
+[
+DESIGNATOR
+SW36
+FOOTPRINT
+KEY-SMD_4P-L6.0-W6.0-P3.90-LS9.0
+PARTTYPE
+TS-1095PS-A1B2-C3D2
+DESCRIPTION
+Circuit:SPST Actuator Style:Round Button Operating Force:1.8N Mounting Type:Surface Mount,Vertical Length:6mm Width:6mm Switch Height:4.3mm with Bracket:Without Bracket Actuator/Cap Color:Black Termination Style:Gull Wing Life:-
+Component Kind
+Standard
+Supplier
+LCSC
+Supplier Part
+C2834918
+Manufacturer
+Yuandi(元迪)
+Manufacturer Part
+TS-1095PS-A1B2-C3D2
+JLCPCB Part Class
+Extended Part
+LCSC Part Name
+6*6*4.3mm 立贴 轻触开关
+Supplier Footprint
+SMD-4P,6x6mm
+Datasheet
+https://item.szlcsc.com/datasheet/TS-1095PS-A1B2-C3D2/2997598.html
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+KEY-SMD_4P-L6.0-W6.0-H8.0-P3.90-LS9.0
+Circuit
+SPST
+Actuator Style
+Round Button
+Operating Force
+1.8N
+Mounting Type
+Surface Mount,Vertical
+Length
+6mm
+Width
+6mm
+Switch Height
+4.3mm
+with Bracket
+Without Bracket
+Actuator/Cap Color
+Black
+Termination Style
+Gull Wing
+Life
+-
+Description
+Circuit:SPST Actuator Style:Round Button Operating Force:1.8N Mounting Type:Surface Mount,Vertical Length:6mm Width:6mm Switch Height:4.3mm with Bracket:Without Bracket Actuator/Cap Color:Black Termination Style:Gull Wing Life:-
+Symbol
+TS-1095PS-A1B2-C3D2
+Designator
+SW36
+Name
+TS-1095PS-A1B2-C3D2
+Device
+TS-1095PS-A1B2-C3D2
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge52
+
+*
+]
+[
+DESIGNATOR
+SW35
+FOOTPRINT
+KEY-SMD_4P-L6.0-W6.0-P3.90-LS9.0
+PARTTYPE
+TS-1095PS-A1B2-C3D2
+DESCRIPTION
+Circuit:SPST Actuator Style:Round Button Operating Force:1.8N Mounting Type:Surface Mount,Vertical Length:6mm Width:6mm Switch Height:4.3mm with Bracket:Without Bracket Actuator/Cap Color:Black Termination Style:Gull Wing Life:-
+Component Kind
+Standard
+Supplier
+LCSC
+Supplier Part
+C2834918
+Manufacturer
+Yuandi(元迪)
+Manufacturer Part
+TS-1095PS-A1B2-C3D2
+JLCPCB Part Class
+Extended Part
+LCSC Part Name
+6*6*4.3mm 立贴 轻触开关
+Supplier Footprint
+SMD-4P,6x6mm
+Datasheet
+https://item.szlcsc.com/datasheet/TS-1095PS-A1B2-C3D2/2997598.html
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+KEY-SMD_4P-L6.0-W6.0-H8.0-P3.90-LS9.0
+Circuit
+SPST
+Actuator Style
+Round Button
+Operating Force
+1.8N
+Mounting Type
+Surface Mount,Vertical
+Length
+6mm
+Width
+6mm
+Switch Height
+4.3mm
+with Bracket
+Without Bracket
+Actuator/Cap Color
+Black
+Termination Style
+Gull Wing
+Life
+-
+Description
+Circuit:SPST Actuator Style:Round Button Operating Force:1.8N Mounting Type:Surface Mount,Vertical Length:6mm Width:6mm Switch Height:4.3mm with Bracket:Without Bracket Actuator/Cap Color:Black Termination Style:Gull Wing Life:-
+Symbol
+TS-1095PS-A1B2-C3D2
+Designator
+SW35
+Name
+TS-1095PS-A1B2-C3D2
+Device
+TS-1095PS-A1B2-C3D2
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge53
+
+*
+]
+[
+DESIGNATOR
+SW34
+FOOTPRINT
+KEY-SMD_4P-L6.0-W6.0-P3.90-LS9.0
+PARTTYPE
+TS-1095PS-A1B2-C3D2
+DESCRIPTION
+Circuit:SPST Actuator Style:Round Button Operating Force:1.8N Mounting Type:Surface Mount,Vertical Length:6mm Width:6mm Switch Height:4.3mm with Bracket:Without Bracket Actuator/Cap Color:Black Termination Style:Gull Wing Life:-
+Component Kind
+Standard
+Supplier
+LCSC
+Supplier Part
+C2834918
+Manufacturer
+Yuandi(元迪)
+Manufacturer Part
+TS-1095PS-A1B2-C3D2
+JLCPCB Part Class
+Extended Part
+LCSC Part Name
+6*6*4.3mm 立贴 轻触开关
+Supplier Footprint
+SMD-4P,6x6mm
+Datasheet
+https://item.szlcsc.com/datasheet/TS-1095PS-A1B2-C3D2/2997598.html
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+KEY-SMD_4P-L6.0-W6.0-H8.0-P3.90-LS9.0
+Circuit
+SPST
+Actuator Style
+Round Button
+Operating Force
+1.8N
+Mounting Type
+Surface Mount,Vertical
+Length
+6mm
+Width
+6mm
+Switch Height
+4.3mm
+with Bracket
+Without Bracket
+Actuator/Cap Color
+Black
+Termination Style
+Gull Wing
+Life
+-
+Description
+Circuit:SPST Actuator Style:Round Button Operating Force:1.8N Mounting Type:Surface Mount,Vertical Length:6mm Width:6mm Switch Height:4.3mm with Bracket:Without Bracket Actuator/Cap Color:Black Termination Style:Gull Wing Life:-
+Symbol
+TS-1095PS-A1B2-C3D2
+Designator
+SW34
+Name
+TS-1095PS-A1B2-C3D2
+Device
+TS-1095PS-A1B2-C3D2
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge54
+
+*
+]
+[
+DESIGNATOR
+SW32
+FOOTPRINT
+KEY-SMD_4P-L6.0-W6.0-P3.90-LS9.0
+PARTTYPE
+TS-1095PS-A1B2-C3D2
+DESCRIPTION
+Circuit:SPST Actuator Style:Round Button Operating Force:1.8N Mounting Type:Surface Mount,Vertical Length:6mm Width:6mm Switch Height:4.3mm with Bracket:Without Bracket Actuator/Cap Color:Black Termination Style:Gull Wing Life:-
+Component Kind
+Standard
+Supplier
+LCSC
+Supplier Part
+C2834918
+Manufacturer
+Yuandi(元迪)
+Manufacturer Part
+TS-1095PS-A1B2-C3D2
+JLCPCB Part Class
+Extended Part
+LCSC Part Name
+6*6*4.3mm 立贴 轻触开关
+Supplier Footprint
+SMD-4P,6x6mm
+Datasheet
+https://item.szlcsc.com/datasheet/TS-1095PS-A1B2-C3D2/2997598.html
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+KEY-SMD_4P-L6.0-W6.0-H8.0-P3.90-LS9.0
+Circuit
+SPST
+Actuator Style
+Round Button
+Operating Force
+1.8N
+Mounting Type
+Surface Mount,Vertical
+Length
+6mm
+Width
+6mm
+Switch Height
+4.3mm
+with Bracket
+Without Bracket
+Actuator/Cap Color
+Black
+Termination Style
+Gull Wing
+Life
+-
+Description
+Circuit:SPST Actuator Style:Round Button Operating Force:1.8N Mounting Type:Surface Mount,Vertical Length:6mm Width:6mm Switch Height:4.3mm with Bracket:Without Bracket Actuator/Cap Color:Black Termination Style:Gull Wing Life:-
+Symbol
+TS-1095PS-A1B2-C3D2
+Designator
+SW32
+Name
+TS-1095PS-A1B2-C3D2
+Device
+TS-1095PS-A1B2-C3D2
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge55
+
+*
+]
+[
+DESIGNATOR
+SW33
+FOOTPRINT
+KEY-SMD_4P-L6.0-W6.0-P3.90-LS9.0
+PARTTYPE
+TS-1095PS-A1B2-C3D2
+DESCRIPTION
+Circuit:SPST Actuator Style:Round Button Operating Force:1.8N Mounting Type:Surface Mount,Vertical Length:6mm Width:6mm Switch Height:4.3mm with Bracket:Without Bracket Actuator/Cap Color:Black Termination Style:Gull Wing Life:-
+Component Kind
+Standard
+Supplier
+LCSC
+Supplier Part
+C2834918
+Manufacturer
+Yuandi(元迪)
+Manufacturer Part
+TS-1095PS-A1B2-C3D2
+JLCPCB Part Class
+Extended Part
+LCSC Part Name
+6*6*4.3mm 立贴 轻触开关
+Supplier Footprint
+SMD-4P,6x6mm
+Datasheet
+https://item.szlcsc.com/datasheet/TS-1095PS-A1B2-C3D2/2997598.html
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+KEY-SMD_4P-L6.0-W6.0-H8.0-P3.90-LS9.0
+Circuit
+SPST
+Actuator Style
+Round Button
+Operating Force
+1.8N
+Mounting Type
+Surface Mount,Vertical
+Length
+6mm
+Width
+6mm
+Switch Height
+4.3mm
+with Bracket
+Without Bracket
+Actuator/Cap Color
+Black
+Termination Style
+Gull Wing
+Life
+-
+Description
+Circuit:SPST Actuator Style:Round Button Operating Force:1.8N Mounting Type:Surface Mount,Vertical Length:6mm Width:6mm Switch Height:4.3mm with Bracket:Without Bracket Actuator/Cap Color:Black Termination Style:Gull Wing Life:-
+Symbol
+TS-1095PS-A1B2-C3D2
+Designator
+SW33
+Name
+TS-1095PS-A1B2-C3D2
+Device
+TS-1095PS-A1B2-C3D2
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge56
+
+*
+]
+[
+DESIGNATOR
+SW49
+FOOTPRINT
+KEY-SMD_4P-L6.0-W6.0-P3.90-LS9.0
+PARTTYPE
+TS-1095PS-A1B2-C3D2
+DESCRIPTION
+Circuit:SPST Actuator Style:Round Button Operating Force:1.8N Mounting Type:Surface Mount,Vertical Length:6mm Width:6mm Switch Height:4.3mm with Bracket:Without Bracket Actuator/Cap Color:Black Termination Style:Gull Wing Life:-
+Component Kind
+Standard
+Supplier
+LCSC
+Supplier Part
+C2834918
+Manufacturer
+Yuandi(元迪)
+Manufacturer Part
+TS-1095PS-A1B2-C3D2
+JLCPCB Part Class
+Extended Part
+LCSC Part Name
+6*6*4.3mm 立贴 轻触开关
+Supplier Footprint
+SMD-4P,6x6mm
+Datasheet
+https://item.szlcsc.com/datasheet/TS-1095PS-A1B2-C3D2/2997598.html
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+KEY-SMD_4P-L6.0-W6.0-H8.0-P3.90-LS9.0
+Circuit
+SPST
+Actuator Style
+Round Button
+Operating Force
+1.8N
+Mounting Type
+Surface Mount,Vertical
+Length
+6mm
+Width
+6mm
+Switch Height
+4.3mm
+with Bracket
+Without Bracket
+Actuator/Cap Color
+Black
+Termination Style
+Gull Wing
+Life
+-
+Description
+Circuit:SPST Actuator Style:Round Button Operating Force:1.8N Mounting Type:Surface Mount,Vertical Length:6mm Width:6mm Switch Height:4.3mm with Bracket:Without Bracket Actuator/Cap Color:Black Termination Style:Gull Wing Life:-
+Symbol
+TS-1095PS-A1B2-C3D2
+Designator
+SW49
+Name
+TS-1095PS-A1B2-C3D2
+Device
+TS-1095PS-A1B2-C3D2
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge57
+
+*
+]
+[
+DESIGNATOR
+SW55
+FOOTPRINT
+KEY-SMD_4P-L6.0-W6.0-P3.90-LS9.0
+PARTTYPE
+TS-1095PS-A1B2-C3D2
+DESCRIPTION
+Circuit:SPST Actuator Style:Round Button Operating Force:1.8N Mounting Type:Surface Mount,Vertical Length:6mm Width:6mm Switch Height:4.3mm with Bracket:Without Bracket Actuator/Cap Color:Black Termination Style:Gull Wing Life:-
+Component Kind
+Standard
+Supplier
+LCSC
+Supplier Part
+C2834918
+Manufacturer
+Yuandi(元迪)
+Manufacturer Part
+TS-1095PS-A1B2-C3D2
+JLCPCB Part Class
+Extended Part
+LCSC Part Name
+6*6*4.3mm 立贴 轻触开关
+Supplier Footprint
+SMD-4P,6x6mm
+Datasheet
+https://item.szlcsc.com/datasheet/TS-1095PS-A1B2-C3D2/2997598.html
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+KEY-SMD_4P-L6.0-W6.0-H8.0-P3.90-LS9.0
+Circuit
+SPST
+Actuator Style
+Round Button
+Operating Force
+1.8N
+Mounting Type
+Surface Mount,Vertical
+Length
+6mm
+Width
+6mm
+Switch Height
+4.3mm
+with Bracket
+Without Bracket
+Actuator/Cap Color
+Black
+Termination Style
+Gull Wing
+Life
+-
+Description
+Circuit:SPST Actuator Style:Round Button Operating Force:1.8N Mounting Type:Surface Mount,Vertical Length:6mm Width:6mm Switch Height:4.3mm with Bracket:Without Bracket Actuator/Cap Color:Black Termination Style:Gull Wing Life:-
+Symbol
+TS-1095PS-A1B2-C3D2
+Designator
+SW55
+Name
+TS-1095PS-A1B2-C3D2
+Device
+TS-1095PS-A1B2-C3D2
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge58
+
+*
+]
+[
+DESIGNATOR
+SW43
+FOOTPRINT
+KEY-SMD_4P-L6.0-W6.0-P3.90-LS9.0
+PARTTYPE
+TS-1095PS-A1B2-C3D2
+DESCRIPTION
+Circuit:SPST Actuator Style:Round Button Operating Force:1.8N Mounting Type:Surface Mount,Vertical Length:6mm Width:6mm Switch Height:4.3mm with Bracket:Without Bracket Actuator/Cap Color:Black Termination Style:Gull Wing Life:-
+Component Kind
+Standard
+Supplier
+LCSC
+Supplier Part
+C2834918
+Manufacturer
+Yuandi(元迪)
+Manufacturer Part
+TS-1095PS-A1B2-C3D2
+JLCPCB Part Class
+Extended Part
+LCSC Part Name
+6*6*4.3mm 立贴 轻触开关
+Supplier Footprint
+SMD-4P,6x6mm
+Datasheet
+https://item.szlcsc.com/datasheet/TS-1095PS-A1B2-C3D2/2997598.html
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+KEY-SMD_4P-L6.0-W6.0-H8.0-P3.90-LS9.0
+Circuit
+SPST
+Actuator Style
+Round Button
+Operating Force
+1.8N
+Mounting Type
+Surface Mount,Vertical
+Length
+6mm
+Width
+6mm
+Switch Height
+4.3mm
+with Bracket
+Without Bracket
+Actuator/Cap Color
+Black
+Termination Style
+Gull Wing
+Life
+-
+Description
+Circuit:SPST Actuator Style:Round Button Operating Force:1.8N Mounting Type:Surface Mount,Vertical Length:6mm Width:6mm Switch Height:4.3mm with Bracket:Without Bracket Actuator/Cap Color:Black Termination Style:Gull Wing Life:-
+Symbol
+TS-1095PS-A1B2-C3D2
+Designator
+SW43
+Name
+TS-1095PS-A1B2-C3D2
+Device
+TS-1095PS-A1B2-C3D2
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge59
+
+*
+]
+[
+DESIGNATOR
+SW37
+FOOTPRINT
+KEY-SMD_4P-L6.0-W6.0-P3.90-LS9.0
+PARTTYPE
+TS-1095PS-A1B2-C3D2
+DESCRIPTION
+Circuit:SPST Actuator Style:Round Button Operating Force:1.8N Mounting Type:Surface Mount,Vertical Length:6mm Width:6mm Switch Height:4.3mm with Bracket:Without Bracket Actuator/Cap Color:Black Termination Style:Gull Wing Life:-
+Component Kind
+Standard
+Supplier
+LCSC
+Supplier Part
+C2834918
+Manufacturer
+Yuandi(元迪)
+Manufacturer Part
+TS-1095PS-A1B2-C3D2
+JLCPCB Part Class
+Extended Part
+LCSC Part Name
+6*6*4.3mm 立贴 轻触开关
+Supplier Footprint
+SMD-4P,6x6mm
+Datasheet
+https://item.szlcsc.com/datasheet/TS-1095PS-A1B2-C3D2/2997598.html
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+KEY-SMD_4P-L6.0-W6.0-H8.0-P3.90-LS9.0
+Circuit
+SPST
+Actuator Style
+Round Button
+Operating Force
+1.8N
+Mounting Type
+Surface Mount,Vertical
+Length
+6mm
+Width
+6mm
+Switch Height
+4.3mm
+with Bracket
+Without Bracket
+Actuator/Cap Color
+Black
+Termination Style
+Gull Wing
+Life
+-
+Description
+Circuit:SPST Actuator Style:Round Button Operating Force:1.8N Mounting Type:Surface Mount,Vertical Length:6mm Width:6mm Switch Height:4.3mm with Bracket:Without Bracket Actuator/Cap Color:Black Termination Style:Gull Wing Life:-
+Symbol
+TS-1095PS-A1B2-C3D2
+Designator
+SW37
+Name
+TS-1095PS-A1B2-C3D2
+Device
+TS-1095PS-A1B2-C3D2
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge60
+
+*
+]
+[
+DESIGNATOR
+SW31
+FOOTPRINT
+KEY-SMD_4P-L6.0-W6.0-P3.90-LS9.0
+PARTTYPE
+TS-1095PS-A1B2-C3D2
+DESCRIPTION
+Circuit:SPST Actuator Style:Round Button Operating Force:1.8N Mounting Type:Surface Mount,Vertical Length:6mm Width:6mm Switch Height:4.3mm with Bracket:Without Bracket Actuator/Cap Color:Black Termination Style:Gull Wing Life:-
+Component Kind
+Standard
+Supplier
+LCSC
+Supplier Part
+C2834918
+Manufacturer
+Yuandi(元迪)
+Manufacturer Part
+TS-1095PS-A1B2-C3D2
+JLCPCB Part Class
+Extended Part
+LCSC Part Name
+6*6*4.3mm 立贴 轻触开关
+Supplier Footprint
+SMD-4P,6x6mm
+Datasheet
+https://item.szlcsc.com/datasheet/TS-1095PS-A1B2-C3D2/2997598.html
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+KEY-SMD_4P-L6.0-W6.0-H8.0-P3.90-LS9.0
+Circuit
+SPST
+Actuator Style
+Round Button
+Operating Force
+1.8N
+Mounting Type
+Surface Mount,Vertical
+Length
+6mm
+Width
+6mm
+Switch Height
+4.3mm
+with Bracket
+Without Bracket
+Actuator/Cap Color
+Black
+Termination Style
+Gull Wing
+Life
+-
+Description
+Circuit:SPST Actuator Style:Round Button Operating Force:1.8N Mounting Type:Surface Mount,Vertical Length:6mm Width:6mm Switch Height:4.3mm with Bracket:Without Bracket Actuator/Cap Color:Black Termination Style:Gull Wing Life:-
+Symbol
+TS-1095PS-A1B2-C3D2
+Designator
+SW31
+Name
+TS-1095PS-A1B2-C3D2
+Device
+TS-1095PS-A1B2-C3D2
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge61
+
+*
+]
+[
+DESIGNATOR
+D1
+FOOTPRINT
+DO-35_BD2.2-L4.0-D0.50_1N4148
+PARTTYPE
+1N4148_C18195411
+DESCRIPTION
+Voltage - Forward(Vf@If):1V@10mA Voltage - DC Reverse(Vr):100V Current - Rectified:150mA Pd - Power Dissipation:500mW Reverse Leakage Current (Ir):5mA Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:-60℃~+200℃ Operating Junction Tempe
+Component Kind
+Standard
+LCSC Part Name
+100V 150mA
+Supplier Part
+C18195411
+Manufacturer
+LJ(朗捷)
+Manufacturer Part
+1N4148
+Supplier Footprint
+DO-35
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://item.szlcsc.com/datasheet/1N4148/19344798.html
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+DO-35_BD2.2-L4.0-D0.50_1N4148
+Voltage - Forward(Vf@If)
+1V@10mA
+Voltage - DC Reverse(Vr)
+100V
+Current - Rectified
+150mA
+Pd - Power Dissipation
+500mW
+Reverse Leakage Current (Ir)
+5mA
+Reverse Recovery Time (trr)
+4ns
+Operating Junction Temperature Range
+-60℃~+200℃
+Non-Repetitive Peak Forward Surge Current
+500mA
+Description
+Voltage - Forward(Vf@If):1V@10mA Voltage - DC Reverse(Vr):100V Current - Rectified:150mA Pd - Power Dissipation:500mW Reverse Leakage Current (Ir):5mA Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:-60℃~+200℃ Operating Junction Tempe
+Symbol
+1N4148_C18195411
+Designator
+D1
+Name
+1N4148
+Device
+1N4148_C18195411
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge62
+
+*
+]
+[
+DESIGNATOR
+D2
+FOOTPRINT
+DO-35_BD2.2-L4.0-D0.50_1N4148
+PARTTYPE
+1N4148_C18195411
+DESCRIPTION
+Voltage - Forward(Vf@If):1V@10mA Voltage - DC Reverse(Vr):100V Current - Rectified:150mA Pd - Power Dissipation:500mW Reverse Leakage Current (Ir):5mA Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:-60℃~+200℃ Operating Junction Tempe
+Component Kind
+Standard
+LCSC Part Name
+100V 150mA
+Supplier Part
+C18195411
+Manufacturer
+LJ(朗捷)
+Manufacturer Part
+1N4148
+Supplier Footprint
+DO-35
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://item.szlcsc.com/datasheet/1N4148/19344798.html
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+DO-35_BD2.2-L4.0-D0.50_1N4148
+Voltage - Forward(Vf@If)
+1V@10mA
+Voltage - DC Reverse(Vr)
+100V
+Current - Rectified
+150mA
+Pd - Power Dissipation
+500mW
+Reverse Leakage Current (Ir)
+5mA
+Reverse Recovery Time (trr)
+4ns
+Operating Junction Temperature Range
+-60℃~+200℃
+Non-Repetitive Peak Forward Surge Current
+500mA
+Description
+Voltage - Forward(Vf@If):1V@10mA Voltage - DC Reverse(Vr):100V Current - Rectified:150mA Pd - Power Dissipation:500mW Reverse Leakage Current (Ir):5mA Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:-60℃~+200℃ Operating Junction Tempe
+Symbol
+1N4148_C18195411
+Designator
+D2
+Name
+1N4148
+Device
+1N4148_C18195411
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge63
+
+*
+]
+[
+DESIGNATOR
+D4
+FOOTPRINT
+DO-35_BD2.2-L4.0-D0.50_1N4148
+PARTTYPE
+1N4148_C18195411
+DESCRIPTION
+Voltage - Forward(Vf@If):1V@10mA Voltage - DC Reverse(Vr):100V Current - Rectified:150mA Pd - Power Dissipation:500mW Reverse Leakage Current (Ir):5mA Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:-60℃~+200℃ Operating Junction Tempe
+Component Kind
+Standard
+LCSC Part Name
+100V 150mA
+Supplier Part
+C18195411
+Manufacturer
+LJ(朗捷)
+Manufacturer Part
+1N4148
+Supplier Footprint
+DO-35
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://item.szlcsc.com/datasheet/1N4148/19344798.html
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+DO-35_BD2.2-L4.0-D0.50_1N4148
+Voltage - Forward(Vf@If)
+1V@10mA
+Voltage - DC Reverse(Vr)
+100V
+Current - Rectified
+150mA
+Pd - Power Dissipation
+500mW
+Reverse Leakage Current (Ir)
+5mA
+Reverse Recovery Time (trr)
+4ns
+Operating Junction Temperature Range
+-60℃~+200℃
+Non-Repetitive Peak Forward Surge Current
+500mA
+Description
+Voltage - Forward(Vf@If):1V@10mA Voltage - DC Reverse(Vr):100V Current - Rectified:150mA Pd - Power Dissipation:500mW Reverse Leakage Current (Ir):5mA Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:-60℃~+200℃ Operating Junction Tempe
+Symbol
+1N4148_C18195411
+Designator
+D4
+Name
+1N4148
+Device
+1N4148_C18195411
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge64
+
+*
+]
+[
+DESIGNATOR
+D3
+FOOTPRINT
+DO-35_BD2.2-L4.0-D0.50_1N4148
+PARTTYPE
+1N4148_C18195411
+DESCRIPTION
+Voltage - Forward(Vf@If):1V@10mA Voltage - DC Reverse(Vr):100V Current - Rectified:150mA Pd - Power Dissipation:500mW Reverse Leakage Current (Ir):5mA Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:-60℃~+200℃ Operating Junction Tempe
+Component Kind
+Standard
+LCSC Part Name
+100V 150mA
+Supplier Part
+C18195411
+Manufacturer
+LJ(朗捷)
+Manufacturer Part
+1N4148
+Supplier Footprint
+DO-35
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://item.szlcsc.com/datasheet/1N4148/19344798.html
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+DO-35_BD2.2-L4.0-D0.50_1N4148
+Voltage - Forward(Vf@If)
+1V@10mA
+Voltage - DC Reverse(Vr)
+100V
+Current - Rectified
+150mA
+Pd - Power Dissipation
+500mW
+Reverse Leakage Current (Ir)
+5mA
+Reverse Recovery Time (trr)
+4ns
+Operating Junction Temperature Range
+-60℃~+200℃
+Non-Repetitive Peak Forward Surge Current
+500mA
+Description
+Voltage - Forward(Vf@If):1V@10mA Voltage - DC Reverse(Vr):100V Current - Rectified:150mA Pd - Power Dissipation:500mW Reverse Leakage Current (Ir):5mA Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:-60℃~+200℃ Operating Junction Tempe
+Symbol
+1N4148_C18195411
+Designator
+D3
+Name
+1N4148
+Device
+1N4148_C18195411
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge65
+
+*
+]
+[
+DESIGNATOR
+D6
+FOOTPRINT
+DO-35_BD2.2-L4.0-D0.50_1N4148
+PARTTYPE
+1N4148_C18195411
+DESCRIPTION
+Voltage - Forward(Vf@If):1V@10mA Voltage - DC Reverse(Vr):100V Current - Rectified:150mA Pd - Power Dissipation:500mW Reverse Leakage Current (Ir):5mA Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:-60℃~+200℃ Operating Junction Tempe
+Component Kind
+Standard
+LCSC Part Name
+100V 150mA
+Supplier Part
+C18195411
+Manufacturer
+LJ(朗捷)
+Manufacturer Part
+1N4148
+Supplier Footprint
+DO-35
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://item.szlcsc.com/datasheet/1N4148/19344798.html
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+DO-35_BD2.2-L4.0-D0.50_1N4148
+Voltage - Forward(Vf@If)
+1V@10mA
+Voltage - DC Reverse(Vr)
+100V
+Current - Rectified
+150mA
+Pd - Power Dissipation
+500mW
+Reverse Leakage Current (Ir)
+5mA
+Reverse Recovery Time (trr)
+4ns
+Operating Junction Temperature Range
+-60℃~+200℃
+Non-Repetitive Peak Forward Surge Current
+500mA
+Description
+Voltage - Forward(Vf@If):1V@10mA Voltage - DC Reverse(Vr):100V Current - Rectified:150mA Pd - Power Dissipation:500mW Reverse Leakage Current (Ir):5mA Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:-60℃~+200℃ Operating Junction Tempe
+Symbol
+1N4148_C18195411
+Designator
+D6
+Name
+1N4148
+Device
+1N4148_C18195411
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge66
+
+*
+]
+[
+DESIGNATOR
+D5
+FOOTPRINT
+DO-35_BD2.2-L4.0-D0.50_1N4148
+PARTTYPE
+1N4148_C18195411
+DESCRIPTION
+Voltage - Forward(Vf@If):1V@10mA Voltage - DC Reverse(Vr):100V Current - Rectified:150mA Pd - Power Dissipation:500mW Reverse Leakage Current (Ir):5mA Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:-60℃~+200℃ Operating Junction Tempe
+Component Kind
+Standard
+LCSC Part Name
+100V 150mA
+Supplier Part
+C18195411
+Manufacturer
+LJ(朗捷)
+Manufacturer Part
+1N4148
+Supplier Footprint
+DO-35
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://item.szlcsc.com/datasheet/1N4148/19344798.html
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+DO-35_BD2.2-L4.0-D0.50_1N4148
+Voltage - Forward(Vf@If)
+1V@10mA
+Voltage - DC Reverse(Vr)
+100V
+Current - Rectified
+150mA
+Pd - Power Dissipation
+500mW
+Reverse Leakage Current (Ir)
+5mA
+Reverse Recovery Time (trr)
+4ns
+Operating Junction Temperature Range
+-60℃~+200℃
+Non-Repetitive Peak Forward Surge Current
+500mA
+Description
+Voltage - Forward(Vf@If):1V@10mA Voltage - DC Reverse(Vr):100V Current - Rectified:150mA Pd - Power Dissipation:500mW Reverse Leakage Current (Ir):5mA Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:-60℃~+200℃ Operating Junction Tempe
+Symbol
+1N4148_C18195411
+Designator
+D5
+Name
+1N4148
+Device
+1N4148_C18195411
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge67
+
+*
+]
+[
+DESIGNATOR
+D11
+FOOTPRINT
+DO-35_BD2.2-L4.0-D0.50_1N4148
+PARTTYPE
+1N4148_C18195411
+DESCRIPTION
+Voltage - Forward(Vf@If):1V@10mA Voltage - DC Reverse(Vr):100V Current - Rectified:150mA Pd - Power Dissipation:500mW Reverse Leakage Current (Ir):5mA Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:-60℃~+200℃ Operating Junction Tempe
+Component Kind
+Standard
+LCSC Part Name
+100V 150mA
+Supplier Part
+C18195411
+Manufacturer
+LJ(朗捷)
+Manufacturer Part
+1N4148
+Supplier Footprint
+DO-35
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://item.szlcsc.com/datasheet/1N4148/19344798.html
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+DO-35_BD2.2-L4.0-D0.50_1N4148
+Voltage - Forward(Vf@If)
+1V@10mA
+Voltage - DC Reverse(Vr)
+100V
+Current - Rectified
+150mA
+Pd - Power Dissipation
+500mW
+Reverse Leakage Current (Ir)
+5mA
+Reverse Recovery Time (trr)
+4ns
+Operating Junction Temperature Range
+-60℃~+200℃
+Non-Repetitive Peak Forward Surge Current
+500mA
+Description
+Voltage - Forward(Vf@If):1V@10mA Voltage - DC Reverse(Vr):100V Current - Rectified:150mA Pd - Power Dissipation:500mW Reverse Leakage Current (Ir):5mA Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:-60℃~+200℃ Operating Junction Tempe
+Symbol
+1N4148_C18195411
+Designator
+D11
+Name
+1N4148
+Device
+1N4148_C18195411
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge68
+
+*
+]
+[
+DESIGNATOR
+D12
+FOOTPRINT
+DO-35_BD2.2-L4.0-D0.50_1N4148
+PARTTYPE
+1N4148_C18195411
+DESCRIPTION
+Voltage - Forward(Vf@If):1V@10mA Voltage - DC Reverse(Vr):100V Current - Rectified:150mA Pd - Power Dissipation:500mW Reverse Leakage Current (Ir):5mA Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:-60℃~+200℃ Operating Junction Tempe
+Component Kind
+Standard
+LCSC Part Name
+100V 150mA
+Supplier Part
+C18195411
+Manufacturer
+LJ(朗捷)
+Manufacturer Part
+1N4148
+Supplier Footprint
+DO-35
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://item.szlcsc.com/datasheet/1N4148/19344798.html
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+DO-35_BD2.2-L4.0-D0.50_1N4148
+Voltage - Forward(Vf@If)
+1V@10mA
+Voltage - DC Reverse(Vr)
+100V
+Current - Rectified
+150mA
+Pd - Power Dissipation
+500mW
+Reverse Leakage Current (Ir)
+5mA
+Reverse Recovery Time (trr)
+4ns
+Operating Junction Temperature Range
+-60℃~+200℃
+Non-Repetitive Peak Forward Surge Current
+500mA
+Description
+Voltage - Forward(Vf@If):1V@10mA Voltage - DC Reverse(Vr):100V Current - Rectified:150mA Pd - Power Dissipation:500mW Reverse Leakage Current (Ir):5mA Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:-60℃~+200℃ Operating Junction Tempe
+Symbol
+1N4148_C18195411
+Designator
+D12
+Name
+1N4148
+Device
+1N4148_C18195411
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge69
+
+*
+]
+[
+DESIGNATOR
+D10
+FOOTPRINT
+DO-35_BD2.2-L4.0-D0.50_1N4148
+PARTTYPE
+1N4148_C18195411
+DESCRIPTION
+Voltage - Forward(Vf@If):1V@10mA Voltage - DC Reverse(Vr):100V Current - Rectified:150mA Pd - Power Dissipation:500mW Reverse Leakage Current (Ir):5mA Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:-60℃~+200℃ Operating Junction Tempe
+Component Kind
+Standard
+LCSC Part Name
+100V 150mA
+Supplier Part
+C18195411
+Manufacturer
+LJ(朗捷)
+Manufacturer Part
+1N4148
+Supplier Footprint
+DO-35
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://item.szlcsc.com/datasheet/1N4148/19344798.html
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+DO-35_BD2.2-L4.0-D0.50_1N4148
+Voltage - Forward(Vf@If)
+1V@10mA
+Voltage - DC Reverse(Vr)
+100V
+Current - Rectified
+150mA
+Pd - Power Dissipation
+500mW
+Reverse Leakage Current (Ir)
+5mA
+Reverse Recovery Time (trr)
+4ns
+Operating Junction Temperature Range
+-60℃~+200℃
+Non-Repetitive Peak Forward Surge Current
+500mA
+Description
+Voltage - Forward(Vf@If):1V@10mA Voltage - DC Reverse(Vr):100V Current - Rectified:150mA Pd - Power Dissipation:500mW Reverse Leakage Current (Ir):5mA Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:-60℃~+200℃ Operating Junction Tempe
+Symbol
+1N4148_C18195411
+Designator
+D10
+Name
+1N4148
+Device
+1N4148_C18195411
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge70
+
+*
+]
+[
+DESIGNATOR
+D9
+FOOTPRINT
+DO-35_BD2.2-L4.0-D0.50_1N4148
+PARTTYPE
+1N4148_C18195411
+DESCRIPTION
+Voltage - Forward(Vf@If):1V@10mA Voltage - DC Reverse(Vr):100V Current - Rectified:150mA Pd - Power Dissipation:500mW Reverse Leakage Current (Ir):5mA Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:-60℃~+200℃ Operating Junction Tempe
+Component Kind
+Standard
+LCSC Part Name
+100V 150mA
+Supplier Part
+C18195411
+Manufacturer
+LJ(朗捷)
+Manufacturer Part
+1N4148
+Supplier Footprint
+DO-35
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://item.szlcsc.com/datasheet/1N4148/19344798.html
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+DO-35_BD2.2-L4.0-D0.50_1N4148
+Voltage - Forward(Vf@If)
+1V@10mA
+Voltage - DC Reverse(Vr)
+100V
+Current - Rectified
+150mA
+Pd - Power Dissipation
+500mW
+Reverse Leakage Current (Ir)
+5mA
+Reverse Recovery Time (trr)
+4ns
+Operating Junction Temperature Range
+-60℃~+200℃
+Non-Repetitive Peak Forward Surge Current
+500mA
+Description
+Voltage - Forward(Vf@If):1V@10mA Voltage - DC Reverse(Vr):100V Current - Rectified:150mA Pd - Power Dissipation:500mW Reverse Leakage Current (Ir):5mA Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:-60℃~+200℃ Operating Junction Tempe
+Symbol
+1N4148_C18195411
+Designator
+D9
+Name
+1N4148
+Device
+1N4148_C18195411
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge71
+
+*
+]
+[
+DESIGNATOR
+D7
+FOOTPRINT
+DO-35_BD2.2-L4.0-D0.50_1N4148
+PARTTYPE
+1N4148_C18195411
+DESCRIPTION
+Voltage - Forward(Vf@If):1V@10mA Voltage - DC Reverse(Vr):100V Current - Rectified:150mA Pd - Power Dissipation:500mW Reverse Leakage Current (Ir):5mA Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:-60℃~+200℃ Operating Junction Tempe
+Component Kind
+Standard
+LCSC Part Name
+100V 150mA
+Supplier Part
+C18195411
+Manufacturer
+LJ(朗捷)
+Manufacturer Part
+1N4148
+Supplier Footprint
+DO-35
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://item.szlcsc.com/datasheet/1N4148/19344798.html
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+DO-35_BD2.2-L4.0-D0.50_1N4148
+Voltage - Forward(Vf@If)
+1V@10mA
+Voltage - DC Reverse(Vr)
+100V
+Current - Rectified
+150mA
+Pd - Power Dissipation
+500mW
+Reverse Leakage Current (Ir)
+5mA
+Reverse Recovery Time (trr)
+4ns
+Operating Junction Temperature Range
+-60℃~+200℃
+Non-Repetitive Peak Forward Surge Current
+500mA
+Description
+Voltage - Forward(Vf@If):1V@10mA Voltage - DC Reverse(Vr):100V Current - Rectified:150mA Pd - Power Dissipation:500mW Reverse Leakage Current (Ir):5mA Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:-60℃~+200℃ Operating Junction Tempe
+Symbol
+1N4148_C18195411
+Designator
+D7
+Name
+1N4148
+Device
+1N4148_C18195411
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge72
+
+*
+]
+[
+DESIGNATOR
+D8
+FOOTPRINT
+DO-35_BD2.2-L4.0-D0.50_1N4148
+PARTTYPE
+1N4148_C18195411
+DESCRIPTION
+Voltage - Forward(Vf@If):1V@10mA Voltage - DC Reverse(Vr):100V Current - Rectified:150mA Pd - Power Dissipation:500mW Reverse Leakage Current (Ir):5mA Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:-60℃~+200℃ Operating Junction Tempe
+Component Kind
+Standard
+LCSC Part Name
+100V 150mA
+Supplier Part
+C18195411
+Manufacturer
+LJ(朗捷)
+Manufacturer Part
+1N4148
+Supplier Footprint
+DO-35
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://item.szlcsc.com/datasheet/1N4148/19344798.html
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+DO-35_BD2.2-L4.0-D0.50_1N4148
+Voltage - Forward(Vf@If)
+1V@10mA
+Voltage - DC Reverse(Vr)
+100V
+Current - Rectified
+150mA
+Pd - Power Dissipation
+500mW
+Reverse Leakage Current (Ir)
+5mA
+Reverse Recovery Time (trr)
+4ns
+Operating Junction Temperature Range
+-60℃~+200℃
+Non-Repetitive Peak Forward Surge Current
+500mA
+Description
+Voltage - Forward(Vf@If):1V@10mA Voltage - DC Reverse(Vr):100V Current - Rectified:150mA Pd - Power Dissipation:500mW Reverse Leakage Current (Ir):5mA Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:-60℃~+200℃ Operating Junction Tempe
+Symbol
+1N4148_C18195411
+Designator
+D8
+Name
+1N4148
+Device
+1N4148_C18195411
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge73
+
+*
+]
+[
+DESIGNATOR
+D13
+FOOTPRINT
+DO-35_BD2.2-L4.0-D0.50_1N4148
+PARTTYPE
+1N4148_C18195411
+DESCRIPTION
+Voltage - Forward(Vf@If):1V@10mA Voltage - DC Reverse(Vr):100V Current - Rectified:150mA Pd - Power Dissipation:500mW Reverse Leakage Current (Ir):5mA Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:-60℃~+200℃ Operating Junction Tempe
+Component Kind
+Standard
+LCSC Part Name
+100V 150mA
+Supplier Part
+C18195411
+Manufacturer
+LJ(朗捷)
+Manufacturer Part
+1N4148
+Supplier Footprint
+DO-35
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://item.szlcsc.com/datasheet/1N4148/19344798.html
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+DO-35_BD2.2-L4.0-D0.50_1N4148
+Voltage - Forward(Vf@If)
+1V@10mA
+Voltage - DC Reverse(Vr)
+100V
+Current - Rectified
+150mA
+Pd - Power Dissipation
+500mW
+Reverse Leakage Current (Ir)
+5mA
+Reverse Recovery Time (trr)
+4ns
+Operating Junction Temperature Range
+-60℃~+200℃
+Non-Repetitive Peak Forward Surge Current
+500mA
+Description
+Voltage - Forward(Vf@If):1V@10mA Voltage - DC Reverse(Vr):100V Current - Rectified:150mA Pd - Power Dissipation:500mW Reverse Leakage Current (Ir):5mA Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:-60℃~+200℃ Operating Junction Tempe
+Symbol
+1N4148_C18195411
+Designator
+D13
+Name
+1N4148
+Device
+1N4148_C18195411
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge74
+
+*
+]
+[
+DESIGNATOR
+D14
+FOOTPRINT
+DO-35_BD2.2-L4.0-D0.50_1N4148
+PARTTYPE
+1N4148_C18195411
+DESCRIPTION
+Voltage - Forward(Vf@If):1V@10mA Voltage - DC Reverse(Vr):100V Current - Rectified:150mA Pd - Power Dissipation:500mW Reverse Leakage Current (Ir):5mA Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:-60℃~+200℃ Operating Junction Tempe
+Component Kind
+Standard
+LCSC Part Name
+100V 150mA
+Supplier Part
+C18195411
+Manufacturer
+LJ(朗捷)
+Manufacturer Part
+1N4148
+Supplier Footprint
+DO-35
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://item.szlcsc.com/datasheet/1N4148/19344798.html
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+DO-35_BD2.2-L4.0-D0.50_1N4148
+Voltage - Forward(Vf@If)
+1V@10mA
+Voltage - DC Reverse(Vr)
+100V
+Current - Rectified
+150mA
+Pd - Power Dissipation
+500mW
+Reverse Leakage Current (Ir)
+5mA
+Reverse Recovery Time (trr)
+4ns
+Operating Junction Temperature Range
+-60℃~+200℃
+Non-Repetitive Peak Forward Surge Current
+500mA
+Description
+Voltage - Forward(Vf@If):1V@10mA Voltage - DC Reverse(Vr):100V Current - Rectified:150mA Pd - Power Dissipation:500mW Reverse Leakage Current (Ir):5mA Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:-60℃~+200℃ Operating Junction Tempe
+Symbol
+1N4148_C18195411
+Designator
+D14
+Name
+1N4148
+Device
+1N4148_C18195411
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge75
+
+*
+]
+[
+DESIGNATOR
+D15
+FOOTPRINT
+DO-35_BD2.2-L4.0-D0.50_1N4148
+PARTTYPE
+1N4148_C18195411
+DESCRIPTION
+Voltage - Forward(Vf@If):1V@10mA Voltage - DC Reverse(Vr):100V Current - Rectified:150mA Pd - Power Dissipation:500mW Reverse Leakage Current (Ir):5mA Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:-60℃~+200℃ Operating Junction Tempe
+Component Kind
+Standard
+LCSC Part Name
+100V 150mA
+Supplier Part
+C18195411
+Manufacturer
+LJ(朗捷)
+Manufacturer Part
+1N4148
+Supplier Footprint
+DO-35
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://item.szlcsc.com/datasheet/1N4148/19344798.html
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+DO-35_BD2.2-L4.0-D0.50_1N4148
+Voltage - Forward(Vf@If)
+1V@10mA
+Voltage - DC Reverse(Vr)
+100V
+Current - Rectified
+150mA
+Pd - Power Dissipation
+500mW
+Reverse Leakage Current (Ir)
+5mA
+Reverse Recovery Time (trr)
+4ns
+Operating Junction Temperature Range
+-60℃~+200℃
+Non-Repetitive Peak Forward Surge Current
+500mA
+Description
+Voltage - Forward(Vf@If):1V@10mA Voltage - DC Reverse(Vr):100V Current - Rectified:150mA Pd - Power Dissipation:500mW Reverse Leakage Current (Ir):5mA Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:-60℃~+200℃ Operating Junction Tempe
+Symbol
+1N4148_C18195411
+Designator
+D15
+Name
+1N4148
+Device
+1N4148_C18195411
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge76
+
+*
+]
+[
+DESIGNATOR
+D17
+FOOTPRINT
+DO-35_BD2.2-L4.0-D0.50_1N4148
+PARTTYPE
+1N4148_C18195411
+DESCRIPTION
+Voltage - Forward(Vf@If):1V@10mA Voltage - DC Reverse(Vr):100V Current - Rectified:150mA Pd - Power Dissipation:500mW Reverse Leakage Current (Ir):5mA Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:-60℃~+200℃ Operating Junction Tempe
+Component Kind
+Standard
+LCSC Part Name
+100V 150mA
+Supplier Part
+C18195411
+Manufacturer
+LJ(朗捷)
+Manufacturer Part
+1N4148
+Supplier Footprint
+DO-35
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://item.szlcsc.com/datasheet/1N4148/19344798.html
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+DO-35_BD2.2-L4.0-D0.50_1N4148
+Voltage - Forward(Vf@If)
+1V@10mA
+Voltage - DC Reverse(Vr)
+100V
+Current - Rectified
+150mA
+Pd - Power Dissipation
+500mW
+Reverse Leakage Current (Ir)
+5mA
+Reverse Recovery Time (trr)
+4ns
+Operating Junction Temperature Range
+-60℃~+200℃
+Non-Repetitive Peak Forward Surge Current
+500mA
+Description
+Voltage - Forward(Vf@If):1V@10mA Voltage - DC Reverse(Vr):100V Current - Rectified:150mA Pd - Power Dissipation:500mW Reverse Leakage Current (Ir):5mA Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:-60℃~+200℃ Operating Junction Tempe
+Symbol
+1N4148_C18195411
+Designator
+D17
+Name
+1N4148
+Device
+1N4148_C18195411
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge78
+
+*
+]
+[
+DESIGNATOR
+D19
+FOOTPRINT
+DO-35_BD2.2-L4.0-D0.50_1N4148
+PARTTYPE
+1N4148_C18195411
+DESCRIPTION
+Voltage - Forward(Vf@If):1V@10mA Voltage - DC Reverse(Vr):100V Current - Rectified:150mA Pd - Power Dissipation:500mW Reverse Leakage Current (Ir):5mA Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:-60℃~+200℃ Operating Junction Tempe
+Component Kind
+Standard
+LCSC Part Name
+100V 150mA
+Supplier Part
+C18195411
+Manufacturer
+LJ(朗捷)
+Manufacturer Part
+1N4148
+Supplier Footprint
+DO-35
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://item.szlcsc.com/datasheet/1N4148/19344798.html
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+DO-35_BD2.2-L4.0-D0.50_1N4148
+Voltage - Forward(Vf@If)
+1V@10mA
+Voltage - DC Reverse(Vr)
+100V
+Current - Rectified
+150mA
+Pd - Power Dissipation
+500mW
+Reverse Leakage Current (Ir)
+5mA
+Reverse Recovery Time (trr)
+4ns
+Operating Junction Temperature Range
+-60℃~+200℃
+Non-Repetitive Peak Forward Surge Current
+500mA
+Description
+Voltage - Forward(Vf@If):1V@10mA Voltage - DC Reverse(Vr):100V Current - Rectified:150mA Pd - Power Dissipation:500mW Reverse Leakage Current (Ir):5mA Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:-60℃~+200℃ Operating Junction Tempe
+Symbol
+1N4148_C18195411
+Designator
+D19
+Name
+1N4148
+Device
+1N4148_C18195411
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge80
+
+*
+]
+[
+DESIGNATOR
+D20
+FOOTPRINT
+DO-35_BD2.2-L4.0-D0.50_1N4148
+PARTTYPE
+1N4148_C18195411
+DESCRIPTION
+Voltage - Forward(Vf@If):1V@10mA Voltage - DC Reverse(Vr):100V Current - Rectified:150mA Pd - Power Dissipation:500mW Reverse Leakage Current (Ir):5mA Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:-60℃~+200℃ Operating Junction Tempe
+Component Kind
+Standard
+LCSC Part Name
+100V 150mA
+Supplier Part
+C18195411
+Manufacturer
+LJ(朗捷)
+Manufacturer Part
+1N4148
+Supplier Footprint
+DO-35
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://item.szlcsc.com/datasheet/1N4148/19344798.html
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+DO-35_BD2.2-L4.0-D0.50_1N4148
+Voltage - Forward(Vf@If)
+1V@10mA
+Voltage - DC Reverse(Vr)
+100V
+Current - Rectified
+150mA
+Pd - Power Dissipation
+500mW
+Reverse Leakage Current (Ir)
+5mA
+Reverse Recovery Time (trr)
+4ns
+Operating Junction Temperature Range
+-60℃~+200℃
+Non-Repetitive Peak Forward Surge Current
+500mA
+Description
+Voltage - Forward(Vf@If):1V@10mA Voltage - DC Reverse(Vr):100V Current - Rectified:150mA Pd - Power Dissipation:500mW Reverse Leakage Current (Ir):5mA Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:-60℃~+200℃ Operating Junction Tempe
+Symbol
+1N4148_C18195411
+Designator
+D20
+Name
+1N4148
+Device
+1N4148_C18195411
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge81
+
+*
+]
+[
+DESIGNATOR
+D21
+FOOTPRINT
+DO-35_BD2.2-L4.0-D0.50_1N4148
+PARTTYPE
+1N4148_C18195411
+DESCRIPTION
+Voltage - Forward(Vf@If):1V@10mA Voltage - DC Reverse(Vr):100V Current - Rectified:150mA Pd - Power Dissipation:500mW Reverse Leakage Current (Ir):5mA Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:-60℃~+200℃ Operating Junction Tempe
+Component Kind
+Standard
+LCSC Part Name
+100V 150mA
+Supplier Part
+C18195411
+Manufacturer
+LJ(朗捷)
+Manufacturer Part
+1N4148
+Supplier Footprint
+DO-35
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://item.szlcsc.com/datasheet/1N4148/19344798.html
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+DO-35_BD2.2-L4.0-D0.50_1N4148
+Voltage - Forward(Vf@If)
+1V@10mA
+Voltage - DC Reverse(Vr)
+100V
+Current - Rectified
+150mA
+Pd - Power Dissipation
+500mW
+Reverse Leakage Current (Ir)
+5mA
+Reverse Recovery Time (trr)
+4ns
+Operating Junction Temperature Range
+-60℃~+200℃
+Non-Repetitive Peak Forward Surge Current
+500mA
+Description
+Voltage - Forward(Vf@If):1V@10mA Voltage - DC Reverse(Vr):100V Current - Rectified:150mA Pd - Power Dissipation:500mW Reverse Leakage Current (Ir):5mA Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:-60℃~+200℃ Operating Junction Tempe
+Symbol
+1N4148_C18195411
+Designator
+D21
+Name
+1N4148
+Device
+1N4148_C18195411
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge82
+
+*
+]
+[
+DESIGNATOR
+D22
+FOOTPRINT
+DO-35_BD2.2-L4.0-D0.50_1N4148
+PARTTYPE
+1N4148_C18195411
+DESCRIPTION
+Voltage - Forward(Vf@If):1V@10mA Voltage - DC Reverse(Vr):100V Current - Rectified:150mA Pd - Power Dissipation:500mW Reverse Leakage Current (Ir):5mA Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:-60℃~+200℃ Operating Junction Tempe
+Component Kind
+Standard
+LCSC Part Name
+100V 150mA
+Supplier Part
+C18195411
+Manufacturer
+LJ(朗捷)
+Manufacturer Part
+1N4148
+Supplier Footprint
+DO-35
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://item.szlcsc.com/datasheet/1N4148/19344798.html
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+DO-35_BD2.2-L4.0-D0.50_1N4148
+Voltage - Forward(Vf@If)
+1V@10mA
+Voltage - DC Reverse(Vr)
+100V
+Current - Rectified
+150mA
+Pd - Power Dissipation
+500mW
+Reverse Leakage Current (Ir)
+5mA
+Reverse Recovery Time (trr)
+4ns
+Operating Junction Temperature Range
+-60℃~+200℃
+Non-Repetitive Peak Forward Surge Current
+500mA
+Description
+Voltage - Forward(Vf@If):1V@10mA Voltage - DC Reverse(Vr):100V Current - Rectified:150mA Pd - Power Dissipation:500mW Reverse Leakage Current (Ir):5mA Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:-60℃~+200℃ Operating Junction Tempe
+Symbol
+1N4148_C18195411
+Designator
+D22
+Name
+1N4148
+Device
+1N4148_C18195411
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge83
+
+*
+]
+[
+DESIGNATOR
+D23
+FOOTPRINT
+DO-35_BD2.2-L4.0-D0.50_1N4148
+PARTTYPE
+1N4148_C18195411
+DESCRIPTION
+Voltage - Forward(Vf@If):1V@10mA Voltage - DC Reverse(Vr):100V Current - Rectified:150mA Pd - Power Dissipation:500mW Reverse Leakage Current (Ir):5mA Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:-60℃~+200℃ Operating Junction Tempe
+Component Kind
+Standard
+LCSC Part Name
+100V 150mA
+Supplier Part
+C18195411
+Manufacturer
+LJ(朗捷)
+Manufacturer Part
+1N4148
+Supplier Footprint
+DO-35
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://item.szlcsc.com/datasheet/1N4148/19344798.html
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+DO-35_BD2.2-L4.0-D0.50_1N4148
+Voltage - Forward(Vf@If)
+1V@10mA
+Voltage - DC Reverse(Vr)
+100V
+Current - Rectified
+150mA
+Pd - Power Dissipation
+500mW
+Reverse Leakage Current (Ir)
+5mA
+Reverse Recovery Time (trr)
+4ns
+Operating Junction Temperature Range
+-60℃~+200℃
+Non-Repetitive Peak Forward Surge Current
+500mA
+Description
+Voltage - Forward(Vf@If):1V@10mA Voltage - DC Reverse(Vr):100V Current - Rectified:150mA Pd - Power Dissipation:500mW Reverse Leakage Current (Ir):5mA Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:-60℃~+200℃ Operating Junction Tempe
+Symbol
+1N4148_C18195411
+Designator
+D23
+Name
+1N4148
+Device
+1N4148_C18195411
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge84
+
+*
+]
+[
+DESIGNATOR
+D24
+FOOTPRINT
+DO-35_BD2.2-L4.0-D0.50_1N4148
+PARTTYPE
+1N4148_C18195411
+DESCRIPTION
+Voltage - Forward(Vf@If):1V@10mA Voltage - DC Reverse(Vr):100V Current - Rectified:150mA Pd - Power Dissipation:500mW Reverse Leakage Current (Ir):5mA Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:-60℃~+200℃ Operating Junction Tempe
+Component Kind
+Standard
+LCSC Part Name
+100V 150mA
+Supplier Part
+C18195411
+Manufacturer
+LJ(朗捷)
+Manufacturer Part
+1N4148
+Supplier Footprint
+DO-35
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://item.szlcsc.com/datasheet/1N4148/19344798.html
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+DO-35_BD2.2-L4.0-D0.50_1N4148
+Voltage - Forward(Vf@If)
+1V@10mA
+Voltage - DC Reverse(Vr)
+100V
+Current - Rectified
+150mA
+Pd - Power Dissipation
+500mW
+Reverse Leakage Current (Ir)
+5mA
+Reverse Recovery Time (trr)
+4ns
+Operating Junction Temperature Range
+-60℃~+200℃
+Non-Repetitive Peak Forward Surge Current
+500mA
+Description
+Voltage - Forward(Vf@If):1V@10mA Voltage - DC Reverse(Vr):100V Current - Rectified:150mA Pd - Power Dissipation:500mW Reverse Leakage Current (Ir):5mA Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:-60℃~+200℃ Operating Junction Tempe
+Symbol
+1N4148_C18195411
+Designator
+D24
+Name
+1N4148
+Device
+1N4148_C18195411
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge85
+
+*
+]
+[
+DESIGNATOR
+D25
+FOOTPRINT
+DO-35_BD2.2-L4.0-D0.50_1N4148
+PARTTYPE
+1N4148_C18195411
+DESCRIPTION
+Voltage - Forward(Vf@If):1V@10mA Voltage - DC Reverse(Vr):100V Current - Rectified:150mA Pd - Power Dissipation:500mW Reverse Leakage Current (Ir):5mA Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:-60℃~+200℃ Operating Junction Tempe
+Component Kind
+Standard
+LCSC Part Name
+100V 150mA
+Supplier Part
+C18195411
+Manufacturer
+LJ(朗捷)
+Manufacturer Part
+1N4148
+Supplier Footprint
+DO-35
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://item.szlcsc.com/datasheet/1N4148/19344798.html
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+DO-35_BD2.2-L4.0-D0.50_1N4148
+Voltage - Forward(Vf@If)
+1V@10mA
+Voltage - DC Reverse(Vr)
+100V
+Current - Rectified
+150mA
+Pd - Power Dissipation
+500mW
+Reverse Leakage Current (Ir)
+5mA
+Reverse Recovery Time (trr)
+4ns
+Operating Junction Temperature Range
+-60℃~+200℃
+Non-Repetitive Peak Forward Surge Current
+500mA
+Description
+Voltage - Forward(Vf@If):1V@10mA Voltage - DC Reverse(Vr):100V Current - Rectified:150mA Pd - Power Dissipation:500mW Reverse Leakage Current (Ir):5mA Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:-60℃~+200℃ Operating Junction Tempe
+Symbol
+1N4148_C18195411
+Designator
+D25
+Name
+1N4148
+Device
+1N4148_C18195411
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge86
+
+*
+]
+[
+DESIGNATOR
+D26
+FOOTPRINT
+DO-35_BD2.2-L4.0-D0.50_1N4148
+PARTTYPE
+1N4148_C18195411
+DESCRIPTION
+Voltage - Forward(Vf@If):1V@10mA Voltage - DC Reverse(Vr):100V Current - Rectified:150mA Pd - Power Dissipation:500mW Reverse Leakage Current (Ir):5mA Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:-60℃~+200℃ Operating Junction Tempe
+Component Kind
+Standard
+LCSC Part Name
+100V 150mA
+Supplier Part
+C18195411
+Manufacturer
+LJ(朗捷)
+Manufacturer Part
+1N4148
+Supplier Footprint
+DO-35
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://item.szlcsc.com/datasheet/1N4148/19344798.html
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+DO-35_BD2.2-L4.0-D0.50_1N4148
+Voltage - Forward(Vf@If)
+1V@10mA
+Voltage - DC Reverse(Vr)
+100V
+Current - Rectified
+150mA
+Pd - Power Dissipation
+500mW
+Reverse Leakage Current (Ir)
+5mA
+Reverse Recovery Time (trr)
+4ns
+Operating Junction Temperature Range
+-60℃~+200℃
+Non-Repetitive Peak Forward Surge Current
+500mA
+Description
+Voltage - Forward(Vf@If):1V@10mA Voltage - DC Reverse(Vr):100V Current - Rectified:150mA Pd - Power Dissipation:500mW Reverse Leakage Current (Ir):5mA Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:-60℃~+200℃ Operating Junction Tempe
+Symbol
+1N4148_C18195411
+Designator
+D26
+Name
+1N4148
+Device
+1N4148_C18195411
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge87
+
+*
+]
+[
+DESIGNATOR
+D27
+FOOTPRINT
+DO-35_BD2.2-L4.0-D0.50_1N4148
+PARTTYPE
+1N4148_C18195411
+DESCRIPTION
+Voltage - Forward(Vf@If):1V@10mA Voltage - DC Reverse(Vr):100V Current - Rectified:150mA Pd - Power Dissipation:500mW Reverse Leakage Current (Ir):5mA Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:-60℃~+200℃ Operating Junction Tempe
+Component Kind
+Standard
+LCSC Part Name
+100V 150mA
+Supplier Part
+C18195411
+Manufacturer
+LJ(朗捷)
+Manufacturer Part
+1N4148
+Supplier Footprint
+DO-35
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://item.szlcsc.com/datasheet/1N4148/19344798.html
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+DO-35_BD2.2-L4.0-D0.50_1N4148
+Voltage - Forward(Vf@If)
+1V@10mA
+Voltage - DC Reverse(Vr)
+100V
+Current - Rectified
+150mA
+Pd - Power Dissipation
+500mW
+Reverse Leakage Current (Ir)
+5mA
+Reverse Recovery Time (trr)
+4ns
+Operating Junction Temperature Range
+-60℃~+200℃
+Non-Repetitive Peak Forward Surge Current
+500mA
+Description
+Voltage - Forward(Vf@If):1V@10mA Voltage - DC Reverse(Vr):100V Current - Rectified:150mA Pd - Power Dissipation:500mW Reverse Leakage Current (Ir):5mA Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:-60℃~+200℃ Operating Junction Tempe
+Symbol
+1N4148_C18195411
+Designator
+D27
+Name
+1N4148
+Device
+1N4148_C18195411
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge88
+
+*
+]
+[
+DESIGNATOR
+D28
+FOOTPRINT
+DO-35_BD2.2-L4.0-D0.50_1N4148
+PARTTYPE
+1N4148_C18195411
+DESCRIPTION
+Voltage - Forward(Vf@If):1V@10mA Voltage - DC Reverse(Vr):100V Current - Rectified:150mA Pd - Power Dissipation:500mW Reverse Leakage Current (Ir):5mA Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:-60℃~+200℃ Operating Junction Tempe
+Component Kind
+Standard
+LCSC Part Name
+100V 150mA
+Supplier Part
+C18195411
+Manufacturer
+LJ(朗捷)
+Manufacturer Part
+1N4148
+Supplier Footprint
+DO-35
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://item.szlcsc.com/datasheet/1N4148/19344798.html
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+DO-35_BD2.2-L4.0-D0.50_1N4148
+Voltage - Forward(Vf@If)
+1V@10mA
+Voltage - DC Reverse(Vr)
+100V
+Current - Rectified
+150mA
+Pd - Power Dissipation
+500mW
+Reverse Leakage Current (Ir)
+5mA
+Reverse Recovery Time (trr)
+4ns
+Operating Junction Temperature Range
+-60℃~+200℃
+Non-Repetitive Peak Forward Surge Current
+500mA
+Description
+Voltage - Forward(Vf@If):1V@10mA Voltage - DC Reverse(Vr):100V Current - Rectified:150mA Pd - Power Dissipation:500mW Reverse Leakage Current (Ir):5mA Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:-60℃~+200℃ Operating Junction Tempe
+Symbol
+1N4148_C18195411
+Designator
+D28
+Name
+1N4148
+Device
+1N4148_C18195411
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge89
+
+*
+]
+[
+DESIGNATOR
+D29
+FOOTPRINT
+DO-35_BD2.2-L4.0-D0.50_1N4148
+PARTTYPE
+1N4148_C18195411
+DESCRIPTION
+Voltage - Forward(Vf@If):1V@10mA Voltage - DC Reverse(Vr):100V Current - Rectified:150mA Pd - Power Dissipation:500mW Reverse Leakage Current (Ir):5mA Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:-60℃~+200℃ Operating Junction Tempe
+Component Kind
+Standard
+LCSC Part Name
+100V 150mA
+Supplier Part
+C18195411
+Manufacturer
+LJ(朗捷)
+Manufacturer Part
+1N4148
+Supplier Footprint
+DO-35
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://item.szlcsc.com/datasheet/1N4148/19344798.html
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+DO-35_BD2.2-L4.0-D0.50_1N4148
+Voltage - Forward(Vf@If)
+1V@10mA
+Voltage - DC Reverse(Vr)
+100V
+Current - Rectified
+150mA
+Pd - Power Dissipation
+500mW
+Reverse Leakage Current (Ir)
+5mA
+Reverse Recovery Time (trr)
+4ns
+Operating Junction Temperature Range
+-60℃~+200℃
+Non-Repetitive Peak Forward Surge Current
+500mA
+Description
+Voltage - Forward(Vf@If):1V@10mA Voltage - DC Reverse(Vr):100V Current - Rectified:150mA Pd - Power Dissipation:500mW Reverse Leakage Current (Ir):5mA Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:-60℃~+200℃ Operating Junction Tempe
+Symbol
+1N4148_C18195411
+Designator
+D29
+Name
+1N4148
+Device
+1N4148_C18195411
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge90
+
+*
+]
+[
+DESIGNATOR
+D30
+FOOTPRINT
+DO-35_BD2.2-L4.0-D0.50_1N4148
+PARTTYPE
+1N4148_C18195411
+DESCRIPTION
+Voltage - Forward(Vf@If):1V@10mA Voltage - DC Reverse(Vr):100V Current - Rectified:150mA Pd - Power Dissipation:500mW Reverse Leakage Current (Ir):5mA Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:-60℃~+200℃ Operating Junction Tempe
+Component Kind
+Standard
+LCSC Part Name
+100V 150mA
+Supplier Part
+C18195411
+Manufacturer
+LJ(朗捷)
+Manufacturer Part
+1N4148
+Supplier Footprint
+DO-35
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://item.szlcsc.com/datasheet/1N4148/19344798.html
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+DO-35_BD2.2-L4.0-D0.50_1N4148
+Voltage - Forward(Vf@If)
+1V@10mA
+Voltage - DC Reverse(Vr)
+100V
+Current - Rectified
+150mA
+Pd - Power Dissipation
+500mW
+Reverse Leakage Current (Ir)
+5mA
+Reverse Recovery Time (trr)
+4ns
+Operating Junction Temperature Range
+-60℃~+200℃
+Non-Repetitive Peak Forward Surge Current
+500mA
+Description
+Voltage - Forward(Vf@If):1V@10mA Voltage - DC Reverse(Vr):100V Current - Rectified:150mA Pd - Power Dissipation:500mW Reverse Leakage Current (Ir):5mA Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:-60℃~+200℃ Operating Junction Tempe
+Symbol
+1N4148_C18195411
+Designator
+D30
+Name
+1N4148
+Device
+1N4148_C18195411
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge91
+
+*
+]
+[
+DESIGNATOR
+D31
+FOOTPRINT
+DO-35_BD2.2-L4.0-D0.50_1N4148
+PARTTYPE
+1N4148_C18195411
+DESCRIPTION
+Voltage - Forward(Vf@If):1V@10mA Voltage - DC Reverse(Vr):100V Current - Rectified:150mA Pd - Power Dissipation:500mW Reverse Leakage Current (Ir):5mA Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:-60℃~+200℃ Operating Junction Tempe
+Component Kind
+Standard
+LCSC Part Name
+100V 150mA
+Supplier Part
+C18195411
+Manufacturer
+LJ(朗捷)
+Manufacturer Part
+1N4148
+Supplier Footprint
+DO-35
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://item.szlcsc.com/datasheet/1N4148/19344798.html
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+DO-35_BD2.2-L4.0-D0.50_1N4148
+Voltage - Forward(Vf@If)
+1V@10mA
+Voltage - DC Reverse(Vr)
+100V
+Current - Rectified
+150mA
+Pd - Power Dissipation
+500mW
+Reverse Leakage Current (Ir)
+5mA
+Reverse Recovery Time (trr)
+4ns
+Operating Junction Temperature Range
+-60℃~+200℃
+Non-Repetitive Peak Forward Surge Current
+500mA
+Description
+Voltage - Forward(Vf@If):1V@10mA Voltage - DC Reverse(Vr):100V Current - Rectified:150mA Pd - Power Dissipation:500mW Reverse Leakage Current (Ir):5mA Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:-60℃~+200℃ Operating Junction Tempe
+Symbol
+1N4148_C18195411
+Designator
+D31
+Name
+1N4148
+Device
+1N4148_C18195411
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge92
+
+*
+]
+[
+DESIGNATOR
+D32
+FOOTPRINT
+DO-35_BD2.2-L4.0-D0.50_1N4148
+PARTTYPE
+1N4148_C18195411
+DESCRIPTION
+Voltage - Forward(Vf@If):1V@10mA Voltage - DC Reverse(Vr):100V Current - Rectified:150mA Pd - Power Dissipation:500mW Reverse Leakage Current (Ir):5mA Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:-60℃~+200℃ Operating Junction Tempe
+Component Kind
+Standard
+LCSC Part Name
+100V 150mA
+Supplier Part
+C18195411
+Manufacturer
+LJ(朗捷)
+Manufacturer Part
+1N4148
+Supplier Footprint
+DO-35
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://item.szlcsc.com/datasheet/1N4148/19344798.html
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+DO-35_BD2.2-L4.0-D0.50_1N4148
+Voltage - Forward(Vf@If)
+1V@10mA
+Voltage - DC Reverse(Vr)
+100V
+Current - Rectified
+150mA
+Pd - Power Dissipation
+500mW
+Reverse Leakage Current (Ir)
+5mA
+Reverse Recovery Time (trr)
+4ns
+Operating Junction Temperature Range
+-60℃~+200℃
+Non-Repetitive Peak Forward Surge Current
+500mA
+Description
+Voltage - Forward(Vf@If):1V@10mA Voltage - DC Reverse(Vr):100V Current - Rectified:150mA Pd - Power Dissipation:500mW Reverse Leakage Current (Ir):5mA Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:-60℃~+200℃ Operating Junction Tempe
+Symbol
+1N4148_C18195411
+Designator
+D32
+Name
+1N4148
+Device
+1N4148_C18195411
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge93
+
+*
+]
+[
+DESIGNATOR
+D33
+FOOTPRINT
+DO-35_BD2.2-L4.0-D0.50_1N4148
+PARTTYPE
+1N4148_C18195411
+DESCRIPTION
+Voltage - Forward(Vf@If):1V@10mA Voltage - DC Reverse(Vr):100V Current - Rectified:150mA Pd - Power Dissipation:500mW Reverse Leakage Current (Ir):5mA Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:-60℃~+200℃ Operating Junction Tempe
+Component Kind
+Standard
+LCSC Part Name
+100V 150mA
+Supplier Part
+C18195411
+Manufacturer
+LJ(朗捷)
+Manufacturer Part
+1N4148
+Supplier Footprint
+DO-35
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://item.szlcsc.com/datasheet/1N4148/19344798.html
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+DO-35_BD2.2-L4.0-D0.50_1N4148
+Voltage - Forward(Vf@If)
+1V@10mA
+Voltage - DC Reverse(Vr)
+100V
+Current - Rectified
+150mA
+Pd - Power Dissipation
+500mW
+Reverse Leakage Current (Ir)
+5mA
+Reverse Recovery Time (trr)
+4ns
+Operating Junction Temperature Range
+-60℃~+200℃
+Non-Repetitive Peak Forward Surge Current
+500mA
+Description
+Voltage - Forward(Vf@If):1V@10mA Voltage - DC Reverse(Vr):100V Current - Rectified:150mA Pd - Power Dissipation:500mW Reverse Leakage Current (Ir):5mA Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:-60℃~+200℃ Operating Junction Tempe
+Symbol
+1N4148_C18195411
+Designator
+D33
+Name
+1N4148
+Device
+1N4148_C18195411
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge94
+
+*
+]
+[
+DESIGNATOR
+D34
+FOOTPRINT
+DO-35_BD2.2-L4.0-D0.50_1N4148
+PARTTYPE
+1N4148_C18195411
+DESCRIPTION
+Voltage - Forward(Vf@If):1V@10mA Voltage - DC Reverse(Vr):100V Current - Rectified:150mA Pd - Power Dissipation:500mW Reverse Leakage Current (Ir):5mA Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:-60℃~+200℃ Operating Junction Tempe
+Component Kind
+Standard
+LCSC Part Name
+100V 150mA
+Supplier Part
+C18195411
+Manufacturer
+LJ(朗捷)
+Manufacturer Part
+1N4148
+Supplier Footprint
+DO-35
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://item.szlcsc.com/datasheet/1N4148/19344798.html
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+DO-35_BD2.2-L4.0-D0.50_1N4148
+Voltage - Forward(Vf@If)
+1V@10mA
+Voltage - DC Reverse(Vr)
+100V
+Current - Rectified
+150mA
+Pd - Power Dissipation
+500mW
+Reverse Leakage Current (Ir)
+5mA
+Reverse Recovery Time (trr)
+4ns
+Operating Junction Temperature Range
+-60℃~+200℃
+Non-Repetitive Peak Forward Surge Current
+500mA
+Description
+Voltage - Forward(Vf@If):1V@10mA Voltage - DC Reverse(Vr):100V Current - Rectified:150mA Pd - Power Dissipation:500mW Reverse Leakage Current (Ir):5mA Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:-60℃~+200℃ Operating Junction Tempe
+Symbol
+1N4148_C18195411
+Designator
+D34
+Name
+1N4148
+Device
+1N4148_C18195411
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge95
+
+*
+]
+[
+DESIGNATOR
+D35
+FOOTPRINT
+DO-35_BD2.2-L4.0-D0.50_1N4148
+PARTTYPE
+1N4148_C18195411
+DESCRIPTION
+Voltage - Forward(Vf@If):1V@10mA Voltage - DC Reverse(Vr):100V Current - Rectified:150mA Pd - Power Dissipation:500mW Reverse Leakage Current (Ir):5mA Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:-60℃~+200℃ Operating Junction Tempe
+Component Kind
+Standard
+LCSC Part Name
+100V 150mA
+Supplier Part
+C18195411
+Manufacturer
+LJ(朗捷)
+Manufacturer Part
+1N4148
+Supplier Footprint
+DO-35
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://item.szlcsc.com/datasheet/1N4148/19344798.html
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+DO-35_BD2.2-L4.0-D0.50_1N4148
+Voltage - Forward(Vf@If)
+1V@10mA
+Voltage - DC Reverse(Vr)
+100V
+Current - Rectified
+150mA
+Pd - Power Dissipation
+500mW
+Reverse Leakage Current (Ir)
+5mA
+Reverse Recovery Time (trr)
+4ns
+Operating Junction Temperature Range
+-60℃~+200℃
+Non-Repetitive Peak Forward Surge Current
+500mA
+Description
+Voltage - Forward(Vf@If):1V@10mA Voltage - DC Reverse(Vr):100V Current - Rectified:150mA Pd - Power Dissipation:500mW Reverse Leakage Current (Ir):5mA Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:-60℃~+200℃ Operating Junction Tempe
+Symbol
+1N4148_C18195411
+Designator
+D35
+Name
+1N4148
+Device
+1N4148_C18195411
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge96
+
+*
+]
+[
+DESIGNATOR
+D36
+FOOTPRINT
+DO-35_BD2.2-L4.0-D0.50_1N4148
+PARTTYPE
+1N4148_C18195411
+DESCRIPTION
+Voltage - Forward(Vf@If):1V@10mA Voltage - DC Reverse(Vr):100V Current - Rectified:150mA Pd - Power Dissipation:500mW Reverse Leakage Current (Ir):5mA Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:-60℃~+200℃ Operating Junction Tempe
+Component Kind
+Standard
+LCSC Part Name
+100V 150mA
+Supplier Part
+C18195411
+Manufacturer
+LJ(朗捷)
+Manufacturer Part
+1N4148
+Supplier Footprint
+DO-35
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://item.szlcsc.com/datasheet/1N4148/19344798.html
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+DO-35_BD2.2-L4.0-D0.50_1N4148
+Voltage - Forward(Vf@If)
+1V@10mA
+Voltage - DC Reverse(Vr)
+100V
+Current - Rectified
+150mA
+Pd - Power Dissipation
+500mW
+Reverse Leakage Current (Ir)
+5mA
+Reverse Recovery Time (trr)
+4ns
+Operating Junction Temperature Range
+-60℃~+200℃
+Non-Repetitive Peak Forward Surge Current
+500mA
+Description
+Voltage - Forward(Vf@If):1V@10mA Voltage - DC Reverse(Vr):100V Current - Rectified:150mA Pd - Power Dissipation:500mW Reverse Leakage Current (Ir):5mA Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:-60℃~+200℃ Operating Junction Tempe
+Symbol
+1N4148_C18195411
+Designator
+D36
+Name
+1N4148
+Device
+1N4148_C18195411
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge97
+
+*
+]
+[
+DESIGNATOR
+D37
+FOOTPRINT
+DO-35_BD2.2-L4.0-D0.50_1N4148
+PARTTYPE
+1N4148_C18195411
+DESCRIPTION
+Voltage - Forward(Vf@If):1V@10mA Voltage - DC Reverse(Vr):100V Current - Rectified:150mA Pd - Power Dissipation:500mW Reverse Leakage Current (Ir):5mA Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:-60℃~+200℃ Operating Junction Tempe
+Component Kind
+Standard
+LCSC Part Name
+100V 150mA
+Supplier Part
+C18195411
+Manufacturer
+LJ(朗捷)
+Manufacturer Part
+1N4148
+Supplier Footprint
+DO-35
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://item.szlcsc.com/datasheet/1N4148/19344798.html
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+DO-35_BD2.2-L4.0-D0.50_1N4148
+Voltage - Forward(Vf@If)
+1V@10mA
+Voltage - DC Reverse(Vr)
+100V
+Current - Rectified
+150mA
+Pd - Power Dissipation
+500mW
+Reverse Leakage Current (Ir)
+5mA
+Reverse Recovery Time (trr)
+4ns
+Operating Junction Temperature Range
+-60℃~+200℃
+Non-Repetitive Peak Forward Surge Current
+500mA
+Description
+Voltage - Forward(Vf@If):1V@10mA Voltage - DC Reverse(Vr):100V Current - Rectified:150mA Pd - Power Dissipation:500mW Reverse Leakage Current (Ir):5mA Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:-60℃~+200℃ Operating Junction Tempe
+Symbol
+1N4148_C18195411
+Designator
+D37
+Name
+1N4148
+Device
+1N4148_C18195411
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge98
+
+*
+]
+[
+DESIGNATOR
+D38
+FOOTPRINT
+DO-35_BD2.2-L4.0-D0.50_1N4148
+PARTTYPE
+1N4148_C18195411
+DESCRIPTION
+Voltage - Forward(Vf@If):1V@10mA Voltage - DC Reverse(Vr):100V Current - Rectified:150mA Pd - Power Dissipation:500mW Reverse Leakage Current (Ir):5mA Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:-60℃~+200℃ Operating Junction Tempe
+Component Kind
+Standard
+LCSC Part Name
+100V 150mA
+Supplier Part
+C18195411
+Manufacturer
+LJ(朗捷)
+Manufacturer Part
+1N4148
+Supplier Footprint
+DO-35
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://item.szlcsc.com/datasheet/1N4148/19344798.html
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+DO-35_BD2.2-L4.0-D0.50_1N4148
+Voltage - Forward(Vf@If)
+1V@10mA
+Voltage - DC Reverse(Vr)
+100V
+Current - Rectified
+150mA
+Pd - Power Dissipation
+500mW
+Reverse Leakage Current (Ir)
+5mA
+Reverse Recovery Time (trr)
+4ns
+Operating Junction Temperature Range
+-60℃~+200℃
+Non-Repetitive Peak Forward Surge Current
+500mA
+Description
+Voltage - Forward(Vf@If):1V@10mA Voltage - DC Reverse(Vr):100V Current - Rectified:150mA Pd - Power Dissipation:500mW Reverse Leakage Current (Ir):5mA Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:-60℃~+200℃ Operating Junction Tempe
+Symbol
+1N4148_C18195411
+Designator
+D38
+Name
+1N4148
+Device
+1N4148_C18195411
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge99
+
+*
+]
+[
+DESIGNATOR
+D39
+FOOTPRINT
+DO-35_BD2.2-L4.0-D0.50_1N4148
+PARTTYPE
+1N4148_C18195411
+DESCRIPTION
+Voltage - Forward(Vf@If):1V@10mA Voltage - DC Reverse(Vr):100V Current - Rectified:150mA Pd - Power Dissipation:500mW Reverse Leakage Current (Ir):5mA Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:-60℃~+200℃ Operating Junction Tempe
+Component Kind
+Standard
+LCSC Part Name
+100V 150mA
+Supplier Part
+C18195411
+Manufacturer
+LJ(朗捷)
+Manufacturer Part
+1N4148
+Supplier Footprint
+DO-35
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://item.szlcsc.com/datasheet/1N4148/19344798.html
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+DO-35_BD2.2-L4.0-D0.50_1N4148
+Voltage - Forward(Vf@If)
+1V@10mA
+Voltage - DC Reverse(Vr)
+100V
+Current - Rectified
+150mA
+Pd - Power Dissipation
+500mW
+Reverse Leakage Current (Ir)
+5mA
+Reverse Recovery Time (trr)
+4ns
+Operating Junction Temperature Range
+-60℃~+200℃
+Non-Repetitive Peak Forward Surge Current
+500mA
+Description
+Voltage - Forward(Vf@If):1V@10mA Voltage - DC Reverse(Vr):100V Current - Rectified:150mA Pd - Power Dissipation:500mW Reverse Leakage Current (Ir):5mA Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:-60℃~+200℃ Operating Junction Tempe
+Symbol
+1N4148_C18195411
+Designator
+D39
+Name
+1N4148
+Device
+1N4148_C18195411
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge100
+
+*
+]
+[
+DESIGNATOR
+D40
+FOOTPRINT
+DO-35_BD2.2-L4.0-D0.50_1N4148
+PARTTYPE
+1N4148_C18195411
+DESCRIPTION
+Voltage - Forward(Vf@If):1V@10mA Voltage - DC Reverse(Vr):100V Current - Rectified:150mA Pd - Power Dissipation:500mW Reverse Leakage Current (Ir):5mA Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:-60℃~+200℃ Operating Junction Tempe
+Component Kind
+Standard
+LCSC Part Name
+100V 150mA
+Supplier Part
+C18195411
+Manufacturer
+LJ(朗捷)
+Manufacturer Part
+1N4148
+Supplier Footprint
+DO-35
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://item.szlcsc.com/datasheet/1N4148/19344798.html
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+DO-35_BD2.2-L4.0-D0.50_1N4148
+Voltage - Forward(Vf@If)
+1V@10mA
+Voltage - DC Reverse(Vr)
+100V
+Current - Rectified
+150mA
+Pd - Power Dissipation
+500mW
+Reverse Leakage Current (Ir)
+5mA
+Reverse Recovery Time (trr)
+4ns
+Operating Junction Temperature Range
+-60℃~+200℃
+Non-Repetitive Peak Forward Surge Current
+500mA
+Description
+Voltage - Forward(Vf@If):1V@10mA Voltage - DC Reverse(Vr):100V Current - Rectified:150mA Pd - Power Dissipation:500mW Reverse Leakage Current (Ir):5mA Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:-60℃~+200℃ Operating Junction Tempe
+Symbol
+1N4148_C18195411
+Designator
+D40
+Name
+1N4148
+Device
+1N4148_C18195411
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge101
+
+*
+]
+[
+DESIGNATOR
+D41
+FOOTPRINT
+DO-35_BD2.2-L4.0-D0.50_1N4148
+PARTTYPE
+1N4148_C18195411
+DESCRIPTION
+Voltage - Forward(Vf@If):1V@10mA Voltage - DC Reverse(Vr):100V Current - Rectified:150mA Pd - Power Dissipation:500mW Reverse Leakage Current (Ir):5mA Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:-60℃~+200℃ Operating Junction Tempe
+Component Kind
+Standard
+LCSC Part Name
+100V 150mA
+Supplier Part
+C18195411
+Manufacturer
+LJ(朗捷)
+Manufacturer Part
+1N4148
+Supplier Footprint
+DO-35
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://item.szlcsc.com/datasheet/1N4148/19344798.html
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+DO-35_BD2.2-L4.0-D0.50_1N4148
+Voltage - Forward(Vf@If)
+1V@10mA
+Voltage - DC Reverse(Vr)
+100V
+Current - Rectified
+150mA
+Pd - Power Dissipation
+500mW
+Reverse Leakage Current (Ir)
+5mA
+Reverse Recovery Time (trr)
+4ns
+Operating Junction Temperature Range
+-60℃~+200℃
+Non-Repetitive Peak Forward Surge Current
+500mA
+Description
+Voltage - Forward(Vf@If):1V@10mA Voltage - DC Reverse(Vr):100V Current - Rectified:150mA Pd - Power Dissipation:500mW Reverse Leakage Current (Ir):5mA Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:-60℃~+200℃ Operating Junction Tempe
+Symbol
+1N4148_C18195411
+Designator
+D41
+Name
+1N4148
+Device
+1N4148_C18195411
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge102
+
+*
+]
+[
+DESIGNATOR
+D42
+FOOTPRINT
+DO-35_BD2.2-L4.0-D0.50_1N4148
+PARTTYPE
+1N4148_C18195411
+DESCRIPTION
+Voltage - Forward(Vf@If):1V@10mA Voltage - DC Reverse(Vr):100V Current - Rectified:150mA Pd - Power Dissipation:500mW Reverse Leakage Current (Ir):5mA Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:-60℃~+200℃ Operating Junction Tempe
+Component Kind
+Standard
+LCSC Part Name
+100V 150mA
+Supplier Part
+C18195411
+Manufacturer
+LJ(朗捷)
+Manufacturer Part
+1N4148
+Supplier Footprint
+DO-35
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://item.szlcsc.com/datasheet/1N4148/19344798.html
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+DO-35_BD2.2-L4.0-D0.50_1N4148
+Voltage - Forward(Vf@If)
+1V@10mA
+Voltage - DC Reverse(Vr)
+100V
+Current - Rectified
+150mA
+Pd - Power Dissipation
+500mW
+Reverse Leakage Current (Ir)
+5mA
+Reverse Recovery Time (trr)
+4ns
+Operating Junction Temperature Range
+-60℃~+200℃
+Non-Repetitive Peak Forward Surge Current
+500mA
+Description
+Voltage - Forward(Vf@If):1V@10mA Voltage - DC Reverse(Vr):100V Current - Rectified:150mA Pd - Power Dissipation:500mW Reverse Leakage Current (Ir):5mA Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:-60℃~+200℃ Operating Junction Tempe
+Symbol
+1N4148_C18195411
+Designator
+D42
+Name
+1N4148
+Device
+1N4148_C18195411
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge103
+
+*
+]
+[
+DESIGNATOR
+D43
+FOOTPRINT
+DO-35_BD2.2-L4.0-D0.50_1N4148
+PARTTYPE
+1N4148_C18195411
+DESCRIPTION
+Voltage - Forward(Vf@If):1V@10mA Voltage - DC Reverse(Vr):100V Current - Rectified:150mA Pd - Power Dissipation:500mW Reverse Leakage Current (Ir):5mA Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:-60℃~+200℃ Operating Junction Tempe
+Component Kind
+Standard
+LCSC Part Name
+100V 150mA
+Supplier Part
+C18195411
+Manufacturer
+LJ(朗捷)
+Manufacturer Part
+1N4148
+Supplier Footprint
+DO-35
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://item.szlcsc.com/datasheet/1N4148/19344798.html
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+DO-35_BD2.2-L4.0-D0.50_1N4148
+Voltage - Forward(Vf@If)
+1V@10mA
+Voltage - DC Reverse(Vr)
+100V
+Current - Rectified
+150mA
+Pd - Power Dissipation
+500mW
+Reverse Leakage Current (Ir)
+5mA
+Reverse Recovery Time (trr)
+4ns
+Operating Junction Temperature Range
+-60℃~+200℃
+Non-Repetitive Peak Forward Surge Current
+500mA
+Description
+Voltage - Forward(Vf@If):1V@10mA Voltage - DC Reverse(Vr):100V Current - Rectified:150mA Pd - Power Dissipation:500mW Reverse Leakage Current (Ir):5mA Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:-60℃~+200℃ Operating Junction Tempe
+Symbol
+1N4148_C18195411
+Designator
+D43
+Name
+1N4148
+Device
+1N4148_C18195411
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge104
+
+*
+]
+[
+DESIGNATOR
+D44
+FOOTPRINT
+DO-35_BD2.2-L4.0-D0.50_1N4148
+PARTTYPE
+1N4148_C18195411
+DESCRIPTION
+Voltage - Forward(Vf@If):1V@10mA Voltage - DC Reverse(Vr):100V Current - Rectified:150mA Pd - Power Dissipation:500mW Reverse Leakage Current (Ir):5mA Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:-60℃~+200℃ Operating Junction Tempe
+Component Kind
+Standard
+LCSC Part Name
+100V 150mA
+Supplier Part
+C18195411
+Manufacturer
+LJ(朗捷)
+Manufacturer Part
+1N4148
+Supplier Footprint
+DO-35
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://item.szlcsc.com/datasheet/1N4148/19344798.html
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+DO-35_BD2.2-L4.0-D0.50_1N4148
+Voltage - Forward(Vf@If)
+1V@10mA
+Voltage - DC Reverse(Vr)
+100V
+Current - Rectified
+150mA
+Pd - Power Dissipation
+500mW
+Reverse Leakage Current (Ir)
+5mA
+Reverse Recovery Time (trr)
+4ns
+Operating Junction Temperature Range
+-60℃~+200℃
+Non-Repetitive Peak Forward Surge Current
+500mA
+Description
+Voltage - Forward(Vf@If):1V@10mA Voltage - DC Reverse(Vr):100V Current - Rectified:150mA Pd - Power Dissipation:500mW Reverse Leakage Current (Ir):5mA Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:-60℃~+200℃ Operating Junction Tempe
+Symbol
+1N4148_C18195411
+Designator
+D44
+Name
+1N4148
+Device
+1N4148_C18195411
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge105
+
+*
+]
+[
+DESIGNATOR
+D45
+FOOTPRINT
+DO-35_BD2.2-L4.0-D0.50_1N4148
+PARTTYPE
+1N4148_C18195411
+DESCRIPTION
+Voltage - Forward(Vf@If):1V@10mA Voltage - DC Reverse(Vr):100V Current - Rectified:150mA Pd - Power Dissipation:500mW Reverse Leakage Current (Ir):5mA Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:-60℃~+200℃ Operating Junction Tempe
+Component Kind
+Standard
+LCSC Part Name
+100V 150mA
+Supplier Part
+C18195411
+Manufacturer
+LJ(朗捷)
+Manufacturer Part
+1N4148
+Supplier Footprint
+DO-35
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://item.szlcsc.com/datasheet/1N4148/19344798.html
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+DO-35_BD2.2-L4.0-D0.50_1N4148
+Voltage - Forward(Vf@If)
+1V@10mA
+Voltage - DC Reverse(Vr)
+100V
+Current - Rectified
+150mA
+Pd - Power Dissipation
+500mW
+Reverse Leakage Current (Ir)
+5mA
+Reverse Recovery Time (trr)
+4ns
+Operating Junction Temperature Range
+-60℃~+200℃
+Non-Repetitive Peak Forward Surge Current
+500mA
+Description
+Voltage - Forward(Vf@If):1V@10mA Voltage - DC Reverse(Vr):100V Current - Rectified:150mA Pd - Power Dissipation:500mW Reverse Leakage Current (Ir):5mA Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:-60℃~+200℃ Operating Junction Tempe
+Symbol
+1N4148_C18195411
+Designator
+D45
+Name
+1N4148
+Device
+1N4148_C18195411
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge106
+
+*
+]
+[
+DESIGNATOR
+D46
+FOOTPRINT
+DO-35_BD2.2-L4.0-D0.50_1N4148
+PARTTYPE
+1N4148_C18195411
+DESCRIPTION
+Voltage - Forward(Vf@If):1V@10mA Voltage - DC Reverse(Vr):100V Current - Rectified:150mA Pd - Power Dissipation:500mW Reverse Leakage Current (Ir):5mA Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:-60℃~+200℃ Operating Junction Tempe
+Component Kind
+Standard
+LCSC Part Name
+100V 150mA
+Supplier Part
+C18195411
+Manufacturer
+LJ(朗捷)
+Manufacturer Part
+1N4148
+Supplier Footprint
+DO-35
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://item.szlcsc.com/datasheet/1N4148/19344798.html
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+DO-35_BD2.2-L4.0-D0.50_1N4148
+Voltage - Forward(Vf@If)
+1V@10mA
+Voltage - DC Reverse(Vr)
+100V
+Current - Rectified
+150mA
+Pd - Power Dissipation
+500mW
+Reverse Leakage Current (Ir)
+5mA
+Reverse Recovery Time (trr)
+4ns
+Operating Junction Temperature Range
+-60℃~+200℃
+Non-Repetitive Peak Forward Surge Current
+500mA
+Description
+Voltage - Forward(Vf@If):1V@10mA Voltage - DC Reverse(Vr):100V Current - Rectified:150mA Pd - Power Dissipation:500mW Reverse Leakage Current (Ir):5mA Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:-60℃~+200℃ Operating Junction Tempe
+Symbol
+1N4148_C18195411
+Designator
+D46
+Name
+1N4148
+Device
+1N4148_C18195411
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge107
+
+*
+]
+[
+DESIGNATOR
+D47
+FOOTPRINT
+DO-35_BD2.2-L4.0-D0.50_1N4148
+PARTTYPE
+1N4148_C18195411
+DESCRIPTION
+Voltage - Forward(Vf@If):1V@10mA Voltage - DC Reverse(Vr):100V Current - Rectified:150mA Pd - Power Dissipation:500mW Reverse Leakage Current (Ir):5mA Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:-60℃~+200℃ Operating Junction Tempe
+Component Kind
+Standard
+LCSC Part Name
+100V 150mA
+Supplier Part
+C18195411
+Manufacturer
+LJ(朗捷)
+Manufacturer Part
+1N4148
+Supplier Footprint
+DO-35
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://item.szlcsc.com/datasheet/1N4148/19344798.html
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+DO-35_BD2.2-L4.0-D0.50_1N4148
+Voltage - Forward(Vf@If)
+1V@10mA
+Voltage - DC Reverse(Vr)
+100V
+Current - Rectified
+150mA
+Pd - Power Dissipation
+500mW
+Reverse Leakage Current (Ir)
+5mA
+Reverse Recovery Time (trr)
+4ns
+Operating Junction Temperature Range
+-60℃~+200℃
+Non-Repetitive Peak Forward Surge Current
+500mA
+Description
+Voltage - Forward(Vf@If):1V@10mA Voltage - DC Reverse(Vr):100V Current - Rectified:150mA Pd - Power Dissipation:500mW Reverse Leakage Current (Ir):5mA Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:-60℃~+200℃ Operating Junction Tempe
+Symbol
+1N4148_C18195411
+Designator
+D47
+Name
+1N4148
+Device
+1N4148_C18195411
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge108
+
+*
+]
+[
+DESIGNATOR
+D48
+FOOTPRINT
+DO-35_BD2.2-L4.0-D0.50_1N4148
+PARTTYPE
+1N4148_C18195411
+DESCRIPTION
+Voltage - Forward(Vf@If):1V@10mA Voltage - DC Reverse(Vr):100V Current - Rectified:150mA Pd - Power Dissipation:500mW Reverse Leakage Current (Ir):5mA Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:-60℃~+200℃ Operating Junction Tempe
+Component Kind
+Standard
+LCSC Part Name
+100V 150mA
+Supplier Part
+C18195411
+Manufacturer
+LJ(朗捷)
+Manufacturer Part
+1N4148
+Supplier Footprint
+DO-35
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://item.szlcsc.com/datasheet/1N4148/19344798.html
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+DO-35_BD2.2-L4.0-D0.50_1N4148
+Voltage - Forward(Vf@If)
+1V@10mA
+Voltage - DC Reverse(Vr)
+100V
+Current - Rectified
+150mA
+Pd - Power Dissipation
+500mW
+Reverse Leakage Current (Ir)
+5mA
+Reverse Recovery Time (trr)
+4ns
+Operating Junction Temperature Range
+-60℃~+200℃
+Non-Repetitive Peak Forward Surge Current
+500mA
+Description
+Voltage - Forward(Vf@If):1V@10mA Voltage - DC Reverse(Vr):100V Current - Rectified:150mA Pd - Power Dissipation:500mW Reverse Leakage Current (Ir):5mA Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:-60℃~+200℃ Operating Junction Tempe
+Symbol
+1N4148_C18195411
+Designator
+D48
+Name
+1N4148
+Device
+1N4148_C18195411
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge109
+
+*
+]
+[
+DESIGNATOR
+D49
+FOOTPRINT
+DO-35_BD2.2-L4.0-D0.50_1N4148
+PARTTYPE
+1N4148_C18195411
+DESCRIPTION
+Voltage - Forward(Vf@If):1V@10mA Voltage - DC Reverse(Vr):100V Current - Rectified:150mA Pd - Power Dissipation:500mW Reverse Leakage Current (Ir):5mA Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:-60℃~+200℃ Operating Junction Tempe
+Component Kind
+Standard
+LCSC Part Name
+100V 150mA
+Supplier Part
+C18195411
+Manufacturer
+LJ(朗捷)
+Manufacturer Part
+1N4148
+Supplier Footprint
+DO-35
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://item.szlcsc.com/datasheet/1N4148/19344798.html
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+DO-35_BD2.2-L4.0-D0.50_1N4148
+Voltage - Forward(Vf@If)
+1V@10mA
+Voltage - DC Reverse(Vr)
+100V
+Current - Rectified
+150mA
+Pd - Power Dissipation
+500mW
+Reverse Leakage Current (Ir)
+5mA
+Reverse Recovery Time (trr)
+4ns
+Operating Junction Temperature Range
+-60℃~+200℃
+Non-Repetitive Peak Forward Surge Current
+500mA
+Description
+Voltage - Forward(Vf@If):1V@10mA Voltage - DC Reverse(Vr):100V Current - Rectified:150mA Pd - Power Dissipation:500mW Reverse Leakage Current (Ir):5mA Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:-60℃~+200℃ Operating Junction Tempe
+Symbol
+1N4148_C18195411
+Designator
+D49
+Name
+1N4148
+Device
+1N4148_C18195411
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge110
+
+*
+]
+[
+DESIGNATOR
+D50
+FOOTPRINT
+DO-35_BD2.2-L4.0-D0.50_1N4148
+PARTTYPE
+1N4148_C18195411
+DESCRIPTION
+Voltage - Forward(Vf@If):1V@10mA Voltage - DC Reverse(Vr):100V Current - Rectified:150mA Pd - Power Dissipation:500mW Reverse Leakage Current (Ir):5mA Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:-60℃~+200℃ Operating Junction Tempe
+Component Kind
+Standard
+LCSC Part Name
+100V 150mA
+Supplier Part
+C18195411
+Manufacturer
+LJ(朗捷)
+Manufacturer Part
+1N4148
+Supplier Footprint
+DO-35
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://item.szlcsc.com/datasheet/1N4148/19344798.html
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+DO-35_BD2.2-L4.0-D0.50_1N4148
+Voltage - Forward(Vf@If)
+1V@10mA
+Voltage - DC Reverse(Vr)
+100V
+Current - Rectified
+150mA
+Pd - Power Dissipation
+500mW
+Reverse Leakage Current (Ir)
+5mA
+Reverse Recovery Time (trr)
+4ns
+Operating Junction Temperature Range
+-60℃~+200℃
+Non-Repetitive Peak Forward Surge Current
+500mA
+Description
+Voltage - Forward(Vf@If):1V@10mA Voltage - DC Reverse(Vr):100V Current - Rectified:150mA Pd - Power Dissipation:500mW Reverse Leakage Current (Ir):5mA Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:-60℃~+200℃ Operating Junction Tempe
+Symbol
+1N4148_C18195411
+Designator
+D50
+Name
+1N4148
+Device
+1N4148_C18195411
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge111
+
+*
+]
+[
+DESIGNATOR
+D51
+FOOTPRINT
+DO-35_BD2.2-L4.0-D0.50_1N4148
+PARTTYPE
+1N4148_C18195411
+DESCRIPTION
+Voltage - Forward(Vf@If):1V@10mA Voltage - DC Reverse(Vr):100V Current - Rectified:150mA Pd - Power Dissipation:500mW Reverse Leakage Current (Ir):5mA Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:-60℃~+200℃ Operating Junction Tempe
+Component Kind
+Standard
+LCSC Part Name
+100V 150mA
+Supplier Part
+C18195411
+Manufacturer
+LJ(朗捷)
+Manufacturer Part
+1N4148
+Supplier Footprint
+DO-35
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://item.szlcsc.com/datasheet/1N4148/19344798.html
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+DO-35_BD2.2-L4.0-D0.50_1N4148
+Voltage - Forward(Vf@If)
+1V@10mA
+Voltage - DC Reverse(Vr)
+100V
+Current - Rectified
+150mA
+Pd - Power Dissipation
+500mW
+Reverse Leakage Current (Ir)
+5mA
+Reverse Recovery Time (trr)
+4ns
+Operating Junction Temperature Range
+-60℃~+200℃
+Non-Repetitive Peak Forward Surge Current
+500mA
+Description
+Voltage - Forward(Vf@If):1V@10mA Voltage - DC Reverse(Vr):100V Current - Rectified:150mA Pd - Power Dissipation:500mW Reverse Leakage Current (Ir):5mA Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:-60℃~+200℃ Operating Junction Tempe
+Symbol
+1N4148_C18195411
+Designator
+D51
+Name
+1N4148
+Device
+1N4148_C18195411
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge112
+
+*
+]
+[
+DESIGNATOR
+D52
+FOOTPRINT
+DO-35_BD2.2-L4.0-D0.50_1N4148
+PARTTYPE
+1N4148_C18195411
+DESCRIPTION
+Voltage - Forward(Vf@If):1V@10mA Voltage - DC Reverse(Vr):100V Current - Rectified:150mA Pd - Power Dissipation:500mW Reverse Leakage Current (Ir):5mA Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:-60℃~+200℃ Operating Junction Tempe
+Component Kind
+Standard
+LCSC Part Name
+100V 150mA
+Supplier Part
+C18195411
+Manufacturer
+LJ(朗捷)
+Manufacturer Part
+1N4148
+Supplier Footprint
+DO-35
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://item.szlcsc.com/datasheet/1N4148/19344798.html
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+DO-35_BD2.2-L4.0-D0.50_1N4148
+Voltage - Forward(Vf@If)
+1V@10mA
+Voltage - DC Reverse(Vr)
+100V
+Current - Rectified
+150mA
+Pd - Power Dissipation
+500mW
+Reverse Leakage Current (Ir)
+5mA
+Reverse Recovery Time (trr)
+4ns
+Operating Junction Temperature Range
+-60℃~+200℃
+Non-Repetitive Peak Forward Surge Current
+500mA
+Description
+Voltage - Forward(Vf@If):1V@10mA Voltage - DC Reverse(Vr):100V Current - Rectified:150mA Pd - Power Dissipation:500mW Reverse Leakage Current (Ir):5mA Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:-60℃~+200℃ Operating Junction Tempe
+Symbol
+1N4148_C18195411
+Designator
+D52
+Name
+1N4148
+Device
+1N4148_C18195411
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge113
+
+*
+]
+[
+DESIGNATOR
+D53
+FOOTPRINT
+DO-35_BD2.2-L4.0-D0.50_1N4148
+PARTTYPE
+1N4148_C18195411
+DESCRIPTION
+Voltage - Forward(Vf@If):1V@10mA Voltage - DC Reverse(Vr):100V Current - Rectified:150mA Pd - Power Dissipation:500mW Reverse Leakage Current (Ir):5mA Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:-60℃~+200℃ Operating Junction Tempe
+Component Kind
+Standard
+LCSC Part Name
+100V 150mA
+Supplier Part
+C18195411
+Manufacturer
+LJ(朗捷)
+Manufacturer Part
+1N4148
+Supplier Footprint
+DO-35
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://item.szlcsc.com/datasheet/1N4148/19344798.html
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+DO-35_BD2.2-L4.0-D0.50_1N4148
+Voltage - Forward(Vf@If)
+1V@10mA
+Voltage - DC Reverse(Vr)
+100V
+Current - Rectified
+150mA
+Pd - Power Dissipation
+500mW
+Reverse Leakage Current (Ir)
+5mA
+Reverse Recovery Time (trr)
+4ns
+Operating Junction Temperature Range
+-60℃~+200℃
+Non-Repetitive Peak Forward Surge Current
+500mA
+Description
+Voltage - Forward(Vf@If):1V@10mA Voltage - DC Reverse(Vr):100V Current - Rectified:150mA Pd - Power Dissipation:500mW Reverse Leakage Current (Ir):5mA Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:-60℃~+200℃ Operating Junction Tempe
+Symbol
+1N4148_C18195411
+Designator
+D53
+Name
+1N4148
+Device
+1N4148_C18195411
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge114
+
+*
+]
+[
+DESIGNATOR
+D54
+FOOTPRINT
+DO-35_BD2.2-L4.0-D0.50_1N4148
+PARTTYPE
+1N4148_C18195411
+DESCRIPTION
+Voltage - Forward(Vf@If):1V@10mA Voltage - DC Reverse(Vr):100V Current - Rectified:150mA Pd - Power Dissipation:500mW Reverse Leakage Current (Ir):5mA Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:-60℃~+200℃ Operating Junction Tempe
+Component Kind
+Standard
+LCSC Part Name
+100V 150mA
+Supplier Part
+C18195411
+Manufacturer
+LJ(朗捷)
+Manufacturer Part
+1N4148
+Supplier Footprint
+DO-35
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://item.szlcsc.com/datasheet/1N4148/19344798.html
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+DO-35_BD2.2-L4.0-D0.50_1N4148
+Voltage - Forward(Vf@If)
+1V@10mA
+Voltage - DC Reverse(Vr)
+100V
+Current - Rectified
+150mA
+Pd - Power Dissipation
+500mW
+Reverse Leakage Current (Ir)
+5mA
+Reverse Recovery Time (trr)
+4ns
+Operating Junction Temperature Range
+-60℃~+200℃
+Non-Repetitive Peak Forward Surge Current
+500mA
+Description
+Voltage - Forward(Vf@If):1V@10mA Voltage - DC Reverse(Vr):100V Current - Rectified:150mA Pd - Power Dissipation:500mW Reverse Leakage Current (Ir):5mA Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:-60℃~+200℃ Operating Junction Tempe
+Symbol
+1N4148_C18195411
+Designator
+D54
+Name
+1N4148
+Device
+1N4148_C18195411
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge115
+
+*
+]
+[
+DESIGNATOR
+D55
+FOOTPRINT
+DO-35_BD2.2-L4.0-D0.50_1N4148
+PARTTYPE
+1N4148_C18195411
+DESCRIPTION
+Voltage - Forward(Vf@If):1V@10mA Voltage - DC Reverse(Vr):100V Current - Rectified:150mA Pd - Power Dissipation:500mW Reverse Leakage Current (Ir):5mA Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:-60℃~+200℃ Operating Junction Tempe
+Component Kind
+Standard
+LCSC Part Name
+100V 150mA
+Supplier Part
+C18195411
+Manufacturer
+LJ(朗捷)
+Manufacturer Part
+1N4148
+Supplier Footprint
+DO-35
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://item.szlcsc.com/datasheet/1N4148/19344798.html
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+DO-35_BD2.2-L4.0-D0.50_1N4148
+Voltage - Forward(Vf@If)
+1V@10mA
+Voltage - DC Reverse(Vr)
+100V
+Current - Rectified
+150mA
+Pd - Power Dissipation
+500mW
+Reverse Leakage Current (Ir)
+5mA
+Reverse Recovery Time (trr)
+4ns
+Operating Junction Temperature Range
+-60℃~+200℃
+Non-Repetitive Peak Forward Surge Current
+500mA
+Description
+Voltage - Forward(Vf@If):1V@10mA Voltage - DC Reverse(Vr):100V Current - Rectified:150mA Pd - Power Dissipation:500mW Reverse Leakage Current (Ir):5mA Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:-60℃~+200℃ Operating Junction Tempe
+Symbol
+1N4148_C18195411
+Designator
+D55
+Name
+1N4148
+Device
+1N4148_C18195411
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge116
+
+*
+]
+[
+DESIGNATOR
+D56
+FOOTPRINT
+DO-35_BD2.2-L4.0-D0.50_1N4148
+PARTTYPE
+1N4148_C18195411
+DESCRIPTION
+Voltage - Forward(Vf@If):1V@10mA Voltage - DC Reverse(Vr):100V Current - Rectified:150mA Pd - Power Dissipation:500mW Reverse Leakage Current (Ir):5mA Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:-60℃~+200℃ Operating Junction Tempe
+Component Kind
+Standard
+LCSC Part Name
+100V 150mA
+Supplier Part
+C18195411
+Manufacturer
+LJ(朗捷)
+Manufacturer Part
+1N4148
+Supplier Footprint
+DO-35
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://item.szlcsc.com/datasheet/1N4148/19344798.html
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+DO-35_BD2.2-L4.0-D0.50_1N4148
+Voltage - Forward(Vf@If)
+1V@10mA
+Voltage - DC Reverse(Vr)
+100V
+Current - Rectified
+150mA
+Pd - Power Dissipation
+500mW
+Reverse Leakage Current (Ir)
+5mA
+Reverse Recovery Time (trr)
+4ns
+Operating Junction Temperature Range
+-60℃~+200℃
+Non-Repetitive Peak Forward Surge Current
+500mA
+Description
+Voltage - Forward(Vf@If):1V@10mA Voltage - DC Reverse(Vr):100V Current - Rectified:150mA Pd - Power Dissipation:500mW Reverse Leakage Current (Ir):5mA Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:-60℃~+200℃ Operating Junction Tempe
+Symbol
+1N4148_C18195411
+Designator
+D56
+Name
+1N4148
+Device
+1N4148_C18195411
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge117
+
+*
+]
+[
+DESIGNATOR
+D57
+FOOTPRINT
+DO-35_BD2.2-L4.0-D0.50_1N4148
+PARTTYPE
+1N4148_C18195411
+DESCRIPTION
+Voltage - Forward(Vf@If):1V@10mA Voltage - DC Reverse(Vr):100V Current - Rectified:150mA Pd - Power Dissipation:500mW Reverse Leakage Current (Ir):5mA Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:-60℃~+200℃ Operating Junction Tempe
+Component Kind
+Standard
+LCSC Part Name
+100V 150mA
+Supplier Part
+C18195411
+Manufacturer
+LJ(朗捷)
+Manufacturer Part
+1N4148
+Supplier Footprint
+DO-35
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://item.szlcsc.com/datasheet/1N4148/19344798.html
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+DO-35_BD2.2-L4.0-D0.50_1N4148
+Voltage - Forward(Vf@If)
+1V@10mA
+Voltage - DC Reverse(Vr)
+100V
+Current - Rectified
+150mA
+Pd - Power Dissipation
+500mW
+Reverse Leakage Current (Ir)
+5mA
+Reverse Recovery Time (trr)
+4ns
+Operating Junction Temperature Range
+-60℃~+200℃
+Non-Repetitive Peak Forward Surge Current
+500mA
+Description
+Voltage - Forward(Vf@If):1V@10mA Voltage - DC Reverse(Vr):100V Current - Rectified:150mA Pd - Power Dissipation:500mW Reverse Leakage Current (Ir):5mA Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:-60℃~+200℃ Operating Junction Tempe
+Symbol
+1N4148_C18195411
+Designator
+D57
+Name
+1N4148
+Device
+1N4148_C18195411
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge118
+
+*
+]
+[
+DESIGNATOR
+D58
+FOOTPRINT
+DO-35_BD2.2-L4.0-D0.50_1N4148
+PARTTYPE
+1N4148_C18195411
+DESCRIPTION
+Voltage - Forward(Vf@If):1V@10mA Voltage - DC Reverse(Vr):100V Current - Rectified:150mA Pd - Power Dissipation:500mW Reverse Leakage Current (Ir):5mA Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:-60℃~+200℃ Operating Junction Tempe
+Component Kind
+Standard
+LCSC Part Name
+100V 150mA
+Supplier Part
+C18195411
+Manufacturer
+LJ(朗捷)
+Manufacturer Part
+1N4148
+Supplier Footprint
+DO-35
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://item.szlcsc.com/datasheet/1N4148/19344798.html
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+DO-35_BD2.2-L4.0-D0.50_1N4148
+Voltage - Forward(Vf@If)
+1V@10mA
+Voltage - DC Reverse(Vr)
+100V
+Current - Rectified
+150mA
+Pd - Power Dissipation
+500mW
+Reverse Leakage Current (Ir)
+5mA
+Reverse Recovery Time (trr)
+4ns
+Operating Junction Temperature Range
+-60℃~+200℃
+Non-Repetitive Peak Forward Surge Current
+500mA
+Description
+Voltage - Forward(Vf@If):1V@10mA Voltage - DC Reverse(Vr):100V Current - Rectified:150mA Pd - Power Dissipation:500mW Reverse Leakage Current (Ir):5mA Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:-60℃~+200℃ Operating Junction Tempe
+Symbol
+1N4148_C18195411
+Designator
+D58
+Name
+1N4148
+Device
+1N4148_C18195411
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge119
+
+*
+]
+[
+DESIGNATOR
+D59
+FOOTPRINT
+DO-35_BD2.2-L4.0-D0.50_1N4148
+PARTTYPE
+1N4148_C18195411
+DESCRIPTION
+Voltage - Forward(Vf@If):1V@10mA Voltage - DC Reverse(Vr):100V Current - Rectified:150mA Pd - Power Dissipation:500mW Reverse Leakage Current (Ir):5mA Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:-60℃~+200℃ Operating Junction Tempe
+Component Kind
+Standard
+LCSC Part Name
+100V 150mA
+Supplier Part
+C18195411
+Manufacturer
+LJ(朗捷)
+Manufacturer Part
+1N4148
+Supplier Footprint
+DO-35
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://item.szlcsc.com/datasheet/1N4148/19344798.html
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+DO-35_BD2.2-L4.0-D0.50_1N4148
+Voltage - Forward(Vf@If)
+1V@10mA
+Voltage - DC Reverse(Vr)
+100V
+Current - Rectified
+150mA
+Pd - Power Dissipation
+500mW
+Reverse Leakage Current (Ir)
+5mA
+Reverse Recovery Time (trr)
+4ns
+Operating Junction Temperature Range
+-60℃~+200℃
+Non-Repetitive Peak Forward Surge Current
+500mA
+Description
+Voltage - Forward(Vf@If):1V@10mA Voltage - DC Reverse(Vr):100V Current - Rectified:150mA Pd - Power Dissipation:500mW Reverse Leakage Current (Ir):5mA Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:-60℃~+200℃ Operating Junction Tempe
+Symbol
+1N4148_C18195411
+Designator
+D59
+Name
+1N4148
+Device
+1N4148_C18195411
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge120
+
+*
+]
+[
+DESIGNATOR
+D60
+FOOTPRINT
+DO-35_BD2.2-L4.0-D0.50_1N4148
+PARTTYPE
+1N4148_C18195411
+DESCRIPTION
+Voltage - Forward(Vf@If):1V@10mA Voltage - DC Reverse(Vr):100V Current - Rectified:150mA Pd - Power Dissipation:500mW Reverse Leakage Current (Ir):5mA Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:-60℃~+200℃ Operating Junction Tempe
+Component Kind
+Standard
+LCSC Part Name
+100V 150mA
+Supplier Part
+C18195411
+Manufacturer
+LJ(朗捷)
+Manufacturer Part
+1N4148
+Supplier Footprint
+DO-35
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://item.szlcsc.com/datasheet/1N4148/19344798.html
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+DO-35_BD2.2-L4.0-D0.50_1N4148
+Voltage - Forward(Vf@If)
+1V@10mA
+Voltage - DC Reverse(Vr)
+100V
+Current - Rectified
+150mA
+Pd - Power Dissipation
+500mW
+Reverse Leakage Current (Ir)
+5mA
+Reverse Recovery Time (trr)
+4ns
+Operating Junction Temperature Range
+-60℃~+200℃
+Non-Repetitive Peak Forward Surge Current
+500mA
+Description
+Voltage - Forward(Vf@If):1V@10mA Voltage - DC Reverse(Vr):100V Current - Rectified:150mA Pd - Power Dissipation:500mW Reverse Leakage Current (Ir):5mA Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:-60℃~+200℃ Operating Junction Tempe
+Symbol
+1N4148_C18195411
+Designator
+D60
+Name
+1N4148
+Device
+1N4148_C18195411
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge121
+
+*
+]
+[
+DESIGNATOR
+SPK1
+FOOTPRINT
+SPK-TH_BD23.0-P10.00-D0.8-L-RD
+PARTTYPE
+2308 8Ω1w
+DESCRIPTION
+Technology:Electromagnetic Frequency Range:1.65kHz~10kHz Frequency Range:1.65kHz~10kHz Impedance:8Ω Resonant Frequency:1.65kHz Rated Power:1W Sound Pressure Level(SPL):88dB Diameter(φD):23mm Height:8mm Operating Temperature:-20℃~+60℃ Operating Temperature
+Component Kind
+Standard
+LCSC Part Name
+2308插针喇叭8欧1瓦带腔
+Supplier Part
+C49304674
+Manufacturer
+S&S(海旭)
+Manufacturer Part
+2308 8Ω1w
+Supplier Footprint
+插件,D23xL8mm
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://item.szlcsc.com/datasheet/2308%25208%25CE%25A91w/51765047.html
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+SPK-TH_BD23.0-P10.00-D0.8-L-RD
+Technology
+Electromagnetic
+Frequency Range
+1.65kHz~10kHz
+Impedance
+8Ω
+Resonant Frequency
+1.65kHz
+Rated Power
+1W
+Sound Pressure Level(SPL)
+88dB
+Diameter(φD)
+23mm
+Height
+8mm
+Operating Temperature
+-20℃~+60℃
+Lead Pitch
+10mm
+Description
+Technology:Electromagnetic Frequency Range:1.65kHz~10kHz Frequency Range:1.65kHz~10kHz Impedance:8Ω Resonant Frequency:1.65kHz Rated Power:1W Sound Pressure Level(SPL):88dB Diameter(φD):23mm Height:8mm Operating Temperature:-20℃~+60℃ Operating Temperature
+Symbol
+2308 8Ω1W
+Designator
+SPK1
+Name
+2308 8Ω1w
+Device
+2308 8Ω1w
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge122
+
+*
+]
+[
+DESIGNATOR
+U2
+FOOTPRINT
+MSOP-8_L3.0-W3.0-P0.65-LS5.0-BL
+PARTTYPE
+PAM8302AASCR
+DESCRIPTION
+Class:Class D Speaker Channels:1-Channel Output Power:2.5Wx1@4Ω Voltage - Supply:2V~5.5V Voltage - Supply:2V~5.5V Total Harmonic Distortion + Noise (THD+N):0.3% Quiescent Current:4mA Operating Temperature:-40℃~+85℃ Operating Temperature:-40℃~+85℃ Signal-t
+Component Kind
+Standard
+LCSC Part Name
+2.5W单声道D类音频功率放大器
+Supplier Part
+C113367
+Manufacturer
+DIODES(美台)
+Manufacturer Part
+PAM8302AASCR
+Supplier Footprint
+MSOP-8
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://item.szlcsc.com/datasheet/PAM8302AASCR/114602.html
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+MSOP-8_L3.0-W3.0-P0.65-LS5.0-BL
+Class
+Class D
+Speaker Channels
+1-Channel
+Output Power
+2.5Wx1@4Ω
+Voltage - Supply
+2V~5.5V
+Total Harmonic Distortion + Noise (THD+N)
+0.3%
+Quiescent Current
+4mA
+Operating Temperature
+-40℃~+85℃
+Signal-to-Noise Ratio
+80dB
+Power Supply Rejection Ratio (PSRR)
+50dB
+Efficiency
+85%
+Description
+Class:Class D Speaker Channels:1-Channel Output Power:2.5Wx1@4Ω Voltage - Supply:2V~5.5V Voltage - Supply:2V~5.5V Total Harmonic Distortion + Noise (THD+N):0.3% Quiescent Current:4mA Operating Temperature:-40℃~+85℃ Operating Temperature:-40℃~+85℃ Signal-t
+Symbol
+PAM8302AASCR
+Designator
+U2
+Name
+PAM8302AASCR
+Device
+PAM8302AASCR
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge123
+
+*
+]
+[
+DESIGNATOR
+C1
+FOOTPRINT
+C0603
+PARTTYPE
+CGA0603X7R104K500JT
+DESCRIPTION
+Capacitance:100nF Tolerance:±10% Tolerance:±10% Voltage Rating:50V Temperature Coefficient:X7R
+Component Kind
+Standard
+LCSC Part Name
+100nF ±10% 50V
+Supplier Part
+C6119867
+Manufacturer
+HRE(芯声)
+Manufacturer Part
+CGA0603X7R104K500JT
+Supplier Footprint
+0603
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://item.szlcsc.com/datasheet/CGA0603X7R104K500JT/7062573.html
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+C0603_L1.6-W0.8-H0.8
+Value
+100nF
+Tolerance
+±10%
+Voltage Rating
+50V
+Temperature Coefficient
+X7R
+Description
+Capacitance:100nF Tolerance:±10% Tolerance:±10% Voltage Rating:50V Temperature Coefficient:X7R
+Symbol
+CGA0603X7R104K500JT
+Designator
+C1
+Name
+100nF
+Device
+CGA0603X7R104K500JT
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge124
+
+*
+]
+[
+DESIGNATOR
+R1
+FOOTPRINT
+R0603
+PARTTYPE
+FRC0603J102 TS
+DESCRIPTION
+Type:Thick Film Resistor Resistance:1kΩ Tolerance:±5% Tolerance:±5% Power(Watts):100mW Voltage-Supply(Max):75V Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃
+Component Kind
+Standard
+LCSC Part Name
+1kΩ ±5% 100mW 厚膜电阻
+Supplier Part
+C2907113
+Manufacturer
+FOJAN(富捷)
+Manufacturer Part
+FRC0603J102 TS
+Supplier Footprint
+0603
+JLCPCB Part Class
+Extended Part
+Datasheet
+
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+R0603
+Type
+Thick Film Resistor
+Value
+1kΩ
+Tolerance
+±5%
+Power(Watts)
+100mW
+Voltage-Supply(Max)
+75V
+Temperature Coefficient
+±100ppm/℃
+Operating Temperature
+-55℃~+155℃
+Description
+Type:Thick Film Resistor Resistance:1kΩ Tolerance:±5% Tolerance:±5% Power(Watts):100mW Voltage-Supply(Max):75V Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃
+Symbol
+FRC0603J102 TS
+Designator
+R1
+Name
+1kΩ
+Device
+FRC0603J102 TS
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge125
+
+*
+]
+[
+DESIGNATOR
+C2
+FOOTPRINT
+C0603
+PARTTYPE
+CGA0603X7R104K500JT
+DESCRIPTION
+Capacitance:100nF Tolerance:±10% Tolerance:±10% Voltage Rating:50V Temperature Coefficient:X7R
+Component Kind
+Standard
+LCSC Part Name
+100nF ±10% 50V
+Supplier Part
+C6119867
+Manufacturer
+HRE(芯声)
+Manufacturer Part
+CGA0603X7R104K500JT
+Supplier Footprint
+0603
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://item.szlcsc.com/datasheet/CGA0603X7R104K500JT/7062573.html
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+C0603_L1.6-W0.8-H0.8
+Value
+100nF
+Tolerance
+±10%
+Voltage Rating
+50V
+Temperature Coefficient
+X7R
+Description
+Capacitance:100nF Tolerance:±10% Tolerance:±10% Voltage Rating:50V Temperature Coefficient:X7R
+Symbol
+CGA0603X7R104K500JT
+Designator
+C2
+Name
+100nF
+Device
+CGA0603X7R104K500JT
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge126
+
+*
+]
+[
+DESIGNATOR
+C3
+FOOTPRINT
+C0603
+PARTTYPE
+CGA0603X5R105K500JT
+DESCRIPTION
+Capacitance:1uF Tolerance:±10% Tolerance:±10% Voltage Rating:50V Temperature Coefficient:X5R
+Component Kind
+Standard
+LCSC Part Name
+1uF ±10% 50V
+Supplier Part
+C6119852
+Manufacturer
+HRE(芯声)
+Manufacturer Part
+CGA0603X5R105K500JT
+Supplier Footprint
+0603
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://item.szlcsc.com/datasheet/CGA0603X5R105K500JT/7062558.html
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+C0603_L1.6-W0.8-H0.8
+Value
+1uF
+Tolerance
+±10%
+Voltage Rating
+50V
+Temperature Coefficient
+X5R
+Description
+Capacitance:1uF Tolerance:±10% Tolerance:±10% Voltage Rating:50V Temperature Coefficient:X5R
+Symbol
+CGA0603X5R105K500JT
+Designator
+C3
+Name
+1uF
+Device
+CGA0603X5R105K500JT
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge127
+
+*
+]
+[
+DESIGNATOR
+C4
+FOOTPRINT
+C0603
+PARTTYPE
+CGA0603X5R106K100JT
+DESCRIPTION
+Capacitance:10uF Tolerance:±10% Tolerance:±10% Voltage Rating:10V Temperature Coefficient:X5R
+Component Kind
+Standard
+LCSC Part Name
+10uF ±10% 10V
+Supplier Part
+C6119842
+Manufacturer
+HRE(芯声)
+Manufacturer Part
+CGA0603X5R106K100JT
+Supplier Footprint
+0603
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://item.szlcsc.com/datasheet/CGA0603X5R106K100JT/7062548.html
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+C0603_L1.6-W0.8-H0.8
+Value
+10uF
+Tolerance
+±10%
+Voltage Rating
+10V
+Temperature Coefficient
+X5R
+Description
+Capacitance:10uF Tolerance:±10% Tolerance:±10% Voltage Rating:10V Temperature Coefficient:X5R
+Symbol
+CGA0603X5R106K100JT
+Designator
+C4
+Name
+10uF
+Device
+CGA0603X5R106K100JT
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge128
+
+*
+]
+[
+DESIGNATOR
+R4
+FOOTPRINT
+R0603
+PARTTYPE
+FRC0603J104 TS
+DESCRIPTION
+Type:Thick Film Resistor Resistance:100kΩ Tolerance:±5% Tolerance:±5% Power(Watts):100mW Voltage-Supply(Max):75V Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃
+Component Kind
+Standard
+LCSC Part Name
+100kΩ ±5% 100mW 厚膜电阻
+Supplier Part
+C2907088
+Manufacturer
+FOJAN(富捷)
+Manufacturer Part
+FRC0603J104 TS
+Supplier Footprint
+0603
+JLCPCB Part Class
+Extended Part
+Datasheet
+
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+R0603
+Type
+Thick Film Resistor
+Value
+100kΩ
+Tolerance
+±5%
+Power(Watts)
+100mW
+Voltage-Supply(Max)
+75V
+Temperature Coefficient
+±100ppm/℃
+Operating Temperature
+-55℃~+155℃
+Description
+Type:Thick Film Resistor Resistance:100kΩ Tolerance:±5% Tolerance:±5% Power(Watts):100mW Voltage-Supply(Max):75V Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃
+Symbol
+FRC0603J104 TS
+Designator
+R4
+Name
+100kΩ
+Device
+FRC0603J104 TS
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge133
+
+*
+]
+[
+DESIGNATOR
+Q1
+FOOTPRINT
+SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR
+PARTTYPE
+MMBT3906_C5805820
+DESCRIPTION
+type: Current - Collector(Ic):200mA Collector - Emitter Voltage VCEO:40V Pd - Power Dissipation: DC Current Gain:100@10mA,1V DC Current Gain:100@10mA,1V
+Component Kind
+Standard
+LCSC Part Name
+MMBT3906
+Supplier Part
+C5805820
+Manufacturer
+XZT(信展通)
+Manufacturer Part
+MMBT3906
+Supplier Footprint
+SOT-23
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://atta.szlcsc.com/upload/public/pdf/source/20230629/EDFB7D33DCE814F5A1700CFD3253DE4B.pdf
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+SOT-23-3P_L2.9-W1.3-H1.0-LS2.4-P0.95
+type
+
+Current - Collector(Ic)
+200mA
+Collector - Emitter Voltage VCEO
+40V
+Pd - Power Dissipation
+
+DC Current Gain
+100@10mA,1V
+Description
+type: Current - Collector(Ic):200mA Collector - Emitter Voltage VCEO:40V Pd - Power Dissipation: DC Current Gain:100@10mA,1V DC Current Gain:100@10mA,1V
+Symbol
+MMBT3906_C5805820
+Designator
+Q1
+Name
+MMBT3906
+Device
+MMBT3906_C5805820
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge130
+
+*
+]
+[
+DESIGNATOR
+R2
+FOOTPRINT
+R0603
+PARTTYPE
+FRC0603F1002TS
+DESCRIPTION
+Type:Thick Film Resistor Resistance:10kΩ Tolerance:±1% Tolerance:±1% Power(Watts):100mW Voltage-Supply(Max):75V Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃
+Component Kind
+Standard
+LCSC Part Name
+10kΩ ±1% 100mW 厚膜电阻
+Supplier Part
+C2906982
+Manufacturer
+FOJAN(富捷)
+Manufacturer Part
+FRC0603F1002TS
+Supplier Footprint
+0603
+JLCPCB Part Class
+Extended Part
+Datasheet
+
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+R0603
+Type
+Thick Film Resistor
+Value
+10kΩ
+Tolerance
+±1%
+Power(Watts)
+100mW
+Voltage-Supply(Max)
+75V
+Temperature Coefficient
+±100ppm/℃
+Operating Temperature
+-55℃~+155℃
+Description
+Type:Thick Film Resistor Resistance:10kΩ Tolerance:±1% Tolerance:±1% Power(Watts):100mW Voltage-Supply(Max):75V Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃
+Symbol
+FRC0603F1002TS
+Designator
+R2
+Name
+10kΩ
+Device
+FRC0603F1002TS
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge131
+
+*
+]
+[
+DESIGNATOR
+R3
+FOOTPRINT
+R0603
+PARTTYPE
+FRC0603J104 TS
+DESCRIPTION
+Type:Thick Film Resistor Resistance:100kΩ Tolerance:±5% Tolerance:±5% Power(Watts):100mW Voltage-Supply(Max):75V Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃
+Component Kind
+Standard
+LCSC Part Name
+100kΩ ±5% 100mW 厚膜电阻
+Supplier Part
+C2907088
+Manufacturer
+FOJAN(富捷)
+Manufacturer Part
+FRC0603J104 TS
+Supplier Footprint
+0603
+JLCPCB Part Class
+Extended Part
+Datasheet
+
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+R0603
+Type
+Thick Film Resistor
+Value
+100kΩ
+Tolerance
+±5%
+Power(Watts)
+100mW
+Voltage-Supply(Max)
+75V
+Temperature Coefficient
+±100ppm/℃
+Operating Temperature
+-55℃~+155℃
+Description
+Type:Thick Film Resistor Resistance:100kΩ Tolerance:±5% Tolerance:±5% Power(Watts):100mW Voltage-Supply(Max):75V Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃
+Symbol
+FRC0603J104 TS
+Designator
+R3
+Name
+100kΩ
+Device
+FRC0603J104 TS
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge132
+
+*
+]
+[
+DESIGNATOR
+U4
+FOOTPRINT
+HDR-TH_14P-P2.54-V-F
+PARTTYPE
+KH-2.54FH-1X14P-H8.5
+DESCRIPTION
+Holes Structure:1x14P Pitch:2.54mm Row Spacing:- Circular Hole / Square Hole:Square Hole Mounting Type:Through Hole Number of Rows:1 Number of Positions:14P Current Rating:3A Voltage Rating (Max):- Holes Direction:Top Insulation Height:8.5mm Operating Tem
+Component Kind
+Standard
+Supplier
+LCSC
+Supplier Part
+C2905420
+Manufacturer
+kinghelm(金航标)
+Manufacturer Part
+KH-2.54FH-1X14P-H8.5
+JLCPCB Part Class
+Extended Part
+LCSC Part Name
+间距:2.54mm 1x14P 直插
+Supplier Footprint
+插件,P=2.54mm
+Datasheet
+https://item.szlcsc.com/datasheet/KH-2.54FH-1X14P-H8.5/3175194.html
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+HDR-TH_14P-P2.54-V-F
+Holes Structure
+1x14P
+Pitch
+2.54mm
+Row Spacing
+-
+Circular Hole / Square Hole
+Square Hole
+Mounting Type
+Through Hole
+Number of Rows
+1
+Number of Positions
+14P
+Current Rating
+3A
+Voltage Rating (Max)
+-
+Holes Direction
+Top
+Insulation Height
+8.5mm
+Operating Temperature
+-40℃~+105℃
+Description
+Holes Structure:1x14P Pitch:2.54mm Row Spacing:- Circular Hole / Square Hole:Square Hole Mounting Type:Through Hole Number of Rows:1 Number of Positions:14P Current Rating:3A Voltage Rating (Max):- Holes Direction:Top Insulation Height:8.5mm Operating Tem
+Symbol
+KH-2.54FH-1X14P-H8.5
+Designator
+U4
+Name
+KH-2.54FH-1X14P-H8.5
+Device
+KH-2.54FH-1X14P-H8.5
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge134
+
+*
+]
+(
+C0 
+U1-1 ColorEasyPico2-RP2350-G00 Passive 
+D1-2 1N4148_C18195411-C Passive 
+D2-2 1N4148_C18195411-C Passive 
+D4-2 1N4148_C18195411-C Passive 
+D3-2 1N4148_C18195411-C Passive 
+D6-2 1N4148_C18195411-C Passive 
+D5-2 1N4148_C18195411-C Passive 
+)
+(
+C1 
+U1-2 ColorEasyPico2-RP2350-G01 Passive 
+D11-2 1N4148_C18195411-C Passive 
+D12-2 1N4148_C18195411-C Passive 
+D10-2 1N4148_C18195411-C Passive 
+D9-2 1N4148_C18195411-C Passive 
+D7-2 1N4148_C18195411-C Passive 
+D8-2 1N4148_C18195411-C Passive 
+)
+(
+GND 
+U1-3 ColorEasyPico2-RP2350-GND Passive 
+U1-8 ColorEasyPico2-RP2350-GND Passive 
+U1-13 ColorEasyPico2-RP2350-GND Passive 
+U1-18 ColorEasyPico2-RP2350-GND Passive 
+U1-23 ColorEasyPico2-RP2350-GND Passive 
+U1-28 ColorEasyPico2-RP2350-GND Passive 
+U1-33 ColorEasyPico2-RP2350-GND Passive 
+U1-38 ColorEasyPico2-RP2350-GND Passive 
+U2-7 PAM8302AASCR-GND Passive 
+C2-2 CGA0603X7R104K500JT-2 Passive 
+C3-2 CGA0603X5R105K500JT-2 Passive 
+C4-2 CGA0603X5R106K100JT-2 Passive 
+R4-1 FRC0603J104 TS-1 Passive 
+U4-2 KH-2.54FH-1X14P-H8.5-2 Input   
+)
+(
+C2 
+U1-4 ColorEasyPico2-RP2350-G02 Passive 
+D13-2 1N4148_C18195411-C Passive 
+D14-2 1N4148_C18195411-C Passive 
+D15-2 1N4148_C18195411-C Passive 
+D17-2 1N4148_C18195411-C Passive 
+)
+(
+C3 
+U1-5 ColorEasyPico2-RP2350-G03 Passive 
+D19-2 1N4148_C18195411-C Passive 
+D20-2 1N4148_C18195411-C Passive 
+D21-2 1N4148_C18195411-C Passive 
+D22-2 1N4148_C18195411-C Passive 
+D23-2 1N4148_C18195411-C Passive 
+D24-2 1N4148_C18195411-C Passive 
+)
+(
+C4 
+U1-6 ColorEasyPico2-RP2350-G04 Passive 
+D25-2 1N4148_C18195411-C Passive 
+D26-2 1N4148_C18195411-C Passive 
+D27-2 1N4148_C18195411-C Passive 
+D28-2 1N4148_C18195411-C Passive 
+D29-2 1N4148_C18195411-C Passive 
+D30-2 1N4148_C18195411-C Passive 
+)
+(
+C5 
+U1-7 ColorEasyPico2-RP2350-G05 Passive 
+D31-2 1N4148_C18195411-C Passive 
+D32-2 1N4148_C18195411-C Passive 
+D33-2 1N4148_C18195411-C Passive 
+D34-2 1N4148_C18195411-C Passive 
+D35-2 1N4148_C18195411-C Passive 
+D36-2 1N4148_C18195411-C Passive 
+)
+(
+C6 
+U1-9 ColorEasyPico2-RP2350-G06 Passive 
+D37-2 1N4148_C18195411-C Passive 
+D38-2 1N4148_C18195411-C Passive 
+D39-2 1N4148_C18195411-C Passive 
+D40-2 1N4148_C18195411-C Passive 
+D41-2 1N4148_C18195411-C Passive 
+D42-2 1N4148_C18195411-C Passive 
+)
+(
+C7 
+U1-10 ColorEasyPico2-RP2350-G07 Passive 
+D43-2 1N4148_C18195411-C Passive 
+D44-2 1N4148_C18195411-C Passive 
+D45-2 1N4148_C18195411-C Passive 
+D46-2 1N4148_C18195411-C Passive 
+D47-2 1N4148_C18195411-C Passive 
+D48-2 1N4148_C18195411-C Passive 
+)
+(
+C8 
+U1-11 ColorEasyPico2-RP2350-G08 Passive 
+D49-2 1N4148_C18195411-C Passive 
+D50-2 1N4148_C18195411-C Passive 
+D51-2 1N4148_C18195411-C Passive 
+D52-2 1N4148_C18195411-C Passive 
+D53-2 1N4148_C18195411-C Passive 
+D54-2 1N4148_C18195411-C Passive 
+)
+(
+C9 
+U1-12 ColorEasyPico2-RP2350-G09 Passive 
+D55-2 1N4148_C18195411-C Passive 
+D56-2 1N4148_C18195411-C Passive 
+D57-2 1N4148_C18195411-C Passive 
+D58-2 1N4148_C18195411-C Passive 
+D59-2 1N4148_C18195411-C Passive 
+D60-2 1N4148_C18195411-C Passive 
+)
+(
+R0 
+U1-14 ColorEasyPico2-RP2350-G10 Passive 
+SW1-1 TS-1095PS-A1B2-C3D2-1 Input   
+SW1-2 TS-1095PS-A1B2-C3D2-2 Input   
+SW7-1 TS-1095PS-A1B2-C3D2-1 Input   
+SW7-2 TS-1095PS-A1B2-C3D2-2 Input   
+SW19-1 TS-1095PS-A1B2-C3D2-1 Input   
+SW19-2 TS-1095PS-A1B2-C3D2-2 Input   
+SW13-1 TS-1095PS-A1B2-C3D2-1 Input   
+SW13-2 TS-1095PS-A1B2-C3D2-2 Input   
+SW25-1 TS-1095PS-A1B2-C3D2-1 Input   
+SW25-2 TS-1095PS-A1B2-C3D2-2 Input   
+SW49-1 TS-1095PS-A1B2-C3D2-1 Input   
+SW49-2 TS-1095PS-A1B2-C3D2-2 Input   
+SW55-1 TS-1095PS-A1B2-C3D2-1 Input   
+SW55-2 TS-1095PS-A1B2-C3D2-2 Input   
+SW43-1 TS-1095PS-A1B2-C3D2-1 Input   
+SW43-2 TS-1095PS-A1B2-C3D2-2 Input   
+SW37-1 TS-1095PS-A1B2-C3D2-1 Input   
+SW37-2 TS-1095PS-A1B2-C3D2-2 Input   
+SW31-1 TS-1095PS-A1B2-C3D2-1 Input   
+SW31-2 TS-1095PS-A1B2-C3D2-2 Input   
+)
+(
+R1 
+U1-15 ColorEasyPico2-RP2350-G11 Passive 
+SW2-1 TS-1095PS-A1B2-C3D2-1 Input   
+SW2-2 TS-1095PS-A1B2-C3D2-2 Input   
+SW8-1 TS-1095PS-A1B2-C3D2-1 Input   
+SW8-2 TS-1095PS-A1B2-C3D2-2 Input   
+SW14-1 TS-1095PS-A1B2-C3D2-1 Input   
+SW14-2 TS-1095PS-A1B2-C3D2-2 Input   
+SW20-1 TS-1095PS-A1B2-C3D2-1 Input   
+SW20-2 TS-1095PS-A1B2-C3D2-2 Input   
+SW26-1 TS-1095PS-A1B2-C3D2-1 Input   
+SW26-2 TS-1095PS-A1B2-C3D2-2 Input   
+SW56-1 TS-1095PS-A1B2-C3D2-1 Input   
+SW56-2 TS-1095PS-A1B2-C3D2-2 Input   
+SW50-1 TS-1095PS-A1B2-C3D2-1 Input   
+SW50-2 TS-1095PS-A1B2-C3D2-2 Input   
+SW44-1 TS-1095PS-A1B2-C3D2-1 Input   
+SW44-2 TS-1095PS-A1B2-C3D2-2 Input   
+SW38-1 TS-1095PS-A1B2-C3D2-1 Input   
+SW38-2 TS-1095PS-A1B2-C3D2-2 Input   
+SW32-1 TS-1095PS-A1B2-C3D2-1 Input   
+SW32-2 TS-1095PS-A1B2-C3D2-2 Input   
+)
+(
+R2 
+U1-16 ColorEasyPico2-RP2350-G12 Passive 
+SW3-1 TS-1095PS-A1B2-C3D2-1 Input   
+SW3-2 TS-1095PS-A1B2-C3D2-2 Input   
+SW9-1 TS-1095PS-A1B2-C3D2-1 Input   
+SW9-2 TS-1095PS-A1B2-C3D2-2 Input   
+SW15-1 TS-1095PS-A1B2-C3D2-1 Input   
+SW15-2 TS-1095PS-A1B2-C3D2-2 Input   
+SW21-1 TS-1095PS-A1B2-C3D2-1 Input   
+SW21-2 TS-1095PS-A1B2-C3D2-2 Input   
+SW27-1 TS-1095PS-A1B2-C3D2-1 Input   
+SW27-2 TS-1095PS-A1B2-C3D2-2 Input   
+SW57-1 TS-1095PS-A1B2-C3D2-1 Input   
+SW57-2 TS-1095PS-A1B2-C3D2-2 Input   
+SW51-1 TS-1095PS-A1B2-C3D2-1 Input   
+SW51-2 TS-1095PS-A1B2-C3D2-2 Input   
+SW45-1 TS-1095PS-A1B2-C3D2-1 Input   
+SW45-2 TS-1095PS-A1B2-C3D2-2 Input   
+SW39-1 TS-1095PS-A1B2-C3D2-1 Input   
+SW39-2 TS-1095PS-A1B2-C3D2-2 Input   
+SW33-1 TS-1095PS-A1B2-C3D2-1 Input   
+SW33-2 TS-1095PS-A1B2-C3D2-2 Input   
+)
+(
+R3 
+U1-17 ColorEasyPico2-RP2350-G13 Passive 
+SW4-1 TS-1095PS-A1B2-C3D2-1 Input   
+SW4-2 TS-1095PS-A1B2-C3D2-2 Input   
+SW10-1 TS-1095PS-A1B2-C3D2-1 Input   
+SW10-2 TS-1095PS-A1B2-C3D2-2 Input   
+SW22-1 TS-1095PS-A1B2-C3D2-1 Input   
+SW22-2 TS-1095PS-A1B2-C3D2-2 Input   
+SW28-1 TS-1095PS-A1B2-C3D2-1 Input   
+SW28-2 TS-1095PS-A1B2-C3D2-2 Input   
+SW58-1 TS-1095PS-A1B2-C3D2-1 Input   
+SW58-2 TS-1095PS-A1B2-C3D2-2 Input   
+SW52-1 TS-1095PS-A1B2-C3D2-1 Input   
+SW52-2 TS-1095PS-A1B2-C3D2-2 Input   
+SW46-1 TS-1095PS-A1B2-C3D2-1 Input   
+SW46-2 TS-1095PS-A1B2-C3D2-2 Input   
+SW40-1 TS-1095PS-A1B2-C3D2-1 Input   
+SW40-2 TS-1095PS-A1B2-C3D2-2 Input   
+SW34-1 TS-1095PS-A1B2-C3D2-1 Input   
+SW34-2 TS-1095PS-A1B2-C3D2-2 Input   
+)
+(
+R4 
+U1-19 ColorEasyPico2-RP2350-G14 Passive 
+SW5-1 TS-1095PS-A1B2-C3D2-1 Input   
+SW5-2 TS-1095PS-A1B2-C3D2-2 Input   
+SW11-1 TS-1095PS-A1B2-C3D2-1 Input   
+SW11-2 TS-1095PS-A1B2-C3D2-2 Input   
+SW23-1 TS-1095PS-A1B2-C3D2-1 Input   
+SW23-2 TS-1095PS-A1B2-C3D2-2 Input   
+SW17-1 TS-1095PS-A1B2-C3D2-1 Input   
+SW17-2 TS-1095PS-A1B2-C3D2-2 Input   
+SW29-1 TS-1095PS-A1B2-C3D2-1 Input   
+SW29-2 TS-1095PS-A1B2-C3D2-2 Input   
+SW59-1 TS-1095PS-A1B2-C3D2-1 Input   
+SW59-2 TS-1095PS-A1B2-C3D2-2 Input   
+SW53-1 TS-1095PS-A1B2-C3D2-1 Input   
+SW53-2 TS-1095PS-A1B2-C3D2-2 Input   
+SW41-1 TS-1095PS-A1B2-C3D2-1 Input   
+SW41-2 TS-1095PS-A1B2-C3D2-2 Input   
+SW47-1 TS-1095PS-A1B2-C3D2-1 Input   
+SW47-2 TS-1095PS-A1B2-C3D2-2 Input   
+SW35-1 TS-1095PS-A1B2-C3D2-1 Input   
+SW35-2 TS-1095PS-A1B2-C3D2-2 Input   
+)
+(
+R5 
+U1-20 ColorEasyPico2-RP2350-G15 Passive 
+SW6-1 TS-1095PS-A1B2-C3D2-1 Input   
+SW6-2 TS-1095PS-A1B2-C3D2-2 Input   
+SW12-1 TS-1095PS-A1B2-C3D2-1 Input   
+SW12-2 TS-1095PS-A1B2-C3D2-2 Input   
+SW24-1 TS-1095PS-A1B2-C3D2-1 Input   
+SW24-2 TS-1095PS-A1B2-C3D2-2 Input   
+SW30-1 TS-1095PS-A1B2-C3D2-1 Input   
+SW30-2 TS-1095PS-A1B2-C3D2-2 Input   
+SW60-1 TS-1095PS-A1B2-C3D2-1 Input   
+SW60-2 TS-1095PS-A1B2-C3D2-2 Input   
+SW54-1 TS-1095PS-A1B2-C3D2-1 Input   
+SW54-2 TS-1095PS-A1B2-C3D2-2 Input   
+SW48-1 TS-1095PS-A1B2-C3D2-1 Input   
+SW48-2 TS-1095PS-A1B2-C3D2-2 Input   
+SW42-1 TS-1095PS-A1B2-C3D2-1 Input   
+SW42-2 TS-1095PS-A1B2-C3D2-2 Input   
+SW36-1 TS-1095PS-A1B2-C3D2-1 Input   
+SW36-2 TS-1095PS-A1B2-C3D2-2 Input   
+)
+(
+AMPGPIO 
+U1-21 ColorEasyPico2-RP2350-G16 Passive 
+U2-1 PAM8302AASCR-SD# Passive 
+R4-2 FRC0603J104 TS-2 Passive 
+)
+(
+INPLUS 
+U1-22 ColorEasyPico2-RP2350-G17 Passive 
+R1-2 FRC0603J102 TS-2 Passive 
+)
+(
+SCK 
+U1-24 ColorEasyPico2-RP2350-G18 Passive 
+U4-7 KH-2.54FH-1X14P-H8.5-7 Input   
+)
+(
+MOSI 
+U1-25 ColorEasyPico2-RP2350-G19 Passive 
+U4-6 KH-2.54FH-1X14P-H8.5-6 Input   
+)
+(
+MISO 
+U1-26 ColorEasyPico2-RP2350-G20 Passive 
+U4-9 KH-2.54FH-1X14P-H8.5-9 Input   
+)
+(
+CS 
+U1-27 ColorEasyPico2-RP2350-G21 Passive 
+U4-3 KH-2.54FH-1X14P-H8.5-3 Input   
+)
+(
+DC 
+U1-29 ColorEasyPico2-RP2350-G22 Passive 
+U4-5 KH-2.54FH-1X14P-H8.5-5 Input   
+)
+(
+RST 
+U1-31 ColorEasyPico2-RP2350-G26 Passive 
+U4-4 KH-2.54FH-1X14P-H8.5-4 Input   
+)
+(
+BL_GPIO 
+U1-34 ColorEasyPico2-RP2350-G28 Passive 
+R2-2 FRC0603F1002TS-2 Passive 
+)
+(
+3V3 
+U1-36 ColorEasyPico2-RP2350-3V3 Passive 
+U2-6 PAM8302AASCR-VDD Passive 
+C3-1 CGA0603X5R105K500JT-1 Passive 
+C4-1 CGA0603X5R106K100JT-1 Passive 
+Q1-2 MMBT3906_C5805820-E Passive 
+R3-2 FRC0603J104 TS-2 Passive 
+U4-1 KH-2.54FH-1X14P-H8.5-1 Input   
+)
+(
+$1N8407 
+SW1-3 TS-1095PS-A1B2-C3D2-3 Input   
+SW1-4 TS-1095PS-A1B2-C3D2-4 Input   
+D1-1 1N4148_C18195411-A Passive 
+)
+(
+$1N10171 
+SW2-3 TS-1095PS-A1B2-C3D2-3 Input   
+SW2-4 TS-1095PS-A1B2-C3D2-4 Input   
+D2-1 1N4148_C18195411-A Passive 
+)
+(
+$1N10284 
+SW3-3 TS-1095PS-A1B2-C3D2-3 Input   
+SW3-4 TS-1095PS-A1B2-C3D2-4 Input   
+D3-1 1N4148_C18195411-A Passive 
+)
+(
+$1N10276 
+SW4-3 TS-1095PS-A1B2-C3D2-3 Input   
+SW4-4 TS-1095PS-A1B2-C3D2-4 Input   
+D4-1 1N4148_C18195411-A Passive 
+)
+(
+$1N10398 
+SW5-3 TS-1095PS-A1B2-C3D2-3 Input   
+SW5-4 TS-1095PS-A1B2-C3D2-4 Input   
+D5-1 1N4148_C18195411-A Passive 
+)
+(
+$1N10390 
+SW6-3 TS-1095PS-A1B2-C3D2-3 Input   
+SW6-4 TS-1095PS-A1B2-C3D2-4 Input   
+D6-1 1N4148_C18195411-A Passive 
+)
+(
+$1N11044 
+SW12-3 TS-1095PS-A1B2-C3D2-3 Input   
+SW12-4 TS-1095PS-A1B2-C3D2-4 Input   
+D12-1 1N4148_C18195411-A Passive 
+)
+(
+$1N11038 
+SW11-3 TS-1095PS-A1B2-C3D2-3 Input   
+SW11-4 TS-1095PS-A1B2-C3D2-4 Input   
+D11-1 1N4148_C18195411-A Passive 
+)
+(
+$1N11054 
+SW10-3 TS-1095PS-A1B2-C3D2-3 Input   
+SW10-4 TS-1095PS-A1B2-C3D2-4 Input   
+D10-1 1N4148_C18195411-A Passive 
+)
+(
+$1N11066 
+SW8-3 TS-1095PS-A1B2-C3D2-3 Input   
+SW8-4 TS-1095PS-A1B2-C3D2-4 Input   
+D8-1 1N4148_C18195411-A Passive 
+)
+(
+$1N11060 
+SW9-3 TS-1095PS-A1B2-C3D2-3 Input   
+SW9-4 TS-1095PS-A1B2-C3D2-4 Input   
+D9-1 1N4148_C18195411-A Passive 
+)
+(
+$1N11072 
+SW7-3 TS-1095PS-A1B2-C3D2-3 Input   
+SW7-4 TS-1095PS-A1B2-C3D2-4 Input   
+D7-1 1N4148_C18195411-A Passive 
+)
+(
+$1N11626 
+SW24-3 TS-1095PS-A1B2-C3D2-3 Input   
+SW24-4 TS-1095PS-A1B2-C3D2-4 Input   
+D24-1 1N4148_C18195411-A Passive 
+)
+(
+$1N11620 
+SW23-3 TS-1095PS-A1B2-C3D2-3 Input   
+SW23-4 TS-1095PS-A1B2-C3D2-4 Input   
+D23-1 1N4148_C18195411-A Passive 
+)
+(
+$1N11344 
+SW17-3 TS-1095PS-A1B2-C3D2-3 Input   
+SW17-4 TS-1095PS-A1B2-C3D2-4 Input   
+D17-1 1N4148_C18195411-A Passive 
+)
+(
+$1N11614 
+SW22-3 TS-1095PS-A1B2-C3D2-3 Input   
+SW22-4 TS-1095PS-A1B2-C3D2-4 Input   
+D22-1 1N4148_C18195411-A Passive 
+)
+(
+$1N11326 
+SW14-3 TS-1095PS-A1B2-C3D2-3 Input   
+SW14-4 TS-1095PS-A1B2-C3D2-4 Input   
+D14-1 1N4148_C18195411-A Passive 
+)
+(
+$1N11332 
+SW15-3 TS-1095PS-A1B2-C3D2-3 Input   
+SW15-4 TS-1095PS-A1B2-C3D2-4 Input   
+D15-1 1N4148_C18195411-A Passive 
+)
+(
+$1N11602 
+SW20-3 TS-1095PS-A1B2-C3D2-3 Input   
+SW20-4 TS-1095PS-A1B2-C3D2-4 Input   
+D20-1 1N4148_C18195411-A Passive 
+)
+(
+$1N11608 
+SW21-3 TS-1095PS-A1B2-C3D2-3 Input   
+SW21-4 TS-1095PS-A1B2-C3D2-4 Input   
+D21-1 1N4148_C18195411-A Passive 
+)
+(
+$1N11596 
+SW19-3 TS-1095PS-A1B2-C3D2-3 Input   
+SW19-4 TS-1095PS-A1B2-C3D2-4 Input   
+D19-1 1N4148_C18195411-A Passive 
+)
+(
+$1N11320 
+SW13-3 TS-1095PS-A1B2-C3D2-3 Input   
+SW13-4 TS-1095PS-A1B2-C3D2-4 Input   
+D13-1 1N4148_C18195411-A Passive 
+)
+(
+$1N11890 
+SW28-3 TS-1095PS-A1B2-C3D2-3 Input   
+SW28-4 TS-1095PS-A1B2-C3D2-4 Input   
+D28-1 1N4148_C18195411-A Passive 
+)
+(
+$1N11878 
+SW26-3 TS-1095PS-A1B2-C3D2-3 Input   
+SW26-4 TS-1095PS-A1B2-C3D2-4 Input   
+D26-1 1N4148_C18195411-A Passive 
+)
+(
+$1N11884 
+SW27-3 TS-1095PS-A1B2-C3D2-3 Input   
+SW27-4 TS-1095PS-A1B2-C3D2-4 Input   
+D27-1 1N4148_C18195411-A Passive 
+)
+(
+$1N11902 
+SW30-3 TS-1095PS-A1B2-C3D2-3 Input   
+SW30-4 TS-1095PS-A1B2-C3D2-4 Input   
+D30-1 1N4148_C18195411-A Passive 
+)
+(
+$1N11896 
+SW29-3 TS-1095PS-A1B2-C3D2-3 Input   
+SW29-4 TS-1095PS-A1B2-C3D2-4 Input   
+D29-1 1N4148_C18195411-A Passive 
+)
+(
+$1N11872 
+SW25-3 TS-1095PS-A1B2-C3D2-3 Input   
+SW25-4 TS-1095PS-A1B2-C3D2-4 Input   
+D25-1 1N4148_C18195411-A Passive 
+)
+(
+$1N13270 
+SW58-3 TS-1095PS-A1B2-C3D2-3 Input   
+SW58-4 TS-1095PS-A1B2-C3D2-4 Input   
+D58-1 1N4148_C18195411-A Passive 
+)
+(
+$1N12994 
+SW52-3 TS-1095PS-A1B2-C3D2-3 Input   
+SW52-4 TS-1095PS-A1B2-C3D2-4 Input   
+D52-1 1N4148_C18195411-A Passive 
+)
+(
+$1N13282 
+SW60-3 TS-1095PS-A1B2-C3D2-3 Input   
+SW60-4 TS-1095PS-A1B2-C3D2-4 Input   
+D60-1 1N4148_C18195411-A Passive 
+)
+(
+$1N13006 
+SW54-3 TS-1095PS-A1B2-C3D2-3 Input   
+SW54-4 TS-1095PS-A1B2-C3D2-4 Input   
+D54-1 1N4148_C18195411-A Passive 
+)
+(
+$1N13264 
+SW57-3 TS-1095PS-A1B2-C3D2-3 Input   
+SW57-4 TS-1095PS-A1B2-C3D2-4 Input   
+D57-1 1N4148_C18195411-A Passive 
+)
+(
+$1N13258 
+SW56-3 TS-1095PS-A1B2-C3D2-3 Input   
+SW56-4 TS-1095PS-A1B2-C3D2-4 Input   
+D56-1 1N4148_C18195411-A Passive 
+)
+(
+$1N12982 
+SW50-3 TS-1095PS-A1B2-C3D2-3 Input   
+SW50-4 TS-1095PS-A1B2-C3D2-4 Input   
+D50-1 1N4148_C18195411-A Passive 
+)
+(
+$1N12730 
+SW48-3 TS-1095PS-A1B2-C3D2-3 Input   
+SW48-4 TS-1095PS-A1B2-C3D2-4 Input   
+D48-1 1N4148_C18195411-A Passive 
+)
+(
+$1N12454 
+SW42-3 TS-1095PS-A1B2-C3D2-3 Input   
+SW42-4 TS-1095PS-A1B2-C3D2-4 Input   
+D42-1 1N4148_C18195411-A Passive 
+)
+(
+$1N12718 
+SW46-3 TS-1095PS-A1B2-C3D2-3 Input   
+SW46-4 TS-1095PS-A1B2-C3D2-4 Input   
+D46-1 1N4148_C18195411-A Passive 
+)
+(
+$1N12442 
+SW40-3 TS-1095PS-A1B2-C3D2-3 Input   
+SW40-4 TS-1095PS-A1B2-C3D2-4 Input   
+D40-1 1N4148_C18195411-A Passive 
+)
+(
+$1N13276 
+SW59-3 TS-1095PS-A1B2-C3D2-3 Input   
+SW59-4 TS-1095PS-A1B2-C3D2-4 Input   
+D59-1 1N4148_C18195411-A Passive 
+)
+(
+$1N13000 
+SW53-3 TS-1095PS-A1B2-C3D2-3 Input   
+SW53-4 TS-1095PS-A1B2-C3D2-4 Input   
+D53-1 1N4148_C18195411-A Passive 
+)
+(
+$1N12448 
+SW41-3 TS-1095PS-A1B2-C3D2-3 Input   
+SW41-4 TS-1095PS-A1B2-C3D2-4 Input   
+D41-1 1N4148_C18195411-A Passive 
+)
+(
+$1N12724 
+SW47-3 TS-1095PS-A1B2-C3D2-3 Input   
+SW47-4 TS-1095PS-A1B2-C3D2-4 Input   
+D47-1 1N4148_C18195411-A Passive 
+)
+(
+$1N12988 
+SW51-3 TS-1095PS-A1B2-C3D2-3 Input   
+SW51-4 TS-1095PS-A1B2-C3D2-4 Input   
+D51-1 1N4148_C18195411-A Passive 
+)
+(
+$1N12712 
+SW45-3 TS-1095PS-A1B2-C3D2-3 Input   
+SW45-4 TS-1095PS-A1B2-C3D2-4 Input   
+D45-1 1N4148_C18195411-A Passive 
+)
+(
+$1N12706 
+SW44-3 TS-1095PS-A1B2-C3D2-3 Input   
+SW44-4 TS-1095PS-A1B2-C3D2-4 Input   
+D44-1 1N4148_C18195411-A Passive 
+)
+(
+$1N12430 
+SW38-3 TS-1095PS-A1B2-C3D2-3 Input   
+SW38-4 TS-1095PS-A1B2-C3D2-4 Input   
+D38-1 1N4148_C18195411-A Passive 
+)
+(
+$1N12436 
+SW39-3 TS-1095PS-A1B2-C3D2-3 Input   
+SW39-4 TS-1095PS-A1B2-C3D2-4 Input   
+D39-1 1N4148_C18195411-A Passive 
+)
+(
+$1N12178 
+SW36-3 TS-1095PS-A1B2-C3D2-3 Input   
+SW36-4 TS-1095PS-A1B2-C3D2-4 Input   
+D36-1 1N4148_C18195411-A Passive 
+)
+(
+$1N12172 
+SW35-3 TS-1095PS-A1B2-C3D2-3 Input   
+SW35-4 TS-1095PS-A1B2-C3D2-4 Input   
+D35-1 1N4148_C18195411-A Passive 
+)
+(
+$1N12166 
+SW34-3 TS-1095PS-A1B2-C3D2-3 Input   
+SW34-4 TS-1095PS-A1B2-C3D2-4 Input   
+D34-1 1N4148_C18195411-A Passive 
+)
+(
+$1N12154 
+SW32-3 TS-1095PS-A1B2-C3D2-3 Input   
+SW32-4 TS-1095PS-A1B2-C3D2-4 Input   
+D32-1 1N4148_C18195411-A Passive 
+)
+(
+$1N12160 
+SW33-3 TS-1095PS-A1B2-C3D2-3 Input   
+SW33-4 TS-1095PS-A1B2-C3D2-4 Input   
+D33-1 1N4148_C18195411-A Passive 
+)
+(
+$1N12976 
+SW49-3 TS-1095PS-A1B2-C3D2-3 Input   
+SW49-4 TS-1095PS-A1B2-C3D2-4 Input   
+D49-1 1N4148_C18195411-A Passive 
+)
+(
+$1N13252 
+SW55-3 TS-1095PS-A1B2-C3D2-3 Input   
+SW55-4 TS-1095PS-A1B2-C3D2-4 Input   
+D55-1 1N4148_C18195411-A Passive 
+)
+(
+$1N12700 
+SW43-3 TS-1095PS-A1B2-C3D2-3 Input   
+SW43-4 TS-1095PS-A1B2-C3D2-4 Input   
+D43-1 1N4148_C18195411-A Passive 
+)
+(
+$1N12424 
+SW37-3 TS-1095PS-A1B2-C3D2-3 Input   
+SW37-4 TS-1095PS-A1B2-C3D2-4 Input   
+D37-1 1N4148_C18195411-A Passive 
+)
+(
+$1N12148 
+SW31-3 TS-1095PS-A1B2-C3D2-3 Input   
+SW31-4 TS-1095PS-A1B2-C3D2-4 Input   
+D31-1 1N4148_C18195411-A Passive 
+)
+(
+$1N22901 
+SPK1-2 2308 8Ω1w-- Passive 
+U2-8 PAM8302AASCR-VO- Passive 
+)
+(
+$1N22906 
+SPK1-1 2308 8Ω1w-+ Passive 
+U2-5 PAM8302AASCR-VO+ Output  
+)
+(
+$1N23235 
+U2-4 PAM8302AASCR-IN- Passive 
+C2-1 CGA0603X7R104K500JT-1 Passive 
+)
+(
+$1N23027 
+U2-3 PAM8302AASCR-IN+ Passive 
+C1-1 CGA0603X7R104K500JT-1 Passive 
+)
+(
+$1N23100 
+C1-2 CGA0603X7R104K500JT-2 Passive 
+R1-1 FRC0603J102 TS-1 Passive 
+)
+(
+$1N52039 
+Q1-1 MMBT3906_C5805820-B Passive 
+R2-1 FRC0603F1002TS-1 Passive 
+R3-1 FRC0603J104 TS-1 Passive 
+)
+(
+BL 
+Q1-3 MMBT3906_C5805820-C Passive 
+U4-8 KH-2.54FH-1X14P-H8.5-8 Input   
+)
