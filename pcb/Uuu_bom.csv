@@ -1,4 +1,4 @@
-﻿No.	Quantity	Comment	Designator	Footprint	Value	Manufacturer Part	Manufacturer	Supplier Part	Supplier	LCSC Part Name	JLCPCB Price	LCSC Stock	LCSC Link
+﻿No.	Quantity	Comment	Designator	Footprint	Value	Manufacturer Part	Manufacturer	Supplier Part	Supplier	LCSC Part Name	JLCPCB Price	LCSC Stock	LCSC Purchase Link
 1	2	100nF	C1,C2	C0603	100nF	CGA0603X7R104K500JT	HRE(芯声)	C6119867	LCSC	100nF ±10% 50V	0.0004		https://www.lcsc.com/product-detail/C6119867.html
 2	1	1uF	C3	C0603	1uF	CGA0603X5R105K500JT	HRE(芯声)	C6119852	LCSC	1uF ±10% 50V	0.001		https://www.lcsc.com/product-detail/C6119852.html
 3	1	10uF	C4	C0603	10uF	CGA0603X5R106K100JT	HRE(芯声)	C6119842	LCSC	10uF ±10% 10V	0.0012		https://www.lcsc.com/product-detail/C6119842.html
